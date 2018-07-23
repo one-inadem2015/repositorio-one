@@ -3,141 +3,94 @@
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
+      "tipo": "0"
     },
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
+      "tipo": "1"
     },
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
+      "tipo": "2"
     },
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "true"
+      "tipo": "2"
     },
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
+      "tipo": "2"
     },
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "true"
-    },
-     {
+      "tipo": "0"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "0"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "0"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "true"
-    },
-    {
+      "tipo": "0"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
+      "tipo": "0"
+    },{
+      "titulo": "Esto es un titulo muy muy muy muy muy largo",
+      "url": "www.google.com",
+      "tipo": "0"
     },
     {
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "true"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
-    },
-     {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "false"
-    },
-    {
+      "tipo": "1"
+    },{
       "titulo": "Esto es un titulo muy muy muy muy muy largo",
       "url": "www.google.com",
-      "startup": "true",
-      "scaleup": "true"
+      "tipo": "1"
     },
-    {
-      "titulo": "Esto es un titulo muy muy muy muy muy largo",
-      "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
-    },
-    {
-      "titulo": "Esto es un titulo muy muy muy muy muy largo",
-      "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
-    },
-    {
-      "titulo": "Esto es un titulo muy muy muy muy muy largo",
-      "url": "www.google.com",
-      "startup": "false",
-      "scaleup": "true"
-    }
   ],
   "finanzas" : [
   ],
