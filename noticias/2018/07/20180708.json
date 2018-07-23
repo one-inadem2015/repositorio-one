@@ -1,0 +1,54 @@
+{
+   "noticias": [
+ {
+   "titulo": "OnCloud, la nube mexicana para PyMEs",
+   "autor": "El Universal",
+   "url": "http://www.eluniversal.com.mx/techbit/oncloud-la-nube-mexicana-para-pymes"
+ },
+ {
+   "titulo": "La Cámara Pyme está preocupada por retroceso del sector en Jujuy",
+   "autor": "El Tribuno.com.ar",
+   "url": "https://www.eltribuno.com/jujuy/nota/2018-7-8-0-0-0-la-camara-pyme-esta-preocupada-por-retroceso-del-sector-en-jujuy"
+ },
+ {
+   "titulo": "METODO CIENTIFICO APLICADO AL PLAN ESTRATEGICO MEJORA RESULTADOS EN PYMES",
+   "autor": "LaRepública.pe",
+   "url": "https://larepublica.pe/economia/1274317-metodo-cientifico-aplicado-plan-estrategico-mejora-resultados-pymes"
+ },
+ {
+   "titulo": "El 50% de los empresarios de las pymes tiene más de 60 años",
+   "autor": "LA NACION (Argentina)",
+   "url": "https://www.lanacion.com.ar/2151143-el-50-de-los-empresarios-de-las-pymes-tiene-masde-60-anos"
+ },
+ {
+   "titulo": "Cinco reformas fiscales que tendrán un alto impacto sobre las pymes en la Argentina",
+   "autor": "LA NACION (Argentina)",
+   "url": "https://www.lanacion.com.ar/2151115-cinco-reformas-fiscales-que-tendran-un-alto-impacto-sobre-las-pymes-en-la-argentina"
+ },
+ {
+   "titulo": "Piden hoteleros impulsar a emprendedores turísticos",
+   "autor": "Periódico Zócalo",
+   "url": "http://www.zocalo.com.mx/new_site/articulo/piden-hoteleros-impulsar-a-emprendedores-turisticos"
+ },
+ {
+   "titulo": "¿Qué efectos ha tenido el contrato de apoyo a emprendedores que el Gobierno va a derogar?",
+   "autor": "Libre Mercado",
+   "url": "https://www.libremercado.com/2018-07-08/que-efectos-ha-tenido-el-contrato-de-apoyo-a-emprendedores-que-el-gobierno-va-a-derogar-1276621716/"
+ },
+ {
+   "titulo": "Río Grande: Estudiantes del Colegio República Argentina visitaron la Feria deEmprendedores ...",
+   "autor": "Sur54",
+   "url": "http://www.sur54.com/rio_grande_estudiantes_del_colegio_republica_argentina_visitaron_la_feria_de_emprendedores_sustentables"
+ },
+ {
+   "titulo": "Lanzan proyecto para promover el emprendimiento juvenil",
+   "autor": "La Prensa Gráfica",
+   "url": "https://www.laprensagrafica.com/elsalvador/Lanzan-proyecto-para-promover-el-emprendimiento-juvenil-20180706-0100.html"
+ },
+ {
+   "titulo": "Coquimbo inicia convocatoria para impulsar el emprendimiento e innovación en su región",
+   "autor": "CreceMujer",
+   "url": "https://www.crecemujer.cl/noticia/coquimbo-inicia-convocatoria-para-impulsar-el-emprendimiento-e-innovacion-en-su-region"
+ }
+]
+}

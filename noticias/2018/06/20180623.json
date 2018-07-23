@@ -1,0 +1,54 @@
+{
+  "noticias": [
+    {
+      "titulo": "Tigo Business lanza semana de apoyo a las PYMES",
+      "url": "https://www.elsalvador.com/noticias/493533/tigo-business-lanza-semana-de-apoyo-a-las-pymes/",
+      "autor": " El Diario de Hoy "
+    },
+    {
+      "titulo": "Como pagan Ingresos Brutos las pymes en todo el país",
+      "url": "https://www.cronista.com/columnistas/Como-pagan-Ingresos-Brutos-las-pymes-en-todo-el-pais-20180621-0090.html",
+      "autor": "El Cronista "
+    },
+    {
+      "titulo": "UE crece en innovación aunque reconoce una brecha existente entre países",
+      "url": "http://www.lavanguardia.com/vida/20180622/45322974867/ue-crece-en-innovacion-aunque-reconoce-una-brecha-existente-entre-paises.html",
+      "autor": " La Vanguardia "
+    },
+    {
+      "titulo": "‘Colombia no protege la innovación farmacéutica’ ",
+      "url": "http://www.portafolio.co/negocios/colombia-no-protege-la-innovacion-farmaceutica-518332",
+      "autor": "Portafolio.co"
+    },
+    {
+      "titulo": "La innovación en la RSE",
+      "url": "https://www.larepublica.co/analisis/johan-mauricio-caldas-562051/la-innovacion-en-la-rse-2741230",
+      "autor": " La República "
+    },
+    {
+      "titulo": " Construye Solar 2019 inicia nueva edición enfocada en la innovación y el uso de BIM ",
+      "url": "https://www.archdaily.mx/mx/896910/construye-solar-2019-inicia-nueva-edicion-enfocada-en-la-innovacion-y-el-uso-de-bim",
+      "autor": " Plataforma Arquitectura "
+    },
+    {
+      "titulo": "Para las PyME, “el segundo semestre va a ser más difícil aún”",
+      "url": "http://www.elesquiu.com/nacionales/2018/6/23/para-las-pyme-el-segundo-semestre-va-ser-mas-dificil-aun-289613.html",
+      "autor": " Diario El Esquiu "
+    },
+    {
+      "titulo": "La Oficina para la Innovación de Extremadura, finalista en los premios internacionales de la EURADA",
+      "url": "https://www.20minutos.es/noticia/3375389/0/oficina-para-innovacion-extremadura-finalista-premios-internacionales-eurada/",
+      "autor": " 20minutos.es "
+    },
+    {
+      "titulo": "Luz verde a 23 proyectos de innovación agroalimentaria",
+      "url": "http://www.hoy.es/extremadura/verde-proyectos-innovacion-20180622112255-nt.html",
+      "autor": " Hoy Digital "
+    },
+    {
+      "titulo": " ﻿Carrefour entrega sus Premios a la Innovación ",
+      "url": "https://navarracapital.es/%EF%BB%BFcarrefour-entrega-sus-premios-a-la-innovacion/",
+      "autor": "NavarraCapital.es"
+    }
+  ]
+}

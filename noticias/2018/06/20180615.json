@@ -1,0 +1,203 @@
+ "noticias": [
+    {
+      "titulo": "Préstamos a fondo perdido, ¿qué son y cómo funcionan?",
+      "url": "https://www.entrepreneur.com/article/315097",
+      "autor": "Entrepreneur"
+    },
+    {
+      "titulo": "La igualdad debe estar en el radar, pero el objetivo debe ser la innovación",
+      "url": "https://www.elblogsalmon.com/economia/igualdad-debe-estar-radar-objetivo-debe-ser-innovacion",
+      "autor": "El Blog Salmón"
+    },
+    {
+      "titulo": "MANDALA, INNOVACIÓN EDUCATIVA",
+      "url": "https://expansion.mx/bespoke-ad/2018/06/14/mandala-innovacion-educativa",
+      "autor": "MANDALA, INNOVACIÓN EDUCATIVA"
+    },
+    {
+      "titulo": "Educación, un salto de la ineficiencia a la innovación",
+      "url": "https://www.elsiglodetorreon.com.mx/noticia/1470772.educacion-un-salto-de-la-ineficiencia-a-la-innovacion.html",
+      "autor": "El Siglo de Torreón"
+    },
+    {
+      "titulo": "Las víctimas de las metodologías emprendedoras",
+      "url": "https://www.forbes.com.mx/las-victimas-de-las-metodologias-emprendedoras/",
+      "autor": "Forbes Mexico"
+    },
+    {
+      "titulo": "“Inversión en innovación en América Latina debe llegar al 1.5% del PBI” [entrevista]",
+      "url": "http://andina.pe/agencia/noticia-inversion-innovacion-america-latina-debe-llegar-al-15-del-pbi-entrevista-713343.aspx",
+      "autor": "Agencia Andina (Comunicado de prensa)"
+    },
+    {
+      "titulo": "25 proyectos se capacitan en innovación",
+      "url": "http://www.lapatria.com/economia/25-proyectos-se-capacitan-en-innovacion-417901",
+      "autor": "La Patria.com"
+    },
+    {
+      "titulo": "4 iniciativas de innovación social digital que están transformando América Latina",
+      "url": "https://mba.americaeconomia.com/articulos/notas/4-iniciativas-de-innovacion-social-digital-que-estan-transformando-america-latina",
+      "autor": "AméricaEconomía.com"
+    },
+    {
+      "titulo": "Premian a las diez iniciativas sociales más innovadoras de 2017",
+      "url": "http://www.corresponsables.com/actualidad/premian-las-diez-iniciativas-sociales-m%C3%A1s-innovadoras-de-2017",
+      "autor": "Corresponsables.com"
+    },
+    {
+      "titulo": "Programa de Innovación Financiera (PIF) 2018",
+      "url": "http://www.bcra.gov.ar/Noticias/PIF2018_charlas_federales.asp",
+      "autor": "BCRA"
+    },
+    {
+      "titulo": "La innovación es fundamental para aumentar la productividad",
+      "url": "https://www.caf.com/es/conocimiento/blog/2018/06/la-innovacion-es-fundamental-para-aumentar-la-productividad/",
+      "autor": "banco de desarrollo de América Latina- | CAF"
+    },
+    {
+      "titulo": "Comunidad facilita a emprendedores y empresarios 25 millones del proyecto 'INFOFinancia' para \"seguir generando empleo\"",
+      "url": "https://www.20minutos.es/noticia/3369405/0/comunidad-facilita-emprendedores-empresarios-25-millones-proyecto-infofinancia-para-seguir-generando-empleo/#xtor=AD-15&xts=467263",
+      "autor": "20minutos.es"
+    },
+    {
+      "titulo": "Emprendedores requieren más de S/ 8,000 para poner en marcha sus negocios",
+      "url": "https://gestion.pe/tu-dinero/emprendedores-requieren-s-8-000-poner-marcha-negocios-236036",
+      "autor": "Diario Gestión"
+    },
+    {
+      "titulo": "Capacitan a secundarios para ser emprendedores",
+      "url": "https://www.lanacion.com.py/pais/2018/06/14/capacitan-a-secundarios-para-ser-emprendedores/",
+      "autor": "La Nación.com.py"
+    },
+    {
+      "titulo": "Merck, tres siglos y medio en vanguardia de la innovación",
+      "url": "https://dirigentesdigital.com/liderazgo/merck-tres-siglos-y-medio-en-vanguardia-de-la-innovacion-FB102403",
+      "autor": "Dirigentes Digital"
+    },
+    {
+      "titulo": "Innovación gastronómica",
+      "url": "https://www.diariodesevilla.es/opinion/analisis/Innovacion-gastronomica_0_1254475343.html",
+      "autor": "Diario de Sevilla"
+    },
+    {
+      "titulo": "La innovación y la transformación digital: principales prioridades en la agenda europea para el turismo",
+      "url": "http://media.unwto.org/es/press-release/2018-06-14/la-innovacion-y-la-transformacion-digital-",
+      "autor": "World Tourism Organization UNWTO"
+    },
+    {
+      "titulo": "Innovación en Docencia Universitaria",
+      "url": "https://ucu.edu.uy/es/innovacion-en-docencia-universitaria",
+      "autor": "UCU"
+    },
+    {
+      "titulo": "Escolares riojanos se convierten en emprendedores con sus propias cooperativas con el programa",
+      "url": "https://www.20minutos.es/noticia/3369299/0/escolares-riojanos-se-convierten-emprendedores-con-sus-propias-cooperativas-con-programa-aprendiendo-emprender/",
+      "autor": "20minutos.es"
+    },
+    {
+      "titulo": "Cinco detalles que no puedes dejar pasar si compras un negocio",
+      "url": "https://cincodias.elpais.com/cincodias/2018/06/14/emprendedores/1529006371_000894.html",
+      "autor": "Cinco Días"
+    },
+    {
+      "titulo": "Éste es el dispositivo contra el marketing de Facebook y Google",
+      "url": "http://www.elfinanciero.com.mx/tech/este-es-el-dispositivo-contra-el-marketing-de-facebook-y-google",
+      "autor": "El Financiero"
+    },
+    {
+      "titulo": "40 blogs de marketing para celebrar que (ahora sí) ha llegado el verano",
+      "url": "https://www.marketingdirecto.com/marketing-general/marketing/40-blogs-de-marketing-para-celebrar-que-ahora-si-ha-llegado-el-verano",
+      "autor": "MarketingDirecto"
+    },
+    {
+      "titulo": "Cigna nombra a Aida Sastre Sújar Chief Marketing Officer",
+      "url": "http://www.rrhhdigital.com/secciones/quien-es-quien/131334/Cigna-nombra-a-Aida-Sastre-Sujar-Chief-Marketing-Officer",
+      "autor": "RRHHDigital"
+    },
+    {
+      "titulo": "¿Ha trepado Instagram a la cúspide marketera sin merecerlo (al 100%)?",
+      "url": "https://www.marketingdirecto.com/digital-general/social-media-marketing/ha-trepado-instagram-cuspide-marketera-sin-merecerlo-100",
+      "autor": "MarketingDirecto"
+    },
+    {
+      "titulo": "Nina Llordachs, nueva directora de Marketing captación de Securitas Direct",
+      "url": "https://www.contactcenter.es/nina-llordachs-nueva-directora-de-marketing-captacion-de-securitas-direct-2018-14-16239/",
+      "autor": "Contact Center"
+    },
+    {
+      "titulo": "De la ciencia al emprendimiento",
+      "url": "http://www.ntrguadalajara.com/post.php?id_nota=101173a",
+      "autor": "NTR Guadalajara"
+    },
+    {
+      "titulo": "En Nuevo León, convierten el hueso de aguacate en popotes",
+      "url": "http://www.eluniversal.com.mx/estados/en-nuevo-leon-convierten-el-hueso-de-aguacate-en-popotes",
+      "autor": "El Universal"
+    },
+    {
+      "titulo": "Prevención y seguros de ciberseguridad, la apuesta de las aseguradoras",
+      "url": "https://expansion.mx/tecnologia/2018/06/14/prevencion-y-seguros-de-ciberseguridad-la-apuesta-de-las-aseguradoras",
+      "autor": "Expansión MX"
+    },
+    {
+      "titulo": "Una veintena de emprendedores desarrollarán sus proyectos en el espacio ‘coworking’ del Cabildo y la EOI",
+      "url": "https://www.eldiario.es/lapalmaahora/economia/emprendedores-desarrollaran-proyectos-Cabildo-EOI_0_782172961.html",
+      "autor": "eldiario.es"
+    },
+    {
+      "titulo": "PYME ¿Por qué deben invertir en tecnología?",
+      "url": "https://www.larepublica.co/especiales/especial-pyme/pyme-por-que-deben-invertir-en-tecnologia-2738330",
+      "autor": "La República"
+    },
+    {
+      "titulo": "Mundial impulsa los ingresos de las pyme",
+      "url": "http://www.losandes.com.pe/Nacional/20180614/115543.html",
+      "autor": "Los Andes Perú"
+    },
+    {
+      "titulo": "El programa 'Pequeños Emprendedores' vuelve un año más a Aranda",
+      "url": "https://www.burgosconecta.es/provincia/ribera/programa-pequenos-emprendedores-20180614115219-nt.html",
+      "autor": "BURGOSconecta"
+    },
+    {
+      "titulo": "Más de 500 asistentes en el primer Digital Week sobre emprendimiento y transformación digital",
+      "url": "http://murciaeconomia.com/not/56934/mas-de-500-asistentes-en-el-primer-digital-week-sobre-emprendimiento-y-transformacion-digital",
+      "autor": "MurciaEconomía.com"
+    },
+    {
+      "titulo": "Aquarius elige a la sevillana Constanza Lucadamo finalista de becas de emprendimiento para mayores de 60 años ",
+      "url": "https://www.20minutos.es/noticia/3368707/0/aquarius-elige-sevillana-constanza-lucadamo-finalista-becas-emprendimiento-para-mayores-60-anos/",
+      "autor": "20minutos.es"
+    },
+    {
+      "titulo": "La III Feria de Emprendimiento reúne a más de un centenar de alumnos de San Antonio, Nuestra Señora del Pilar, Arco Iris y Ave María Esparraguera, además de los Talleres de Jardinería y Carpintería del Luis Pastor ",
+      "url": "http://www.motrildigital.com/la-iii-feria-emprendimiento-reune-mas-centenar-alumnos/",
+      "autor": "Motril@Digital (Comunicado de prensa)"
+    },
+    {
+      "titulo": "Promueve gobierno Chino innovación y emprendimiento en la economía",
+      "url": "http://prensa-latina.cu/index.php?o=rn&id=187164&SEO=promueve-gobierno-chino-innovacion-y-emprendimiento-en-la-economia",
+      "autor": "Prensa Latina"
+    },
+    {
+      "titulo": "Formación y emprendimiento para frenar la despoblación",
+      "url": "http://www.ubu.es/noticias/formacion-y-emprendimiento-para-frenar-la-despoblacion",
+      "autor": "Ubu"
+    },
+    {
+      "titulo": "BID Invest y Banco Agrícola realizan alianza para facilitar el financiamiento a las PYME de El Salvador",
+      "url": "http://www.iic.org/es/media/news/bid-invest-y-banco-agr%C3%ADcola-realizan-alianza-para-facilitar-el-financiamiento-las-pyme-de#.WyPt2KczbIU",
+      "autor": "Corporación Interamericana de Inversiones"
+    },
+    {
+      "titulo": "Aplicarían arancel a maíz y soya de EU",
+      "url": "https://www.reforma.com/aplicacioneslibre/preacceso/articulo/default.aspx?id=1419520&v=2&urlredirect=https://www.reforma.com/aplicaciones/articulo/default.aspx?id=1419520&v=2",
+      "autor": "Reforma"
+    },
+    {
+      "titulo": "EE.UU. y México: El queso, víctima de la disputa comercial entre ambos países",
+      "url": "https://gestion.pe/mundo/eeuu/ee-uu-mexico-queso-victima-disputa-comercial-paises-235819",
+      "autor": "Diario Gestión"
+    }
+  ]
+}

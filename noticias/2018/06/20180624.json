@@ -1,0 +1,54 @@
+{
+  "noticias": [
+    {
+      "titulo": "Otorga Estado créditos a micro empresarios",
+      "url": "https://www.periodicoelmexicano.com.mx/local/otorga-estado-creditos-a-micro-empresarios",
+      "autor": "El Mexicano "
+    },
+    {
+      "titulo": "Marketing online, superapps, transformación digital, China...",
+      "url": "https://www.hosteltur.com/128763_marketing-online-superapps-transformacion-digital-china.html",
+      "autor": "Hosteltur: Noticias de turismo "
+    },
+    {
+      "titulo": "Las seis cosas que aprendí del emprendimiento en una obra de teatro",
+      "url": "https://gestion.pe/fotogalerias/seis-cosas-aprendi-emprendimiento-obra-teatro-236674",
+      "autor": " Diario Gestión "
+    },
+    {
+      "titulo": "Emprendimiento, trabajo y feria para rejuvenecer",
+      "url": "https://www.elciudadanoweb.com/emprendimiento-trabajo-y-feria-para-rejuvenecer/",
+      "autor": " El Ciudadano & La Gente "
+    },
+    {
+      "titulo": "Vecina ampliará su emprendimiento",
+      "url": "http://www.laarena.com.ar/la_pampa-vecina-ampliara-su-emprendimiento-1201633-163.html",
+      "autor": "La Pampa La Arena "
+    },
+    {
+      "titulo": "“Un buen líder se mide por los logros de las metas acordadas”",
+      "url": "https://www.lanacion.com.py/negocios_edicion_impresa/2018/06/24/un-buen-lider-se-mide-por-los-logros-de-las-metas-acordadas/",
+      "autor": " La Nación.com.py "
+    },
+    {
+      "titulo": "El ser de la cultura productiva",
+      "url": "https://www.nacion.com/opinion/columnistas/el-ser-de-la-cultura-productiva/D6PI35L4MZDHXB4FEVSTRTVSQI/story/",
+      "autor": "La Nación Costa Rica "
+    },
+    {
+      "titulo": "Acelerador de emprendimientos",
+      "url": "http://www.lapatria.com/opinion/columnas/rodrigo-alberto-pelaez/acelerador-de-emprendimientos",
+      "autor": "La Patria.com "
+    },
+    {
+      "titulo": "Tips para lograr un emprendimiento exitoso",
+      "url": "https://uniandes.edu.co/es/noticias/desarrollo-regional/tips-para-lograr-un-emprendimiento-exitoso",
+      "autor": "Universidad de los Andes "
+    },
+    {
+      "titulo": "Una madrileña gana el premio al docente emprendedor del año",
+      "url": "https://madridpress.com/not/240859/una-madrilena-gana-el-premio-al-docente-emprendedor-del-ano/",
+      "autor": "Madridpress.com "
+    }
+  ]
+}

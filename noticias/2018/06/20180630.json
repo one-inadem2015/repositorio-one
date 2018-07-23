@@ -1,0 +1,54 @@
+{
+  "noticias": [
+    {
+      "titulo": "Márketing digital estratégico",
+      "url": "https://www.laprensagrafica.com/opinion/Marketing-digital-estrategico-20180628-0120.html",
+      "autor": "La Prensa Gráfica"
+    },
+    {
+      "titulo": "Anuncian encuentro “Conectando Emprendedores en Oaxaca 2018”",
+      "url": "http://imparcialoaxaca.mx/economia/183293/anuncian-encuentro-conectando-emprendedores-en-oaxaca-2018/",
+      "autor": "El Imparcial de Oaxaca"
+    },
+    {
+      "titulo": "AMAZON OFRECERÁ A EMPRENDEDORES CREAR NEGOCIOS PARA REPARTIR SUS ENVÍOS",
+      "url": "https://expansion.mx/emprendedores/2018/06/28/amazon-ofrecera-a-emprendedores-crear-negocios-para-repartir-sus-envios",
+      "autor": "Expansión MX"
+    },
+    {
+      "titulo": "El Diario de Madryn",
+      "url": "http://www.eldiariodemadryn.com/2018/06/hoy-arranca-en-trelew-el-camino-del-emprendedor/",
+      "autor": "El Diario de Madryn"
+    },
+    {
+      "titulo": "En Medellín, emprendedores de pequeña escala renuevan para sostenerse",
+      "url": "http://www.elcolombiano.com/antioquia/emprendedores-renuevan-su-oferta-para-subsistir-XB8928617",
+      "autor": "El Colombiano"
+    },
+    {
+      "titulo": "Concurso de innovación agropecuaria contribuye a promover nuevas iniciativas en el área",
+      "url": "http://www.la-razon.com/economia/Concurso-innovacion-agropecuaria-contribuye-iniciativas_0_2955904412.html",
+      "autor": "La Razón (Bolivia)"
+    },
+    {
+      "titulo": "Gobierno colaborará con la FER y el Club de Marketing para formar a directivos y mejorar la eficiencia en la gestión",
+      "url": "https://www.20minutos.es/noticia/3382115/0/gobierno-colaborara-con-fer-club-marketing-para-formar-directivos-mejorar-eficiencia-gestion/",
+      "autor": "20minutos.es"
+    },
+    {
+      "titulo": "Barcelona acogerá el mayor foro profesional de innovación en construcción",
+      "url": "http://www.lavanguardia.com/vida/20180629/45483143793/barcelona-acogera-el-mayor-foro-profesional-de-innovacion-en-construccion.html",
+      "autor": "Barcelona acogerá el mayor foro profesional de innovación en construcción La Vanguardia"
+    },
+    {
+      "titulo": "Brasil y Alemania negocian crédito para proyectos de innovación",
+      "url": "http://www.prensa-latina.cu/index.php?o=rn&id=191471&SEO=brasil-y-alemania-negocian-credito-para-proyectos-de-innovacion",
+      "autor": "Prensa Latina"
+    },
+    {
+      "titulo": "Brasil y Alemania negocian crédito para proyectos de innovación",
+      "url": "http://www.prensa-latina.cu/index.php?o=rn&id=191471&SEO=brasil-y-alemania-negocian-credito-para-proyectos-de-innovacion",
+      "autor": "Prensa Latina"
+    }
+  ]
+}

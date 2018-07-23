@@ -1,0 +1,204 @@
+{
+   "noticias" : [
+       {
+         "titulo": "Inadem capacita a emprendedores",
+         "url": "https://www.elsiglodetorreon.com.mx/noticia/1481421.inadem-capacita-a-emprendedores.html",
+         "autor": "El Siglo de Torreón"
+       },
+       {
+         "titulo": "Emprendedores tienen herramientas y políticas públicas que los apoyan",
+         "url": "http://dnf.com.mx/index.php/2018/07/18/emprendedores-tienen-herramientas-y-politicas-publicas-que-los-apoyan/",
+         "autor": "Dinero, negocios y finanzas (Comunicado de prensa)"
+       },
+       {
+         "titulo": "Feria Pronafim espera más de 400 microempresarios",
+         "url": "http://elempresario.mx/guia-util/feria-pronafim-espera-mas-400-microempresarios",
+         "autor": "El Empresario"
+       },
+       {
+         "titulo": "Necesario el apoyo a pequeñas empresas: Alcalde de El Rosario",
+         "url": "https://www.noroeste.com.mx/publicaciones/view/necesario-el-apoyo-a-pequenas-empresas-alcalde-de-escuinapa-1136010",
+         "autor": "Noroeste"
+       },
+       {
+         "titulo": "¿Quién se encarga de contratar en tu pyme?",
+         "url": "https://www.pymesyautonomos.com/vocacion-de-empresa/quien-se-encarga-contratar-tu-pyme",
+         "autor": "Pymes y Autónomos"
+       },
+       {
+         "titulo": "Los emprendedores de 45 años tienen un 85% más de probabilidades de éxito",
+         "url": "https://www.autonomosyemprendedor.es/articulo/actualidad/emprendedores-45-anos-tienen-85-mas-probabilidades-exito/20180719125830017104.html",
+         "autor": "Autonomosyemprendedor"
+       },
+       {
+         "titulo": "Siemens Gamesa exige a sus proveedores innovación",
+         "url": "http://www.eleconomista.es/empresas-finanzas/noticias/9282470/07/18/Siemens-Gamesa-exige-a-sus-proveedores-innovacion.html",
+         "autor": "elEconomista.es"
+       },
+       {
+         "titulo": "Programa de Innovación Coreano Ecuatoriano inició en Yachay EP",
+         "url": "http://www.yachay.gob.ec/programa-de-innovacion-coreano-ecuatoriano-inicio-en-yachay-ep/",
+         "autor": "Yachay EP"
+       },
+       {
+         "titulo": "9º Premio de Periodismo sobre Innovación Científica y Tecnológica",
+         "url": "https://www.gob.mx/impi/articulos/9-premio-de-periodismo-sobre-innovacion-cientifica-y-tecnologica-166237?idiom=es",
+         "autor": "gob.mx"
+       },
+       {
+         "titulo": "El caballero de los negocios | Innovación, el motor de SKYYD",
+         "url": "https://www.elsoldemexico.com.mx/analisis/el-caballero-de-los-negocios-innovacion-el-motor-de-skyyd-1851088.html",
+         "autor": "El Sol de México"
+       },
+       {
+         "titulo": "Secretaría de Desarrollo Económico anuncia la Feria Internacional PyME Quintana Roo 2018 “Proyéctate al Sur”.",
+         "url": "https://laverdadnoticias.com/quintanaroo/Secretaria-de-Desarrollo-Economico-anuncia-la-Feria-Internacional-PyME-Quintana-Roo-2018-Proyectate-al-Sur.-20180719-0122.html",
+         "autor": "Diario La Verdad"
+       },
+       {
+         "titulo": "Próximamente Feria Internacional PyME “Proyéctate al Sur 2018”",
+         "url": "https://www.elpuntosobrelai.com/proximamente-feria-internacional-pyme-proyectate-al-sur-2018/",
+         "autor": "Elpuntosobrelai.com"
+       },
+       {
+         "titulo": "Fundación Mapfre apuesta fuerte por el emprendimiento social",
+         "url": "https://www.forbes.com.mx/fundacion-mapfre-apuesta-fuerte-por-el-emprendimiento-social/",
+         "autor": "Forbes Mexico"
+       },
+       {
+         "titulo": "La innovación y emprendimiento se darán cita en Aguascalientes",
+         "url": "https://www.liderempresarial.com/educacion/la-innovacion-y-emprendimiento-se-daran-cita-en-aguascalientes/",
+         "autor": "Líder Empresarial"
+       },
+       {
+         "titulo": "¿Te casas? Pon tu mesa de regalos en manos de estos emprendedores",
+         "url": "https://www.forbes.com.mx/te-casas-pon-tu-mesa-de-regalos-en-manos-de-estos-emprendedores/",
+         "autor": "Forbes Mexico"
+       },
+       {
+         "titulo": "Ofrecerá Canirac capacitación a emprendedores para adquirir franquicias",
+         "url": "https://www.contramuro.com/ofrecera-canirac-capacitacion-a-emprendedores-para-adquirir-franquicias/",
+         "autor": "ContraMuro"
+       },
+       {
+         "titulo": "Emprendedores de Santa Juana podrán participar de programa piloto dirigido a productores de leña",
+         "url": "https://www.diarioconcepcion.cl/ciudad/2018/07/19/emprendedores-de-santa-juana-podran-participar-de-programa-piloto-dirigido-a-productores-de-lena.html",
+         "autor": "Diario Concepción"
+       },
+       {
+         "titulo": "#Data | Las deudas de México con la innovación",
+         "url": "https://www.elsoldemexico.com.mx/mexico/sociedad/data-las-deudas-de-mexico-con-la-innovacion-1850937.html",
+         "autor": "El Sol de México"
+       },
+       {
+         "titulo": "La ONG que busca convertir a Bogotá en líder innovación en la región",
+         "url": "http://www.eltiempo.com/tecnosfera/novedades-tecnologia/connect-bogota-region-una-iniciativa-para-impulsar-la-innovacion-en-la-ciudad-245472",
+         "autor": "ElTiempo.com"
+       },
+       {
+         "titulo": "Ripoll Balet repasa su primer año como principal oficial de innovación",
+         "url": "Ripoll Balet repasa su primer año como principal oficial de innovación",
+         "autor": ""
+       },
+       {
+         "titulo": "\"La confianza del segmento PyME sobre el proyecto del Gobierno se deterioró\"",
+         "url": "http://www.diagonales.com/contenido/la-confianza-del-segmento-pyme-sobre-el-proyecto-del-gobierno-se-deterior/10199",
+         "autor": "Diagonales.com"
+       },
+       {
+         "titulo": "La mitad de las pymes siguen financiándose con capital propio",
+         "url": "https://www.latercera.com/pulso/noticia/la-mitad-las-pymes-siguen-financiandose-capital-propio/248217/",
+         "autor": "LaTercera"
+       },
+       {
+         "titulo": "Empresas buscan nuevos proveedores en PyME locales",
+         "url": "http://comunicaciontucuman.gob.ar/2018/07/empresas-buscan-nuevos-proveedores-en-pyme-locales/",
+         "autor": "Comunicación Tucumán (Comunicado de prensa)"
+       },
+       {
+         "titulo": "“Los reiterados aumentos del combustible están asfixiando a las pymes”",
+         "url": "https://www.lavozdelpueblo.com.ar/noticia/74822-%E2%80%9CLos%20reiterados%20aumentos%20del%20combustible%20est%C3%A1n%20asfixiando%20a%20las%20pymes%E2%80%9D",
+         "autor": "La Voz del Pueblo"
+       },
+       {
+         "titulo": "Un emprendimiento que ‘crece sobre ruedas’",
+         "url": "http://m.portafolio.co/innovacion/un-emprendimiento-que-crece-sobre-ruedas-519243",
+         "autor": "m.portafolio.co (Comunicado de prensa) (blog)"
+       },
+       {
+         "titulo": "Lanzamiento del programa “Emprendimiento Hacia La Libertad”",
+         "url": "http://www.panamaon.com/noticias/politica/49271-lanzamiento-del-programa-emprendimiento-hacia-la-libertad.html",
+         "autor": "PanamaOn"
+       },
+       {
+         "titulo": "Mesa de Desarrollo Integral revisó medidas para apoyar el emprendimiento y las pymes",
+         "url": "http://www.hacienda.cl/sala-de-prensa/noticias/historico/mesa-de-desarrollo-integral-reviso.html",
+         "autor": "Ministerio de Hacienda"
+       },
+       {
+         "titulo": "Emprendedores mendocinos vuelven a la Expo Rural 2018",
+         "url": "https://losandes.com.ar/article/view?slug=emprendedores-mendocinos-vuelven-a-la-expo-rural-2018",
+         "autor": "Los Andes (Argentina)"
+       },
+       {
+         "titulo": "Santo Tome sigue apoyando a emprendedores locales",
+         "url": "http://notife.com/623703-santo-tome-sigue-apoyando-a-emprendedores-locales/",
+         "autor": "Noti Fe"
+       },
+       {
+         "titulo": "Ley de emprendimientos propone plataformas de micro financiamiento colectivo",
+         "url": "https://www.elobservador.com.uy/ley-emprendimientos-propone-plataformas-micro-financiamiento-colectivo-n1256374",
+         "autor": "El Observador"
+       },
+       {
+         "titulo": "La pyme crece y representa el 58,9% de la economía catalana",
+         "url": "https://www.elperiodico.com/es/economia/20180719/la-pyme-crece-y-representa-el-589-de-la-economia-catalana-6951616",
+         "autor": "El Periódico"
+       },
+       {
+         "titulo": "Un total de 18 empresas, finalistas del Premio Pyme en Zaragoza",
+         "url": "http://www.europapress.es/economia/red-empresas-00953/noticia-total-18-empresas-finalistas-premio-pyme-zaragoza-20180719184843.html",
+         "autor": "Europa Press"
+       },
+       {
+         "titulo": "Agencia SEO en Madrid para Pymes",
+         "url": "https://www.madridiario.es/noticia/458473/recomendamos/agencia-seo-en-madrid-para-pymes.html",
+         "autor": "Madridiario"
+       },
+       {
+         "titulo": "Barcones insiste en la importancia del emprendimiento sostenible para fijar población en el medio rural",
+         "url": "http://cadenaser.com/emisora/2018/07/19/radio_palencia/1532016020_924643.html",
+         "autor": "Cadena SER"
+       },
+       {
+         "titulo": "Ficosterra e Hilo Verde galardonadas con los IX Premios CLH al emprendimiento e innovación en Castilla y León",
+         "url": "https://www.energynews.es/clh-emprendimiento-e-innovacion/",
+         "autor": "Energy News (Comunicado de prensa)"
+       },
+       {
+         "titulo": "Los emprendedores de Málaga tienen más edad y nivel de estudios que hace ocho años, según informe",
+         "url": "https://www.20minutos.es/noticia/3399180/0/emprendedores-malaga-tienen-mas-edad-nivel-estudios-que-hace-ocho-anos-segun-informe/",
+         "autor": "20minutos.es"
+       },
+       {
+         "titulo": "Un residencial en Nueva York, la innovación y el emprendimiento, en el Master International Business de EAE",
+         "url": "http://empresaexterior.com/not/67113/un-residencial-en-nueva-york-la-innovacion-y-el-emprendimiento-en-el-master-international-business-de-eae",
+         "autor": "Empresa Exterior (Comunicado de prensa) (blog)"
+       },
+       {
+         "titulo": "Programa Entrepreneurs For Social Change (E4SC), para ayudar a emprendedores sociales",
+         "url": "https://canal.ugr.es/convocatoria/programa-entrepreneurs-for-social-change-e4sc-para-ayudar-a-emprendedores-sociales/",
+         "autor": "Canal UGR - Universidad de Granada"
+       },
+       {
+         "titulo": "La robot Sophia inaugura el Foro de Innovación Digital de Taiwán",
+         "url": "https://www.lavanguardia.com/tecnologia/20180719/45964402114/la-robot-sophia-inaugura-el-foro-de-innovacion-digital-de-taiwan.html",
+         "autor": "La Vanguardia"
+       },
+       {
+         "titulo": "Grupo Cosentino apuesta por la innovación para contribuir al plan de acción de España para la Agenda 2030 ",
+         "url": "https://www.20minutos.es/noticia/3399410/0/grupo-cosentino-apuesta-por-innovacion-para-contribuir-al-plan-accion-espana-para-agenda-2030/",
+         "autor": "20minutos.es"
+       }
+   ]
+}

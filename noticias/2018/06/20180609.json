@@ -1,0 +1,54 @@
+{
+  "noticias": [
+    {
+      "titulo": "Guajardo destaca la importancia del Inadem y el apoyo a las pymes",
+      "url": "http://elempresario.mx/actualidad/guajardo-destaca-importancia-inadem-apoyo-pymes",
+      "autor": "El Empresario"
+    },
+    {
+      "titulo": "APOYA SOLIDARIDAD A EMPRENDEDORES Y PYMES CON CAPACITACIÓN Y HERRAMIENTAS",
+      "url": "http://noticaribe.com.mx/2018/06/08/apoya-solidaridad-a-emprendedores-y-pymes-con-capacitacion-y-herramientas/",
+      "autor": "Noticaribe"
+    },
+    {
+      "titulo": "Nación convoca a emprendedores de Rosario para jornada de asesoramiento y capacitación",
+      "url": "https://rosarionuestro.com/nacion-convoca-a-emprendedores-de-rosario-para-jornada-de-asesoramiento-y-capacitacion/",
+      "autor": "Rosario Nuestro"
+    },
+    {
+      "titulo": "Harvard aporta conocimiento para sistema de innovación",
+      "url": "http://amqueretaro.com/vivir-mas/2018/06/08/harvard-aporta-conocimiento-para-sistema-de-innovacion",
+      "autor": "Periodico a.m."
+    },
+    {
+      "titulo": "Presentan en el ITVG 6 proyectos de innovación",
+      "url": "https://www.elsiglodedurango.com.mx/noticia/969150.presentan-en-el-itvg-6-proyectos-de-innovacion.html",
+      "autor": "El Siglo Durango"
+    },
+    {
+      "titulo": "Gestionan fondos para el desarrollo pyme y tecnológico",
+      "url": "https://www.paginacentral.com.ar/politica/gestionan-fondos-para-el-desarrollo-pyme-y-tecnologico/",
+      "autor": "Página Central Jujuy"
+    },
+    {
+      "titulo": "La Bolsa de Comercio presentó nuevos instrumentos de financiamiento para pymes",
+      "url": "http://www.diarionorte.com/article/167266/la-bolsa-de-comercio-presento-nuevos-instrumentos-de-financiamiento-para-pymes",
+      "autor": "Diario NORTE"
+    },
+    {
+      "titulo": "Promueven que haya más productos de pymes locales en los supermercados",
+      "url": "https://www.clarin.com/economia/promueven-productos-pymes-locales-supermercados_0_B1pGm_Elm.html",
+      "autor": "Clarín.com"
+    },
+    {
+      "titulo": "La innovación que llegó a la distribución solidaria de alimentos",
+      "url": "https://www.infobae.com/tendencias/innovacion/2018/06/09/la-innovacion-que-llego-a-la-distribucion-solidaria-de-alimentos/",
+      "autor": "Infobae.com"
+    },
+    {
+      "titulo": "La pyme pide al nuevo Gobierno rebajar los impuestos a la mitad",
+      "url": "http://www.eleconomista.es/gestion-empresarial/noticias/9193495/06/18/La-pequena-empresa-pide-rebajar-a-la-mitad-los-impuestos.html",
+      "autor": "elEconomista.es"
+    }
+  ]
+}
