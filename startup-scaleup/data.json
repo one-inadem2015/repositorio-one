@@ -302,6 +302,31 @@
     }
   ],
   "finanzas" : [
+    {
+     "titulo": "Finanzas básicas que debe de llevar una startup",
+     "url": "https://jorgecastro.mx/finanzas-basicas-que-debe-de-llevar-una-startup/",
+     "tipo": 0
+    },
+    {
+     "titulo": "¿Qué es la tasa de descuento?",
+     "url": "http://vicentesteve.com/que-es-la-tasa-de-descuento/",
+     "tipo": 2
+    },
+    {
+     "titulo": "¿En qué deberías gastar en cada etapa de tu Startup?",
+     "url": "https://medium.com/founder-list-blog/en-qu%C3%A9-deber%C3%ADas-gastar-en-cada-etapa-de-tu-startup-82db641845a0",
+     "tipo": 0
+    },
+    {
+     "titulo": "Claves para acceder a los inversionistas ángeles",
+     "url": "https://www.entrepreneur.com/article/262493",
+     "tipo": 2
+    },
+    {
+     "titulo": "Por qué una startup necesita un CFO externo o bajo demanda",
+     "url": "http://alexispiquer.com/cfo-externo-bajo-demanda-startup/",
+     "tipo": 0
+    }
   ],
   "glosario" : [
   ],
