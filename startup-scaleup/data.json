@@ -331,6 +331,42 @@
   "glosario" : [
   ],
   "videos" : [
+  {
+   "titulo": "Startups Mexicanas que conocimos en Silicon Valley",
+   "url": "https://www.youtube.com/embed/a81wq4iV864",
+   "tipo": 0,
+   "img": "1.PNG"
+  },
+  {
+   "titulo": "Startups mexicanas están creciendo exponencialmente: MassChallenge México / Imagen Empresarial",
+   "url": "https://www.youtube.com/embed/aCJtwavCj4k",
+   "tipo": 0,
+   "img": "2.PNG"
+  },
+  {
+   "titulo": "Cómo empezar una startup | Pamela Valdés",
+   "url": "https://www.youtube.com/embed/a81wq4iV864",
+   "tipo": 0,
+   "img": "3.PNG"
+  },
+  {
+   "titulo": "Cómo funciona una startup",
+   "url": "https://www.youtube.com/embed/avpHbigVa4Q",
+   "tipo": 0,
+   "img": "4.PNG"
+  },
+  {
+   "titulo": "Startup Zacatecas 2018",
+   "url": "https://www.youtube.com/embed/GAjgjZ8MntQ",
+   "tipo": 0,
+   "img": "5.PNG"
+  },
+  {
+   "titulo": "Seis startups que pueden transformar el sector de la moda",
+   "url": "https://www.youtube.com/embed/xZXkaoYPCgQ",
+   "tipo": 2,
+   "img": "6.PNG"
+  }
   ],
   "herramientas" : [
   ] 
