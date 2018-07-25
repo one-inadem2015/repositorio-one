@@ -332,141 +332,141 @@
     
   ],
   "videos" : [
-  {
-   "titulo": "Startups Mexicanas que conocimos en Silicon Valley",
-   "url": "https://www.youtube.com/embed/a81wq4iV864",
-   "tipo": 0,
-   "img": "1.PNG"
-  },
-  {
-   "titulo": "Startups mexicanas están creciendo exponencialmente",
-   "url": "https://www.youtube.com/embed/aCJtwavCj4k",
-   "tipo": 0,
-   "img": "2.PNG"
-  },
-  {
-   "titulo": "Cómo empezar una startup | Pamela Valdés",
-   "url": "https://www.youtube.com/embed/a81wq4iV864",
-   "tipo": 0,
-   "img": "3.PNG"
-  },
-  {
-   "titulo": "Cómo funciona una startup",
-   "url": "https://www.youtube.com/embed/avpHbigVa4Q",
-   "tipo": 0,
-   "img": "4.PNG"
-  },
-  {
-   "titulo": "Startup Zacatecas 2018",
-   "url": "https://www.youtube.com/embed/GAjgjZ8MntQ",
-   "tipo": 0,
-   "img": "5.PNG"
-  },
-  {
-   "titulo": "Seis startups que pueden transformar el sector de la moda",
-   "url": "https://www.youtube.com/embed/xZXkaoYPCgQ",
-   "tipo": 2,
-   "img": "6.PNG"
-  }
+      {
+       "titulo": "Startups Mexicanas que conocimos en Silicon Valley",
+       "url": "https://www.youtube.com/embed/a81wq4iV864",
+       "tipo": 0,
+       "img": "1.PNG"
+      },
+      {
+       "titulo": "Startups mexicanas están creciendo exponencialmente",
+       "url": "https://www.youtube.com/embed/aCJtwavCj4k",
+       "tipo": 0,
+       "img": "2.PNG"
+      },
+      {
+       "titulo": "Cómo empezar una startup | Pamela Valdés",
+       "url": "https://www.youtube.com/embed/a81wq4iV864",
+       "tipo": 0,
+       "img": "3.PNG"
+      },
+      {
+       "titulo": "Cómo funciona una startup",
+       "url": "https://www.youtube.com/embed/avpHbigVa4Q",
+       "tipo": 0,
+       "img": "4.PNG"
+      },
+      {
+       "titulo": "Startup Zacatecas 2018",
+       "url": "https://www.youtube.com/embed/GAjgjZ8MntQ",
+       "tipo": 0,
+       "img": "5.PNG"
+      },
+      {
+       "titulo": "Seis startups que pueden transformar el sector de la moda",
+       "url": "https://www.youtube.com/embed/xZXkaoYPCgQ",
+       "tipo": 2,
+       "img": "6.PNG"
+      }
   ],
   "herramientas" : [
-    {
-     "titulo": "Alegra",
-     "url": "https://www.alegra.com/mexico/",
-     "descripcion": "administracion y facturaci¢n para Pymes",
-     "tipo": 2,
-     "img": "alegra.png"
-    },
-    {
-     "titulo": "Slack",
-     "url": "https://slack.com/",
-     "descripcion": "mejora la comunicaci¢n con tu equipo",
-     "tipo": 6,
-     "img": "slack.png"
-    },
-    {
-     "titulo": "MailChimp",
-     "url": "https://mailchimp.com/",
-     "descripcion": "crea y controla tus newsletters",
-     "tipo": 6,
-     "img": "malchimp.png"
-    },
-    {
-     "titulo": "Kixie",
-     "url": "https://www.kixie.com",
-     "descripcion": "gestiona tu agenda de contactosÿ",
-     "tipo": 6,
-     "img": "kixie.png"
-    },
-    {
-     "titulo": "Unsplash",
-     "url": "https://unsplash.com",
-     "descripcion": "fotografía libre",
-     "tipo": 0,
-     "img": "unsplash.png"
-    },
-    {
-     "titulo": "Easelly",
-     "url": "https://www.easel.ly",
-     "descripcion": "aporta valor añadido a tu contenido con infograf¡as",
-     "tipo": 0,
-     "img": "easelly.png"
-    },
-    {
-     "titulo": "Hootsuite",
-     "url": "https://hootsuite.com/es/",
-     "descripcion": "sincroniza tus perfiles",
-     "tipo": 6,
-     "img": "hootsuite.png"
-    },
-    {
-     "titulo": "Aplazame",
-     "url": "https://aplazame.com/mx/",
-     "descripcion": "articula tu sistema de cobros online",
-     "tipo": 2,
-     "img": "aplazame.png"
-    },
-    {
-     "titulo": "QuickBooks",
-     "url": "https://quickbooks.intuit.com/mx/",
-     "descripcion": "administraci¢n financiera en la nube que te permite crear presupuestos, facturas, seguir ventas, flujo de efectivo, gestionar impuestos entre otras",
-     "tipo": 2,
-     "img": "quickbooks.png"
-    },
-    {
-     "titulo": "Shopify",
-     "url": "https://www.shopify.com.mx/",
-     "descripcion": "dise¤a tu tienda online",
-     "tipo": 5,
-     "img": "shopify.png"
-    },
-    {
-     "titulo": "Sr. Pago",
-     "url": "https://senorpago.com/",
-     "descripcion": "convierte tu smartphone o tablet en terminal punto de venta",
-     "tipo": 2,
-     "img": "srpago.png"
-    },
-    {
-     "titulo": "Clip",
-     "url": "https://clip.mx/",
-     "descripcion": "terminal punto de venta m¢vil en el mercado",
-     "tipo": 2,
-     "img": "clip.png"
-    },
-    {
-     "titulo": "Pay Pal",
-     "url": "https://www.paypal.com/mx/webapps/mpp/home",
-     "descripcion": "compra y recibe pagos",
-     "tipo": 2,
-     "img": "paypal.png"
-    },
-    {
-     "titulo": "Enconta",
-     "url": "https://landings.enconta.com/l-prueba-gratis?utm_source=tw",
-     "descripcion": "servicio de contabilidad en linea",
-     "tipo": 2,
-     "img": "enconta.png"
-    }
+      {
+       "titulo": "Alegra",
+       "url": "https://www.alegra.com/mexico/",
+       "descripcion": "administracion y facturación para Pymes",
+       "tipo": 2,
+       "img": "alegra.png"
+      },
+      {
+       "titulo": "Slack",
+       "url": "https://slack.com/",
+       "descripcion": "mejora la comunicación con tu equipo",
+       "tipo": 6,
+       "img": "slack.png"
+      },
+      {
+       "titulo": "MailChimp",
+       "url": "https://mailchimp.com/",
+       "descripcion": "crea y controla tus newsletters",
+       "tipo": 6,
+       "img": "malchimp.png"
+      },
+      {
+       "titulo": "Kixie",
+       "url": "https://www.kixie.com",
+       "descripcion": "gestiona tu agenda de contactos ",
+       "tipo": 6,
+       "img": "kixie.png"
+      },
+      {
+       "titulo": "Unsplash",
+       "url": "https://unsplash.com",
+       "descripcion": "fotografía libre",
+       "tipo": 0,
+       "img": "unsplash.png"
+      },
+      {
+       "titulo": "Easelly",
+       "url": "https://www.easel.ly",
+       "descripcion": "aporta valor añadido a tu contenido con infografías",
+       "tipo": 0,
+       "img": "easelly.png"
+      },
+      {
+       "titulo": "Hootsuite",
+       "url": "https://hootsuite.com/es/",
+       "descripcion": "sincroniza tus perfiles",
+       "tipo": 6,
+       "img": "hootsuite.png"
+      },
+      {
+       "titulo": "Aplazame",
+       "url": "https://aplazame.com/mx/",
+       "descripcion": "articula tu sistema de cobros online",
+       "tipo": 2,
+       "img": "aplazame.png"
+      },
+      {
+       "titulo": "QuickBooks",
+       "url": "https://quickbooks.intuit.com/mx/",
+       "descripcion": "administración financiera en la nube que te permite crear presupuestos, facturas, seguir ventas, flujo de efectivo, gestionar impuestos entre otras",
+       "tipo": 2,
+       "img": "quickbooks.png"
+      },
+      {
+       "titulo": "Shopify",
+       "url": "https://www.shopify.com.mx/",
+       "descripcion": "diseña tu tienda online",
+       "tipo": 5,
+       "img": "shopify.png"
+      },
+      {
+       "titulo": "Sr. Pago",
+       "url": "https://senorpago.com/",
+       "descripcion": "convierte tu smartphone o tablet en terminal punto de venta",
+       "tipo": 2,
+       "img": "srpago.png"
+      },
+      {
+       "titulo": "Clip",
+       "url": "https://clip.mx/",
+       "descripcion": "terminal punto de venta móvil en el mercado",
+       "tipo": 2,
+       "img": "clip.png"
+      },
+      {
+       "titulo": "Pay Pal",
+       "url": "https://www.paypal.com/mx/webapps/mpp/home",
+       "descripcion": "compra y recibe pagos",
+       "tipo": 2,
+       "img": "paypal.png"
+      },
+      {
+       "titulo": "Enconta",
+       "url": "https://landings.enconta.com/l-prueba-gratis?utm_source=tw",
+       "descripcion": "servicio de contabilidad en linea",
+       "tipo": 2,
+       "img": "enconta.png"
+      }
   ] 
 }
