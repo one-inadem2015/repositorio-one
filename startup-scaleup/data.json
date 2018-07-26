@@ -479,7 +479,7 @@
        "titulo": "Keep",
        "url": "https://www.google.com.mx/keep/",
        "descripcion": "organizador de información personal a través del archivo de notas",
-       "tipo": 3,
+       "tipo": 6,
        "img": "keep.png"
       },
       {
@@ -549,7 +549,7 @@
        "titulo": "Wally",
        "url": "http://wally.me/",
        "descripcion": "controla tus ingresos de la forma mas sencilla",
-       "tipo": 3,
+       "tipo": 2,
        "img": "wally.png"
       },
       {
