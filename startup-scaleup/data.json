@@ -334,12 +334,12 @@
   "videos" : [
       {
        "titulo": "Startups Mexicanas que conocimos en Silicon Valley",
-       "url": "https://www.youtube.com/embed/a81wq4iV864",
+       "url": "https://www.youtube.com/embed/wnfMmrG52ag",
        "tipo": 0,
        "img": "1.PNG"
       },
       {
-       "titulo": "Startups mexicanas están creciendo exponencialmente",
+       "titulo": "Startups mexicanas están creciendo exponencialmente: MassChallenge México / Imagen Empresarial",
        "url": "https://www.youtube.com/embed/aCJtwavCj4k",
        "tipo": 0,
        "img": "2.PNG"
@@ -367,6 +367,54 @@
        "url": "https://www.youtube.com/embed/xZXkaoYPCgQ",
        "tipo": 2,
        "img": "6.PNG"
+      },
+      {
+       "titulo": "Startups más valiosas del mundo en 2018: cuáles son y qué hacen",
+       "url": "https://www.youtube.com/embed/2ZOWqwV28gM",
+       "tipo": 0,
+       "img": "7.PNG"
+      },
+      {
+       "titulo": "¿Porqué invertir en Startups?",
+       "url": "https://www.youtube.com/embed/PHatQfypmgc",
+       "tipo": 0,
+       "img": "8.PNG"
+      },
+      {
+       "titulo": "Backstartup: Experiencia en 500 Startups",
+       "url": "https://www.youtube.com/embed/tcHy56MkagU",
+       "tipo": 0,
+       "img": "9.PNG"
+      },
+      {
+       "titulo": "Cómo construir una startup",
+       "url": "https://www.youtube.com/embed/IJLFg7s2QWA",
+       "tipo": 0,
+       "img": "10.PNG"
+      },
+      {
+       "titulo": "3 Características de los Emprendedores exitosos de Silicon Valley | Startups Exitosas | E-talk #04",
+       "url": "https://www.youtube.com/embed/4EfrZ8kEGUs",
+       "tipo": 2,
+       "img": "11.PNG"
+      },
+      {
+       "titulo": "¿Qué es Startup México?",
+       "url": "https://www.youtube.com/embed/EGHbg2TUZnQ",
+       "tipo": 0,
+       "img": "12.PNG"
+      },
+      {
+       "titulo": "Startup Story: Shipit.mx ( MassChallenge Mexico Class 2017)",
+       "url": "https://www.youtube.com/embed/Vdu5iNiBt50",
+       "tipo": 0,
+       "img": "13.PNG"
+      },
+      {
+       "titulo": "Los Startups y el emprendimiento en México",
+       "url": "https://www.youtube.com/embed/OYAQy32OU5U",
+       "tipo": 0,
+       "img": "14.PNG"
       }
   ],
   "herramientas" : [
