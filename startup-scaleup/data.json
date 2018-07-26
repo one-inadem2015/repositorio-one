@@ -389,7 +389,7 @@
        "url": "https://mailchimp.com/",
        "descripcion": "crea y controla tus newsletters",
        "tipo": 6,
-       "img": "malchimp.png"
+       "img": "mailchimp.png"
       },
       {
        "titulo": "Kixie",
@@ -466,7 +466,105 @@
        "url": "https://landings.enconta.com/l-prueba-gratis?utm_source=tw",
        "descripcion": "servicio de contabilidad en linea",
        "tipo": 2,
-       "img": "enconta.png"
+       "img": "encontra.png"
+      },
+      {
+       "titulo": "Trello",
+       "url": "https://trello.com/",
+       "descripcion": "organizador de listas de tareas en linea",
+       "tipo": 6,
+       "img": "trello.png"
+      },
+      {
+       "titulo": "Keep",
+       "url": "https://www.google.com.mx/keep/",
+       "descripcion": "organizador de información personal a través del archivo de notas",
+       "tipo": 3,
+       "img": "keep.png"
+      },
+      {
+       "titulo": "Zoho CRM Plus",
+       "url": "https://www.zoho.com/es-xl/crm/crmplus/?src=top-header",
+       "descripcion": "conjunto de programas de interacción con el cliente",
+       "tipo": 1,
+       "img": "zoho.png"
+      },
+      {
+       "titulo": "Sugar CRM",
+       "url": "https://www.sugarcrm.com/es",
+       "descripcion": "gestión de relaciones con el cliente",
+       "tipo": 1,
+       "img": "sugar.png"
+      },
+      {
+       "titulo": "Bind",
+       "url": "https://www.bind.com.mx/",
+       "descripcion": "sistema de administración diseñado para las Pymes",
+       "tipo": 4,
+       "img": "bind.png"
+      },
+      {
+       "titulo": "Pipedrive",
+       "url": "https://www.pipedrive.com/es",
+       "descripcion": "herramienta de gestión de ventas",
+       "tipo": 6,
+       "img": "pipedrive.png"
+      },
+      {
+       "titulo": "Komenko",
+       "url": "http://komenko.mx/",
+       "descripcion": "asesoramiento jurídico para startup",
+       "tipo": 3,
+       "img": "komenko.png"
+      },
+      {
+       "titulo": "Wunderlist",
+       "url": "https://www.wunderlist.com/es/",
+       "descripcion": "organiza tu día a día y sincroniza actividades en todo momento",
+       "tipo": 6,
+       "img": "wunderlist.jpg"
+      },
+      {
+       "titulo": "Teamviewer",
+       "url": "https://www.teamviewer.com/es/",
+       "descripcion": "controla de forma remota tus dispositivos ",
+       "tipo": 0,
+       "img": "tiemvw.png"
+      },
+      {
+       "titulo": "Tomorrow Do",
+       "url": "https://www.tomorrow.do/",
+       "descripcion": "programa tu agenda de hoy a mañana",
+       "tipo": 6,
+       "img": "tomorrow.png"
+      },
+      {
+       "titulo": "Upplication",
+       "url": "https://www.upplication.com/mx/",
+       "descripcion": "crea aplicaciones sencillas en linea",
+       "tipo": 0,
+       "img": "upplication.png"
+      },
+      {
+       "titulo": "Wally",
+       "url": "http://wally.me/",
+       "descripcion": "controla tus ingresos de la forma mas sencilla",
+       "tipo": 3,
+       "img": "wally.png"
+      },
+      {
+       "titulo": "Hoteles",
+       "url": "https://www.hoteles.com/ofertas-de-hoteles/app/",
+       "descripcion": "busca, reserva y ahorra en hoteles",
+       "tipo": 0,
+       "img": "hoteles.png"
+      },
+      {
+       "titulo": "Tableau",
+       "url": "https://www.tableau.com/es-es",
+       "descripcion": "plataforma de análisis de datos que los hace comprensibles a todo usuario",
+       "tipo": 0,
+       "img": "tableau.png"
       }
   ] 
 }
