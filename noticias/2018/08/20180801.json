@@ -1,0 +1,204 @@
+{
+	"noticias" : [
+ {
+   "titulo": "Presentan programa de Semana Nacional del Emprendedor",
+   "url": "https://www.elindependientedehidalgo.com.mx/presentan-programa-de-semana-nacional-del-emprendedor-2/",
+   "autor": "Independiente de Hidalgo"
+ },
+ {
+   "titulo": "Megatentencia: Cambios en la economía",
+   "url": "https://www.inadem.gob.mx/megatentencia-cambios-en-la-economia/",
+   "autor": "Inadem"
+ },
+ {
+   "titulo": "19% de las mujeres en México emprenden… pero no todas en el sector formal",
+   "url": "http://www.elfinanciero.com.mx/empresas/19-de-las-mujeres-en-mexico-emprenden-pero-no-todas-en-el-sector-formal",
+   "autor": "El Financiero"
+ },
+ {
+   "titulo": "¿Cómo encajar correctamente el binomio 'problema-solución'?",
+   "url": "http://www.emprendedores.es/ideas-de-negocio/startup-problema-solucion-mercado-programa-inmersion",
+   "autor": "Emprendedores"
+ },
+ {
+   "titulo": "Emprendedores y el 'Networking'",
+   "url": "https://listindiario.com/la-vida/2018/07/31/526461/emprendedores-y-el-networking",
+   "autor": "Listín Diario"
+ },
+ {
+   "titulo": "¿Te has vuelto un emprendedor? Las cinco preguntas que deberías hacerte",
+   "url": "https://www.pymesyautonomos.com/vocacion-de-empresa/te-has-vuelto-emprendedor-cinco-preguntas-que-deberias-hacerte",
+   "autor": "Pymes y Autónomos"
+ },
+ {
+   "titulo": "Los desafíos del consumer first marketing",
+   "url": "https://www.forbes.com.mx/los-desafios-del-consumer-first-marketing/",
+   "autor": "Forbes Mexico"
+ },
+ {
+   "titulo": "3 TENDENCIAS DE MARKETING RECOMENDABLES PARA PEQUEÑOS NEGOCIOS",
+   "url": "https://www.merca20.com/3-tendencias-de-marketing-recomendables-para-pequenos-negocios/",
+   "autor": "Merca2.0"
+ },
+ {
+   "titulo": "Este artículo fue hecho gracias al esfuerzo de trabajo de un periodista profesional. Reconocelos compartiendo esta nota mediante este link: https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html Copyright © www.cronista.com",
+   "url": "https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html",
+   "autor": "El Cronista"
+ },
+ {
+   "titulo": "Invitan a participar en Fábrica de Emprendedores",
+   "url": "https://www.elnorte.com/aplicacioneslibre/preacceso/articulo/default.aspx?id=1456464&urlredirect=https://www.elnorte.com/aplicaciones/articulo/default.aspx?id=1456464",
+   "autor": "El Norte.com"
+ },
+ {
+   "titulo": "Apoyarán a emprendedores sampetrinos",
+   "url": "http://elporvenir.mx/?content=noticia&id=103192",
+   "autor": "El Porvenir"
+ },
+ {
+   "titulo": "Tienda UNAM, promueve a emprendedores; visítala",
+   "url": "http://www.fundacionunam.org.mx/auriazul/tienda-unam-promueve-a-emprendedores-visitala/",
+   "autor": "Fundación UNAM"
+ },
+ {
+   "titulo": "Las 7 cosas que podemos aprender cuando fracasa una innovación turística",
+   "url": "https://www.hosteltur.com/108145_las-7-cosas-que-podemos-aprender-cuando-fracasa-una-innovacion-turistica.html",
+   "autor": "Hosteltur: Noticias de turismo"
+ },
+ {
+   "titulo": "Social Media Day: innovación y creatividad digital",
+   "url": "https://diariohoy.net/interes-general/social-media-day-innovacion-y-creatividad-digital-124809",
+   "autor": "Diario Hoy"
+ },
+ {
+   "titulo": "Mazda y la revolución del ADN innovador",
+   "url": "http://www.portafolio.co/tendencias/mazda-y-la-revolucion-del-adn-innovador-519622",
+   "autor": "Portafolio.co"
+ },
+ {
+   "titulo": "Iveco celebra con innovación",
+   "url": "https://www.construccionlatinoamericana.com/iveco-celebra-con-innovacion/134169.article",
+   "autor": "Iveco celebra con innovación"
+ },
+ {
+   "titulo": "ESAN cumple 55 años y fortalece su misión de formar profesionales innovadores y con valores",
+   "url": "https://gestion.pe/publirreportaje/esan-cumple-55-anos-fortalece-mision-formar-profesionales-innovadores-valores-240185",
+   "autor": "Diario Gestión"
+ },
+ {
+   "titulo": "Laboratorio de innovación en Logística",
+   "url": "https://gestion.pe/blog/innovar-o-ser-cambiado/2018/07/laboratorio-de-innovacion-logistica.html",
+   "autor": "Diario Gestión"
+ },
+ {
+   "titulo": "Lanzan programa de apoyo a emprendedores nacionales",
+   "url": "http://www.latribuna.hn/2018/07/31/lanzan-programa-de-apoyo-a-emprendedores-nacionales/",
+   "autor": "La Tribuna.hn"
+ },
+ {
+   "titulo": "¿Pueden los emprendedores ser filántropos o es un lujo que todavía no pueden darse?",
+   "url": "https://www.df.cl/noticias/tendencias/360/pueden-los-emprendedores-ser-filantropos-o-es-un-lujo-que-todavia-no/2018-07-31/160211.html",
+   "autor": "Diario Financiero"
+ },
+ {
+   "titulo": "Pese a buen resultado de emprendedores, Cuba guarda cautela",
+   "url": "https://www.elnuevoherald.com/noticias/mundo/america-latina/article215825420.html",
+   "autor": "El Nuevo Herald"
+ },
+ {
+   "titulo": "Ministro Valente logra apoyo de pymes y emprendedores para proyecto de Ley Pago a 30 días",
+   "url": "https://www.latercera.com/pulso/noticia/ministro-valente-logra-apoyo-pymes-emprendedores-proyecto-ley-pago-30-dias/264465/",
+   "autor": "LaTercera"
+ },
+ {
+   "titulo": "¡Atención! Se buscan emprendedores",
+   "url": "https://www.javerianacali.edu.co/noticias/atencion-se-buscan-emprendedores",
+   "autor": "Pontificia Universidad Javeriana, Cali"
+ },
+ {
+   "titulo": "Emergencia pyme",
+   "url": "https://www.pagina12.com.ar/131949-emergencia-pyme",
+   "autor": "Página 12"
+ },
+ {
+   "titulo": "Este artículo fue hecho gracias al esfuerzo de trabajo de un periodista profesional. Reconocelos compartiendo esta nota mediante este link: https://www.cronista.com/finanzasmercados/Inyectaran-al-menos--450-millones-a-productos-de-inversion-pyme-20180731-0007.html Copyright © www.cronista.com",
+   "url": "https://www.cronista.com/finanzasmercados/Inyectaran-al-menos--450-millones-a-productos-de-inversion-pyme-20180731-0007.html",
+   "autor": "El Cronista"
+ },
+ {
+   "titulo": "Desde el massismo van por una “ley de emergencia fiscal pyme para cuidar las fuentes de trabajo”",
+   "url": "https://infocielo.com/nota/94188/desde_el_massismo_van_por_una_ley_de_emergencia_fiscal_pyme_para_cuidar_las_fuentes_de_trabajo/",
+   "autor": "Infocielo"
+ },
+ {
+   "titulo": "Aprenda a visibilizar a su pyme en tiempos de dudas económicas",
+   "url": "https://www.larepublica.net/noticia/aprenda-a-visibilizar-a-su-pyme-en-tiempos-de-dudas-economicas",
+   "autor": "Periódico La República"
+ },
+ {
+   "titulo": "Microcréditos, la apuesta del Banco Pyme Ecofuturo en el área rural",
+   "url": "http://www.laprensa.com.bo/economia/20180731/microcreditos-la-apuesta-del-banco-pyme-ecofuturo-area-rural",
+   "autor": "La Prensa (Bolivia)"
+ },
+ {
+   "titulo": "Emprendedores que 'recosen' las ideas",
+   "url": "http://www.elmundo.es/economia/innovadores/2018/07/31/5b5f1c92468aebec518b45e5.html",
+   "autor": "El Mundo"
+ },
+ {
+   "titulo": "Emprendedores más formados gracias a la Cámara de Comercio",
+   "url": "https://www.lancelotdigital.com/lanzarote/emprendedores-mas-formados-gracias-a-la-camara-de-comercio",
+   "autor": "Lancelot Digital"
+ },
+ {
+   "titulo": "Financiación 2018 para Emprendedores y Pymes Innovadoras. NEOTEC y CREATEC",
+   "url": "http://www.ivace.es/index.php?option=com_content&view=article&id=6982:jornada-financiacion-2018-para-emprendedores-y-pymes-innovadoras-neotec-y-createc&catid=48&lang=es&Itemid=100583",
+   "autor": "Ivace"
+ },
+ {
+   "titulo": "Abierta la convocatoria para empresas navarras innovadoras interesadas en participar en una misión a Estados Unidos",
+   "url": "https://www.lavanguardia.com/local/navarra/20180731/451175296982/abierta-la-convocatoria-para-empresas-navarras-innovadoras-interesadas-en-participar-en-una-mision-a-estados-unidos.html",
+   "autor": "La Vanguardia"
+ },
+ {
+   "titulo": "Aprender y analizar las causas del fracaso es clave para reemprender",
+   "url": "http://www.economiaynegocios.cl/noticias/noticias.asp?id=492051",
+   "autor": "Economía y Negocios online"
+ },
+ {
+   "titulo": "¿Cada cuánto debe la pyme cambiar su logo e imagen corporativa?",
+   "url": "https://cincodias.elpais.com/cincodias/2018/07/30/pyme/1532987436_943626.html",
+   "autor": "Cinco Días"
+ },
+ {
+   "titulo": "Un nuevo acuerdo permitirá financiar con otros 500 millones a pymes",
+   "url": "https://cincodias.elpais.com/cincodias/2018/07/31/pyme/1533065522_540306.html",
+   "autor": "Cinco Días"
+ },
+ {
+   "titulo": "De camarero en Holanda a tener una pyme en Altea con 20 empleados",
+   "url": "https://cincodias.elpais.com/cincodias/2018/07/30/emprendedores/1532973846_619626.html",
+   "autor": "Cinco Días"
+ },
+ {
+   "titulo": "Pymes: la Ciudad baja tasas y frena retenciones de Ingresos Brutos",
+   "url": "https://www.lanacion.com.ar/2157809-pymes-la-ciudad-baja-tasas-y-frena-retenciones-de-ingresos-brutos",
+   "autor": "LA NACION "
+ },
+ {
+   "titulo": "Este artículo fue hecho gracias al esfuerzo de trabajo de un periodista profesional. Reconocelos compartiendo esta nota mediante este link: https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html Copyright © www.cronista.com",
+   "url": "https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html",
+   "autor": "El Cronista"
+ },
+ {
+   "titulo": "El PAR presenta 21 enmiendas a la ley de Investigación e Innovación y pide inversión en I+D+i e incentivar a empresas ",
+   "url": "https://www.20minutos.es/noticia/3407780/0/par-presenta-21-enmiendas-ley-investigacion-innovacion-pide-inversion-i-d-i-incentivar-empresas/",
+   "autor": "20minutos.es"
+ },
+ {
+   "titulo": "Silence se alza con el premio europeo a la innovación empresarial",
+   "url": "http://economiademallorca.com/not/17932/silence-se-alza-con-el-premio-europeo-a-la-innovacion-empresarial",
+   "autor": "EconomíadeMallorca"
+ }
+]
+}
