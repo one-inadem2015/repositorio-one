@@ -1,5 +1,5 @@
 {
-	"noticias" : [
+   "noticias" : [
  {
    "titulo": "Presentan programa de Semana Nacional del Emprendedor",
    "url": "https://www.elindependientedehidalgo.com.mx/presentan-programa-de-semana-nacional-del-emprendedor-2/",
@@ -41,7 +41,7 @@
    "autor": "Merca2.0"
  },
  {
-   "titulo": "Este artículo fue hecho gracias al esfuerzo de trabajo de un periodista profesional. Reconocelos compartiendo esta nota mediante este link: https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html Copyright © www.cronista.com",
+   "titulo": "Gastón Ríos: \"Las pymes aún pueden financiarse en el mercado local\"",
    "url": "https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html",
    "autor": "El Cronista"
  },
@@ -121,7 +121,7 @@
    "autor": "Página 12"
  },
  {
-   "titulo": "Este artículo fue hecho gracias al esfuerzo de trabajo de un periodista profesional. Reconocelos compartiendo esta nota mediante este link: https://www.cronista.com/finanzasmercados/Inyectaran-al-menos--450-millones-a-productos-de-inversion-pyme-20180731-0007.html Copyright © www.cronista.com",
+   "titulo": "Inyectarán al menos $ 450 millones a productos de inversión pyme",
    "url": "https://www.cronista.com/finanzasmercados/Inyectaran-al-menos--450-millones-a-productos-de-inversion-pyme-20180731-0007.html",
    "autor": "El Cronista"
  },
@@ -186,11 +186,6 @@
    "autor": "LA NACION "
  },
  {
-   "titulo": "Este artículo fue hecho gracias al esfuerzo de trabajo de un periodista profesional. Reconocelos compartiendo esta nota mediante este link: https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html Copyright © www.cronista.com",
-   "url": "https://www.cronista.com/finanzasmercados/Gaston-Rios-Las-pymes-aun-pueden-financiarse-en-el-mercado-local-20180730-0081.html",
-   "autor": "El Cronista"
- },
- {
    "titulo": "El PAR presenta 21 enmiendas a la ley de Investigación e Innovación y pide inversión en I+D+i e incentivar a empresas ",
    "url": "https://www.20minutos.es/noticia/3407780/0/par-presenta-21-enmiendas-ley-investigacion-innovacion-pide-inversion-i-d-i-incentivar-empresas/",
    "autor": "20minutos.es"
@@ -199,6 +194,11 @@
    "titulo": "Silence se alza con el premio europeo a la innovación empresarial",
    "url": "http://economiademallorca.com/not/17932/silence-se-alza-con-el-premio-europeo-a-la-innovacion-empresarial",
    "autor": "EconomíadeMallorca"
+ },
+ {
+   "titulo": "V Edición del Máster propio en Marketing Online y Estrategias en Social Media",
+   "url": "https://canal.ugr.es/noticia/master-propio-marketing-online-social-media/",
+   "autor": "Canal UGR"
  }
 ]
 }
