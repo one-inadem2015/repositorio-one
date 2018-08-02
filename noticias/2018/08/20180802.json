@@ -1,8 +1,8 @@
 {
-	"noticias" : [
+   "noticias" : [
  {
-   "titulo": "https://www.marketingdirecto.com/digital-general/digital/sizmek-presenta-su-nueva-plataforma-dsp-que-liderara-el-marketing-digital",
-   "url": "",
+   "titulo": "Sizmek presenta su nueva plataforma DSP que liderará el marketing digital",
+   "url": "https://www.marketingdirecto.com/digital-general/digital/sizmek-presenta-su-nueva-plataforma-dsp-que-liderara-el-marketing-digital",
    "autor": "MarketingDirecto"
  },
  {
@@ -11,7 +11,7 @@
    "autor": "El Empresario"
  },
  {
-   "titulo": "El Empresario",
+   "titulo": "Seis formas en que una Pyme puede aprovechar Blockchain.",
    "url": "http://elempresario.mx/blockchain/seis-formas-que-pyme-puede-aprovechar-blockchain",
    "autor": "El Empresario"
  },
@@ -82,7 +82,7 @@
  },
  {
    "titulo": "La Provincia financia créditos a las pymes",
-   "url": "",
+   "url": "https://www.lmcipolletti.com/la-provincia-financia-creditos-las-pymes-n600905",
    "autor": "LMCipolletti.com"
  },
  {
