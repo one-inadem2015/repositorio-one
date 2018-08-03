@@ -332,90 +332,198 @@
     
   ],
   "videos" : [
-      {
-       "titulo": "Startups Mexicanas que conocimos en Silicon Valley",
-       "url": "https://www.youtube.com/embed/wnfMmrG52ag",
-       "tipo": 0,
-       "img": "1.PNG"
-      },
-      {
-       "titulo": "Startups mexicanas están creciendo exponencialmente: MassChallenge México / Imagen Empresarial",
-       "url": "https://www.youtube.com/embed/aCJtwavCj4k",
-       "tipo": 0,
-       "img": "2.PNG"
-      },
-      {
-       "titulo": "Cómo empezar una startup | Pamela Valdés",
-       "url": "https://www.youtube.com/embed/a81wq4iV864",
-       "tipo": 0,
-       "img": "3.PNG"
-      },
-      {
-       "titulo": "Cómo funciona una startup",
-       "url": "https://www.youtube.com/embed/avpHbigVa4Q",
-       "tipo": 0,
-       "img": "4.PNG"
-      },
-      {
-       "titulo": "Startup Zacatecas 2018",
-       "url": "https://www.youtube.com/embed/GAjgjZ8MntQ",
-       "tipo": 0,
-       "img": "5.PNG"
-      },
-      {
-       "titulo": "Seis startups que pueden transformar el sector de la moda",
-       "url": "https://www.youtube.com/embed/xZXkaoYPCgQ",
-       "tipo": 2,
-       "img": "6.PNG"
-      },
-      {
-       "titulo": "Startups más valiosas del mundo en 2018: cuáles son y qué hacen",
-       "url": "https://www.youtube.com/embed/2ZOWqwV28gM",
-       "tipo": 0,
-       "img": "7.PNG"
-      },
-      {
-       "titulo": "¿Porqué invertir en Startups?",
-       "url": "https://www.youtube.com/embed/PHatQfypmgc",
-       "tipo": 0,
-       "img": "8.PNG"
-      },
-      {
-       "titulo": "Backstartup: Experiencia en 500 Startups",
-       "url": "https://www.youtube.com/embed/tcHy56MkagU",
-       "tipo": 0,
-       "img": "9.PNG"
-      },
-      {
-       "titulo": "Cómo construir una startup",
-       "url": "https://www.youtube.com/embed/IJLFg7s2QWA",
-       "tipo": 0,
-       "img": "10.PNG"
-      },
-      {
-       "titulo": "3 Características de los Emprendedores exitosos de Silicon Valley | Startups Exitosas | E-talk #04",
-       "url": "https://www.youtube.com/embed/4EfrZ8kEGUs",
-       "tipo": 2,
-       "img": "11.PNG"
-      },
-      {
-       "titulo": "¿Qué es Startup México?",
-       "url": "https://www.youtube.com/embed/EGHbg2TUZnQ",
-       "tipo": 0,
-       "img": "12.PNG"
-      },
-      {
-       "titulo": "Startup Story: Shipit.mx ( MassChallenge Mexico Class 2017)",
-       "url": "https://www.youtube.com/embed/Vdu5iNiBt50",
-       "tipo": 0,
-       "img": "13.PNG"
-      },
-      {
-       "titulo": "Los Startups y el emprendimiento en México",
-       "url": "https://www.youtube.com/embed/OYAQy32OU5U",
-       "tipo": 0,
-       "img": "14.PNG"
-      }
+	{
+	"titulo": "Startups Mexicanas que conocimos en Silicon Valley",
+	"url": "https://www.youtube.com/embed/wnfMmrG52ag",
+	"tipo": 0,
+	"img": "1.PNG"
+	},
+	{
+	"titulo": "Startups mexicanas están creciendo exponencialmente: MassChallenge México / Imagen Empresarial",
+	"url": "https://www.youtube.com/embed/aCJtwavCj4k",
+	"tipo": 0,
+	"img": "2.PNG"
+	},
+	{
+	"titulo": "Cómo empezar una startup | Pamela Valdés",
+	"url": "https://www.youtube.com/embed/a81wq4iV864",
+	"tipo": 0,
+	"img": "3.PNG"
+	},
+	{
+	"titulo": "Cómo funciona una startup",
+	"url": "https://www.youtube.com/embed/avpHbigVa4Q",
+	"tipo": 0,
+	"img": "4.PNG"
+	},
+	{
+	"titulo": "Startup Zacatecas 2018",
+	"url": "https://www.youtube.com/embed/GAjgjZ8MntQ",
+	"tipo": 0,
+	"img": "5.PNG"
+	},
+	{
+	"titulo": "Seis startups que pueden transformar el sector de la moda",
+	"url": "https://www.youtube.com/embed/xZXkaoYPCgQ",
+	"tipo": 2,
+	"img": "6.PNG"
+	},
+	{
+	"titulo": "Startups más valiosas del mundo en 2018: cuáles son y qué hacen",
+	"url": "https://www.youtube.com/embed/2ZOWqwV28gM",
+	"tipo": 0,
+	"img": "7.PNG"
+	},
+	{
+	"titulo": "¿Porqué invertir en Startups?",
+	"url": "https://www.youtube.com/embed/PHatQfypmgc",
+	"tipo": 0,
+	"img": "8.PNG"
+	},
+	{
+	"titulo": "Backstartup: Experiencia en 500 Startups",
+	"url": "https://www.youtube.com/embed/tcHy56MkagU",
+	"tipo": 0,
+	"img": "9.PNG"
+	},
+	{
+	"titulo": "Cómo construir una startup",
+	"url": "https://www.youtube.com/embed/IJLFg7s2QWA",
+	"tipo": 0,
+	"img": "10.PNG"
+	},
+	{
+	"titulo": "3 Características de los Emprendedores exitosos de Silicon Valley | Startups Exitosas | E-talk #04",
+	"url": "https://www.youtube.com/embed/4EfrZ8kEGUs",
+	"tipo": 2,
+	"img": "11.PNG"
+	},
+	{
+	"titulo": "¿Qué es Startup México?",
+	"url": "https://www.youtube.com/embed/EGHbg2TUZnQ",
+	"tipo": 0,
+	"img": "12.PNG"
+	},
+	{
+	"titulo": "Startup Story: Shipit.mx ( MassChallenge Mexico Class 2017)",
+	"url": "https://www.youtube.com/embed/Vdu5iNiBt50",
+	"tipo": 0,
+	"img": "13.PNG"
+	},
+	{
+	"titulo": "Los Startups y el emprendimiento en México",
+	"url": "https://www.youtube.com/embed/OYAQy32OU5U",
+	"tipo": 0,
+	"img": "14.PNG"
+	},
+	{
+	"titulo": "500 Startup México, un escalón de impulso para nuevos inversores / Imagen Empresarial",
+	"url": "https://www.youtube.com/embed/ZHH-yrhCieg",
+	"tipo": 0,
+	"img": "15.PNG"
+	},
+	{
+	"titulo": "Marcus Dantus - Director de Startup México y participante del programa Shark Tank",
+	"url": "https://www.youtube.com/embed/KpsjLOBObBk",
+	"tipo": 0,
+	"img": "16.PNG"
+	},
+	{
+	"titulo": "Características de éxito en una startup",
+	"url": "https://www.youtube.com/embed/v6oJhq_YM8w",
+	"tipo": 0,
+	"img": "17.PNG"
+	},
+	{
+	"titulo": "Startups-Tecnologia",
+	"url": "https://www.youtube.com/embed/yEVRStLsyec",
+	"tipo": 0,
+	"img": "18.PNG"
+	},
+	{
+	"titulo": "COMO SER FOUNDER STARTUPS EN \"AMÉRICA LATINA\"",
+	"url": "https://www.youtube.com/embed/5DnFOxvdl7g",
+	"tipo": 0,
+	"img": "19.PNG"
+	},
+	{
+	"titulo": "¿Qué perfiles profesionales busca una 'startup'?",
+	"url": "https://www.youtube.com/embed/JEs3A4S96qI",
+	"tipo": 0,
+	"img": "20.PNG"
+	},
+	{
+	"titulo": "El método Lean Startup - Por Eric Ries - Resumen animado",
+	"url": "https://www.youtube.com/embed/FNK2i8367yk",
+	"tipo": 0,
+	"img": "21.PNG"
+	},
+	{
+	"titulo": "Cómo hacer crecer tu empresa tecnológica startup o no - Sylvia Chebi (ThalesLab) | GeneXus GX27",
+	"url": "https://www.youtube.com/embed/dhpctTqg3SE",
+	"tipo": 0,
+	"img": "22.PNG"
+	},
+	{
+	"titulo": "FIA SMART CITIES STARTUP 2017 - Summary Mexico City",
+	"url": "https://www.youtube.com/embed/5VdE_P_yWq8",
+	"tipo": 0,
+	"img": "23.PNG"
+	},
+	{
+	"titulo": "From Startup to Scale Up: Best Practices in Growth from Silicon Valley",
+	"url": "https://www.youtube.com/embed/KkNOfdVl7qo",
+	"tipo": 2,
+	"img": "24.PNG"
+	},
+	{
+	"titulo": "SCALE UPS",
+	"url": "https://www.youtube.com/embed/TyQI3cCTVVs",
+	"tipo": 1,
+	"img": "25.PNG"
+	},
+	{
+	"titulo": "The Fundamentals of B2B SaaS sales for 3 high-growth European scaleups",
+	"url": "https://www.youtube.com/embed/mIn1dJcM3dQ",
+	"tipo": 1,
+	"img": "26.PNG"
+	},
+	{
+	"titulo": "scaleups AREO",
+	"url": "https://www.youtube.com/embed/X9VdOPIOteo",
+	"tipo": 1,
+	"img": "27.PNG"
+	},
+	{
+	"titulo": "David Butler - Design to Grow, from Startups to Scale-ups",
+	"url": "https://www.youtube.com/embed/Bdt42Nf6Yrw",
+	"tipo": 2,
+	"img": "32.PNG"
+	},
+	{
+	"titulo": "Portuguese scaleups report presentation at scaleup Porto",
+	"url": "https://www.youtube.com/embed/yJ2sIZ0YU2s",
+	"tipo": 2,
+	"img": "28.PNG"
+	},
+	{
+	"titulo": "Global Entrepreneurship Week: from start-ups to scale ups",
+	"url": "https://www.youtube.com/embed/Y_JGFwxjpWM",
+	"tipo": 2,
+	"img": "29.PNG"
+	},
+	{
+	"titulo": "Startups need to become Scaleups : StartupItalia.eu",
+	"url": "https://www.youtube.com/embed/ldjWSce2vrU",
+	"tipo": 2,
+	"img": "30.PNG"
+	},
+	{
+	"titulo": "Growing Startups to Scaleups",
+	"url": "https://www.youtube.com/embed/1CsQXBHXelQ",
+	"tipo": 2,
+	"img": "31.PNG"
+	}
   ],
   "herramientas" : [
       {
