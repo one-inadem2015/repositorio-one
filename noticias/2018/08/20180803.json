@@ -1,5 +1,5 @@
 {
-	"noticias" : [
+   "noticias" : [
  {
    "titulo": "Realizaron curso taller para formar emprendedores",
    "url": "https://www.elsoldesanluis.com.mx/local/soledad/realizaron-curso-taller-para-formar-emprendedores-1885649.html",
@@ -53,12 +53,12 @@
  {
    "titulo": "Premian proyectos de emprendedores",
    "url": "http://www.elvigia.net/general/2018/8/2/premian-proyectos-de-emprendedores-309769.html",
-   "autor": ""
+   "autor": "El vigia.net"
  },
  {
    "titulo": "Apoya Estado a emprendedores",
    "url": "http://netnoticias.mx/2018-08-02-765f891a/apoya-estado-a-emprendedores/",
-   "autor": ""
+   "autor": "netnotcias mx"
  },
  {
    "titulo": "Emprendedores aprovechan 'problema' de algas marinas",
@@ -200,5 +200,5 @@
    "url": "https://www.lavanguardia.com/vida/20180802/451190902672/premios-accion-magistral-2018-valoraran-la-creatividad-y-la-innovacion.html",
    "autor": "La Vanguardia"
  }
-]	
+]
 }
