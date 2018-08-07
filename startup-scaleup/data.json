@@ -329,8 +329,37 @@
     }
   ],
   "glosario" : [
-    
-  ],
+	 {
+	   "titulo": "Aceleradora",
+	   "cuerpo": "Iniciativa pública o privada que tiene como objetivo impulsar startups y prestarles su apoyo con mentores, contactos, financiación, asesoramiento e, incluso formación. Dependiendo de la naturaleza de la aceleradora, ésta puede pedir a cambio de los servicios prestados una participación de la compañía.",
+	   "fuente": " equity"
+	 },
+	 {
+	   "titulo": "Activar",
+	   "cuerpo": "Contabilizar en el activo, como elemento que forma parte de las cuentas anuales, todas aquellas partidas que provengan tanto de inversiones como de gastos que cumplan los requisitos para su reconocimiento en función del marco conceptual de referencia. Se utiliza como sinónimo del término “capitalizar”.",
+	   "fuente": "Mora Enguídanos, Araceli. Diccionario de Contabilidad, Auditoría y Control de Gestión. Ecobook. ISBN 978-84-96877-23-8."
+	 },
+	 {
+	   "titulo": "Balance",
+	   "cuerpo": "Estado financiero que recoge todas las partidas que integran el patrimonio de la empresa en un momento determinado, valoradas en unidades monetarias y clasificadas por masas patrimoniales en activo, pasivo y patrimonio neto.",
+	   "fuente": "Mora Enguídanos, Araceli. Diccionario de Contabilidad, Auditoría y Control de Gestión. Ecobook. ISBN 978-84-96877-23-8."
+	 },
+	 {
+	   "titulo": "Benchmark",
+	   "cuerpo": "Término procedente del inglés que significa evaluar o medir algo (productos, servicios y prácticas) en relación a un modelo de comparación. se puede utilizar para analizar tanto el comportamiento de una organización, un activo financiero o cualquier otra variable.",
+	   "fuente": "Mora Enguídanos, Araceli. Diccionario de Contabilidad, Auditoría y Control de Gestión. Ecobook. ISBN 978-84-96877-23-8."
+	 },
+	 {
+	   "titulo": "Bootstrapping",
+	   "cuerpo": "Iniciativa pública o privada que tiene como objetivo impulsar startups y prestarles su apoyo con mentores, contactos, financiación, asesoramiento e, incluso formación. Dependiendo de la naturaleza de la aceleradora, ésta puede pedir a cambio de los servicios prestados una participación de la compañía.",
+	   "fuente": " equity"
+	 },
+	 {
+	   "titulo": "Capital",
+	   "cuerpo": "Mora Enguídanos, Araceli. Diccionario de Contabilidad, Auditoría y Control de Gestión. Ecobook. ISBN 978-84-96877-23-8.",
+	   "fuente": ""
+	 }
+	],
   "videos" : [
 	{
 	"titulo": "Startups Mexicanas que conocimos en Silicon Valley",
