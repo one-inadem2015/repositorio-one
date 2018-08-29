@@ -1,4 +1,5 @@
-[
+{
+	"noticias" : [
  {
    "titulo": "Sinaloa necesita avanzar en Innovación y emprendimiento",
    "url": "https://www.debate.com.mx/sinaloa/sinaloa-necesita-avanzar-en-innovacion-y-emprendimiento-mexico-seguridad-publica-20180806-0114.html",
@@ -198,20 +199,6 @@
    "titulo": "Ventas minoristas pyme cayeron un 5.8 % en Julio",
    "url": "https://www.lavozdetandil.com.ar/2018/08/06/ventas-minoristas-pyme-cayeron-un-5.8---en-julio-",
    "autor": "La Voz de Tandil"
- },
- {
-   "titulo": "",
-   "url": "",
-   "autor": ""
- },
- {
-   "titulo": "",
-   "url": "",
-   "autor": ""
- },
- {
-   "titulo": "",
-   "url": "",
-   "autor": ""
- }
-]
+	 }
+	]
+}
