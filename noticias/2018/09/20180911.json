@@ -1,199 +1,194 @@
 {
    "noticias" : [
  {
-   "TITULO": "¿Pyme tecnológica con ganas de expandir tu formación? Silicon Valley te ayuda",
-   "LIGA": "https://cincodias.elpais.com/cincodias/2018/09/10/pyme/1536598149_868927.html",
-   "AUTOR": "Cinco Días"
+   "titulo": "¿Pyme tecnológica con ganas de expandir tu formación? silicon valley te ayuda",
+   "liga": "https://cincodias.elpais.com/cincodias/2018/09/10/pyme/1536598149_868927.html",
+   "autor": "cinco días"
  },
  {
-   "TITULO": "Del fracaso tributario a la simplificación pro PYME",
-   "LIGA": "https://www.df.cl/noticias/opinion/columnistas/jorge-hermann/del-fracaso-tributario-a-la-simplificacion-pro-pyme/2018-09-10/173339.html",
-   "AUTOR": "Diario Financiero"
+   "titulo": "Del fracaso tributario a la simplificación pro pyme",
+   "liga": "https://www.df.cl/noticias/opinion/columnistas/jorge-hermann/del-fracaso-tributario-a-la-simplificacion-pro-pyme/2018-09-10/173339.html",
+   "autor": "diario financiero"
  },
  {
-   "TITULO": "L'Alfàs sede de Focus Pyme y Emprendimiento Marina Baixa sobre Economía Circular",
-   "LIGA": "https://www.lalfas.es/concejalias/comercio/lalfas-sede-de-focus-pyme-y-emprendimiento-marina-baixa-sobre-economia-circular/",
-   "AUTOR": "Ayuntamiento de l'Alfàs del Pi"
+   "titulo": "L'alfàs sede de focus pyme y emprendimiento marina baixa sobre economía circular",
+   "liga": "https://www.lalfas.es/concejalias/comercio/lalfas-sede-de-focus-pyme-y-emprendimiento-marina-baixa-sobre-economia-circular/",
+   "autor": "ayuntamiento de l'alfàs del pi"
  },
  {
-   "TITULO": "Es Foro Mujer Pyme una actividad abierta también para hombres",
-   "LIGA": "https://www.frontera.info/EdicionEnLinea/Notas/Noticias/10092018/1371844-Es-Foro-Mujer-Pyme-una-actividad-abierta-tambien-para-hombres.html",
-   "AUTOR": "FRONTERA.INFO"
+   "titulo": "Es foro mujer pyme una actividad abierta también para hombres",
+   "liga": "https://www.frontera.info/edicionenlinea/notas/noticias/10092018/1371844-es-foro-mujer-pyme-una-actividad-abierta-tambien-para-hombres.html",
+   "autor": "frontera.info"
  },
  {
-   "TITULO": "Solo un 30% de las pymes renueva su imagen corporativa cada diez años",
-   "LIGA": "https://directivosygerentes.es/pymes/noticias-pymes/pymes-imagen-corporativa",
-   "AUTOR": "Directivos y Gerentes"
+   "titulo": "Solo un 30% de las pymes renueva su imagen corporativa cada diez años",
+   "liga": "https://directivosygerentes.es/pymes/noticias-pymes/pymes-imagen-corporativa",
+   "autor": "directivos y gerentes"
  },
  {
-   "TITULO": "L'Alfàs será la sede del Focus Pyme y Emprendimiento Marina Baixa sobre Economía Circular el 2 ...",
-   "LIGA": "https://comarcalcv.com/lalfas-sera-la-sede-de-focus-pyme-y-emprendimiento-marina-baixa-sobre-economia-circular-el-2-de-octubre/",
-   "AUTOR": "ComarcalCV"
+   "titulo": "L'alfàs será la sede del focus pyme y emprendimiento marina baixa sobre economía circular el 2 ...",
+   "liga": "https://comarcalcv.com/lalfas-sera-la-sede-de-focus-pyme-y-emprendimiento-marina-baixa-sobre-economia-circular-el-2-de-octubre/",
+   "autor": "comarcalcv"
  },
  {
-   "TITULO": "Cornejo se reunió con los miembros de Observatorio Pyme",
-   "LIGA": "http://jornadaonline.com/mendoza/196592-cornejo-se-reunio-con-los-miembros-de-observatorio-pyme",
-   "AUTOR": "JornadaOnline"
+   "titulo": "Cornejo se reunió con los miembros de observatorio pyme",
+   "liga": "http://jornadaonline.com/mendoza/196592-cornejo-se-reunio-con-los-miembros-de-observatorio-pyme",
+   "autor": "jornadaonline"
  },
  {
-   "TITULO": "En medio de la crisis económica, Massa pidió por las Pyme y cuestionó a la Afip",
-   "LIGA": "https://www.urgente24.com/280761-en-medio-de-la-crisis-economica-massa-pidio-por-las-pyme-y-cuestiono-a-la-afip",
-   "AUTOR": "Urgente 24"
+   "titulo": "En medio de la crisis económica, massa pidió por las pyme y cuestionó a la afip",
+   "liga": "https://www.urgente24.com/280761-en-medio-de-la-crisis-economica-massa-pidio-por-las-pyme-y-cuestiono-a-la-afip",
+   "autor": "urgente 24"
  },
  {
-   "TITULO": "La Came le pidió a Macri tasas diferenciales para Pymes",
-   "LIGA": "https://www.cadena3.com/noticias/politica-economia/came-pidio-macri-tasas-diferenciales-para-pymes_122985",
-   "AUTOR": "Cadena 3"
+   "titulo": "La came le pidió a macri tasas diferenciales para pymes",
+   "liga": "https://www.cadena3.com/noticias/politica-economia/came-pidio-macri-tasas-diferenciales-para-pymes_122985",
+   "autor": "cadena 3"
  },
  {
-   "TITULO": "900 empresas forman parte de la mesa PyME",
-   "LIGA": "http://www.jujuyaldia.com.ar/2018/09/11/900-empresas-forman-parte-de-la-mesa-pyme/",
-   "AUTOR": "Jujuy al día (Comunicado de prensa)"
+   "titulo": "900 empresas forman parte de la mesa pyme",
+   "liga": "http://www.jujuyaldia.com.ar/2018/09/11/900-empresas-forman-parte-de-la-mesa-pyme/",
+   "autor": "jujuy al día (comunicado de prensa)"
  },
  {
-   "TITULO": "Inadem celebra la Semana del Emprendedor con dudas sobre su existencia",
-   "LIGA": "https://expansion.mx/emprendedores/2018/09/10/inadem-celebra-la-semana-del-emprendedor-con-dudas-sobre-su-existencia",
-   "AUTOR": "Expansión"
+   "titulo": "INADEM celebra la semana del emprendedor con dudas sobre su existencia",
+   "liga": "https://expansion.mx/emprendedores/2018/09/10/inadem-celebra-la-semana-del-emprendedor-con-dudas-sobre-su-existencia",
+   "autor": "expansión"
  },
  {
-   "TITULO": "Inadem ha apoyado 500000 negocios",
-   "LIGA": "http://elempresario.mx/emprendedores/inadem-ha-apoyado-500000-negocios",
-   "AUTOR": "El Empresario"
+   "titulo": "INADEM ha apoyado 500000 negocios",
+   "liga": "http://elempresario.mx/emprendedores/inadem-ha-apoyado-500000-negocios",
+   "autor": "el empresario"
  },
  {
-   "TITULO": "Fumec recibe galardón por parte de Inadem",
-   "LIGA": "http://mundoejecutivo.com.mx/economia-negocios/2018/09/10/fumec-recibe-galardon-por-parte-inadem",
-   "AUTOR": "Grupo Mundo Ejecutivo"
+   "titulo": "Fumec recibe galardón por parte de inadem",
+   "liga": "http://mundoejecutivo.com.mx/economia-negocios/2018/09/10/fumec-recibe-galardon-por-parte-inadem",
+   "autor": "grupo mundo ejecutivo"
+},
+ {
+   "titulo": "Las mipymes y los emprendedores brindan 52% de los empleos del país: peña nieto",
+   "liga": "https://www.eleconomista.com.mx/empresas/las-mipymes-y-los-emprendedores-brindan-52-de-los-empleos-del-pais-pena-nieto-20180910-0055.html",
+   "autor": "el economista"
  },
  {
-   "TITULO": "CAPITANES",
-   "LIGA": "http://www.eldiariodecoahuila.com.mx/editoriales/2018/9/11/capitanes-758587.html",
-   "AUTOR": "El Diario de Coahuila"
+   "titulo": "Conoce a los ganadores del premio nacional emprendedor 2018",
+   "liga": "https://www.entrepreneur.com/article/319873",
+   "autor": "entrepreneur"
  },
  {
-   "TITULO": "Las mipymes y los emprendedores brindan 52% de los empleos del país: Peña Nieto",
-   "LIGA": "https://www.eleconomista.com.mx/empresas/Las-mipymes-y-los-emprendedores-brindan-52-de-los-empleos-del-pais-Pena-Nieto-20180910-0055.html",
-   "AUTOR": "El Economista"
+   "titulo": "Emprendedurismo genera 52 por ciento de empleos: epn",
+   "liga": "http://dnf.com.mx/index.php/2018/09/10/emprendedurismo-genera-52-por-ciento-de-empleos-epn/",
+   "autor": "dinero, negocios y finanzas (comunicado de prensa)"
  },
  {
-   "TITULO": "Conoce a los ganadores del Premio Nacional Emprendedor 2018",
-   "LIGA": "https://www.entrepreneur.com/article/319873",
-   "AUTOR": "Entrepreneur"
+   "titulo": "Dueño del financiero recibe el premio 'trayectoria empresarial emprendedora'",
+   "liga": "http://www.elfinanciero.com.mx/empresas/dueno-de-el-financiero-recibe-el-premio-trayectoria-empresarial-emprendedora",
+   "autor": "el financiero"
  },
  {
-   "TITULO": "Emprendedurismo genera 52 por ciento de empleos: EPN",
-   "LIGA": "http://dnf.com.mx/index.php/2018/09/10/emprendedurismo-genera-52-por-ciento-de-empleos-epn/",
-   "AUTOR": "Dinero, negocios y finanzas (Comunicado de prensa)"
+   "titulo": "México y Brasil impulsan crecimiento de emprendedores y MIPYMES",
+   "liga": "https://www.20minutos.com.mx/noticia/417509/0/mexico-y-brasil-impulsan-crecimiento-de-emprendedores-y-mipymes/",
+   "autor": "20minutos.com.mx"
  },
  {
-   "TITULO": "Dueño de El Financiero recibe el premio 'Trayectoria Empresarial Emprendedora'",
-   "LIGA": "http://www.elfinanciero.com.mx/empresas/dueno-de-el-financiero-recibe-el-premio-trayectoria-empresarial-emprendedora",
-   "AUTOR": "El Financiero"
+   "titulo": "Peña nieto reconoce a emprendedores como referentes del éxito",
+   "liga": "http://www.sexenio.com.mx/aplicaciones/articulo/default.aspx?id=260154",
+   "autor": "sexenio, las noticias de méxico"
  },
  {
-   "TITULO": "México y Brasil impulsan crecimiento de emprendedores y Mipymes",
-   "LIGA": "https://www.20minutos.com.mx/noticia/417509/0/mexico-y-brasil-impulsan-crecimiento-de-emprendedores-y-mipymes/",
-   "AUTOR": "20minutos.com.mx"
+   "titulo": "Rappi, el emprendimiento digital que logró valorarse en más de us$1.000 millones",
+   "liga": "https://www.elpais.com.co/economia/rappi-el-emprendimiento-digital-que-logro-valorarse-en-mas-de-us-1-000-millones.html",
+   "autor": "el país – cali"
  },
  {
-   "TITULO": "Peña Nieto reconoce a emprendedores como referentes del éxito",
-   "LIGA": "http://www.sexenio.com.mx/aplicaciones/articulo/default.aspx?Id=260154",
-   "AUTOR": "Sexenio, las noticias de México"
+   "titulo": "Pasos simples que debes conocer si el emprendimiento es lo tuyo",
+   "liga": "https://t3mexico.mx/emprendedores/",
+   "autor": "T3 méxico (comunicado de prensa) (blog)"
  },
  {
-   "TITULO": "Rappi, el emprendimiento digital que logró valorarse en más de US$1.000 millones",
-   "LIGA": "https://www.elpais.com.co/economia/rappi-el-emprendimiento-digital-que-logro-valorarse-en-mas-de-us-1-000-millones.html",
-   "AUTOR": "El País – Cali"
+   "titulo": "Emprendimiento en perú: tres anclas que impiden su desarrollo y seis alternativas de solución",
+   "liga": "https://gestion.pe/economia/management-empleo/emprendimiento-peru-tres-anclas-impiden-desarrollo-seis-alternativas-solucion-244027",
+   "autor": "diario gestión"
  },
  {
-   "TITULO": "Pasos simples que debes conocer si el emprendimiento es lo tuyo",
-   "LIGA": "https://t3mexico.mx/emprendedores/",
-   "AUTOR": "T3 México (Comunicado de prensa) (blog)"
+   "titulo": "52% de los empleos del país nace del emprendimiento",
+   "liga": "http://mundoejecutivo.com.mx/economia-negocios/2018/09/10/52-empleos-pais-nace-emprendimiento",
+   "autor": "grupo mundo ejecutivo"
  },
  {
-   "TITULO": "Emprendimiento en Perú: Tres anclas que impiden su desarrollo y seis alternativas de solución",
-   "LIGA": "https://gestion.pe/economia/management-empleo/emprendimiento-peru-tres-anclas-impiden-desarrollo-seis-alternativas-solucion-244027",
-   "AUTOR": "Diario Gestión"
+   "titulo": "Acuerdo de colaboración entre wolters kluwer y el instituto de emprendimientoavanzado",
+   "liga": "https://www.interempresas.net/tecnologia-aulas/articulos/223204-acuerdo-de-colaboracion-entre-wolters-kluwer-y-el-instituto-de-emprendimiento-avanzado.html",
+   "autor": "interempresas"
  },
  {
-   "TITULO": "52% de los empleos del país nace del emprendimiento",
-   "LIGA": "http://mundoejecutivo.com.mx/economia-negocios/2018/09/10/52-empleos-pais-nace-emprendimiento",
-   "AUTOR": "Grupo Mundo Ejecutivo"
+   "titulo": "AFAMMER y desafío mujer rural colaboraran en impulsar el emprendimiento femenino",
+   "liga": "https://www.clm24.es/articulo/economia/afammer-desafio-mujer-rural-colaboraran-impulsar-emprendimiento-femenino/20180911103631218904.html",
+   "autor": "clm24"
  },
  {
-   "TITULO": "Acuerdo de colaboración entre Wolters Kluwer y el Instituto de EmprendimientoAvanzado",
-   "LIGA": "https://www.interempresas.net/Tecnologia-aulas/Articulos/223204-Acuerdo-de-colaboracion-entre-Wolters-Kluwer-y-el-Instituto-de-Emprendimiento-Avanzado.html",
-   "AUTOR": "Interempresas"
+   "titulo": "Pérdidas por robo de gas lp hasta de mil 100 mdp",
+   "liga": "https://www.razon.com.mx/perdidas-por-robo-de-gas-lp-hasta-de-mil-100-mdp/",
+   "autor": "la razon"
  },
  {
-   "TITULO": "Afammer y Desafío Mujer Rural colaboraran en impulsar el emprendimientofemenino",
-   "LIGA": "https://www.clm24.es/articulo/economia/afammer-desafio-mujer-rural-colaboraran-impulsar-emprendimiento-femenino/20180911103631218904.html",
-   "AUTOR": "CLM24"
+   "titulo": "Juan valdez baja las cortinas de sus cafeterías en méxico",
+   "liga": "https://www.nssoaxaca.com/2018/09/09/juan-valdez-baja-las-cortinas-de-sus-cafeterias-en-mexico/",
+   "autor": "www.nssoaxaca.com"
  },
  {
-   "TITULO": "Pérdidas por robo de gas LP hasta de mil 100 mdp",
-   "LIGA": "https://www.razon.com.mx/perdidas-por-robo-de-gas-lp-hasta-de-mil-100-mdp/",
-   "AUTOR": "La Razon"
+   "titulo": "AT&T quiere ofrecer internet vía redes de electricidad a 1 gb por segundo",
+   "liga": "https://expansion.mx/empresas/2018/09/10/at-t-quiere-ofrecer-internet-via-redes-de-electricidad-a-1-gb-por-segundo",
+   "autor": "expansión"
  },
  {
-   "TITULO": "Juan Valdez baja las cortinas de sus cafeterías en México",
-   "LIGA": "https://www.nssoaxaca.com/2018/09/09/juan-valdez-baja-las-cortinas-de-sus-cafeterias-en-mexico/",
-   "AUTOR": "www.nssoaxaca.com"
+   "titulo": "Ofrecerán plática a emprendedores",
+   "liga": "http://www.elvigia.net/general/2018/9/10/ofreceran-platica-emprendedores-312113.html",
+   "autor": "el vigia.net (comunicado de prensa)"
  },
  {
-   "TITULO": "AT&T quiere ofrecer internet vía redes de electricidad a 1 Gb por segundo",
-   "LIGA": "https://expansion.mx/empresas/2018/09/10/at-t-quiere-ofrecer-internet-via-redes-de-electricidad-a-1-gb-por-segundo",
-   "AUTOR": "Expansión"
+   "titulo": "En israel, el ejército forma militares y… emprendedores",
+   "liga": "https://expansion.mx/emprendedores/2018/09/10/en-israel-el-ejercito-forma-militares-y-emprendedores",
+   "autor": "expansión"
  },
  {
-   "TITULO": "Ofrecerán plática a emprendedores",
-   "LIGA": "http://www.elvigia.net/general/2018/9/10/ofreceran-platica-emprendedores-312113.html",
-   "AUTOR": "El Vigia.net (Comunicado de prensa)"
+   "titulo": "Emprendedores, los que más emplean en méxico: peña nieto",
+   "liga": "https://heraldodemexico.com.mx/mer-k-2/emprendedores-los-que-mas-emplean-en-mexico-epn/",
+   "autor": "heraldo de méxico (comunicado de prensa) (blog)"
  },
  {
-   "TITULO": "En Israel, el ejército forma militares y… emprendedores",
-   "LIGA": "https://expansion.mx/emprendedores/2018/09/10/en-israel-el-ejercito-forma-militares-y-emprendedores",
-   "AUTOR": "Expansión"
+   "titulo": "Edad promedio de emprendedores exitosos es de 42 años: reinventado méxico",
+   "liga": "https://amqueretaro.com/el-pais/negocios/2018/09/10/edad-promedio-de-emprendedores-exitosos-es-de-42-anos-reinventado-mexico",
+   "autor": "periodico a.m."
  },
  {
-   "TITULO": "Emprendedores, los que más emplean en México: Peña Nieto",
-   "LIGA": "https://heraldodemexico.com.mx/mer-k-2/emprendedores-los-que-mas-emplean-en-mexico-epn/",
-   "AUTOR": "Heraldo de México (Comunicado de prensa) (blog)"
+   "titulo": "Grupo salinas con emprendedores",
+   "liga": "https://heraldodemexico.com.mx/opinion/grupo-salinas-con-emprendedores-corporativo/",
+   "autor": "heraldo de méxico (comunicado de prensa) (blog)"
  },
  {
-   "TITULO": "Edad promedio de emprendedores exitosos es de 42 años: Reinventado México",
-   "LIGA": "https://amqueretaro.com/el-pais/negocios/2018/09/10/edad-promedio-de-emprendedores-exitosos-es-de-42-anos-reinventado-mexico",
-   "AUTOR": "Periodico a.m."
+   "titulo": "MIPYMES y emprendedores brindan 52% de los empleos del país: peña nieto",
+   "liga": "http://elempresario.mx/emprendedores/mipymes-emprendedores-brindan-52-los-empleos-pais-pena-nieto",
+   "autor": "el empresario"
  },
  {
-   "TITULO": "Grupo Salinas con emprendedores",
-   "LIGA": "https://heraldodemexico.com.mx/opinion/grupo-salinas-con-emprendedores-corporativo/",
-   "AUTOR": "Heraldo de México (Comunicado de prensa) (blog)"
+   "titulo": "Las MIPYMES y los emprendedores brindan 52% de los empleos del país: peña nieto",
+   "liga": "https://www.eleconomista.com.mx/empresas/las-mipymes-y-los-emprendedores-brindan-52-de-los-empleos-del-pais-pena-nieto-20180910-0055.html",
+   "autor": "el economista"
  },
  {
-   "TITULO": "Mipymes y emprendedores brindan 52% de los empleos del país: Peña Nieto",
-   "LIGA": "http://elempresario.mx/emprendedores/mipymes-emprendedores-brindan-52-los-empleos-pais-pena-nieto",
-   "AUTOR": "El Empresario"
+   "titulo": "Jack ma: la insignificancia del líder cuando la empresa está bien engastada",
+   "liga": "http://www.emprendedores.es/casos-de-exito/quien-es-jack-ma-claves-exito-alibaba",
+   "autor": "emprendedores"
  },
  {
-   "TITULO": "Las mipymes y los emprendedores brindan 52% de los empleos del país: Peña Nieto",
-   "LIGA": "https://www.eleconomista.com.mx/empresas/Las-mipymes-y-los-emprendedores-brindan-52-de-los-empleos-del-pais-Pena-Nieto-20180910-0055.html",
-   "AUTOR": "El Economista"
+   "titulo": "Ágora y el CEEI reabren su escuela de emprendedores",
+   "liga": "http://www.radioalcoy.com/news/new/agora-y-ceei-reabren-su-escuela-emprendedores",
+   "autor": "radio alcoy"
  },
  {
-   "TITULO": "Jack Ma: la insignificancia del líder cuando la empresa está bien engastada",
-   "LIGA": "http://www.emprendedores.es/casos-de-exito/quien-es-jack-ma-claves-exito-alibaba",
-   "AUTOR": "Emprendedores"
- },
- {
-   "TITULO": "Ágora y el CEEI reabren su escuela de emprendedores",
-   "LIGA": "http://www.radioalcoy.com/News/New/agora-y-ceei-reabren-su-escuela-emprendedores",
-   "AUTOR": "Radio Alcoy"
- },
- {
-   "TITULO": "Grand Bazaar Gourmet reunirá a un centenar de emprendedores",
-   "LIGA": "https://www.eltelegrafo.com.ec/noticias/economia/4/grand-bazaar-gourmet-centenar-emprendedores",
-   "AUTOR": "El Telégrafo"
+   "titulo": "Grand bazaar gourmet reunirá a un centenar de emprendedores",
+   "liga": "https://www.eltelegrafo.com.ec/noticias/economia/4/grand-bazaar-gourmet-centenar-emprendedores",
+   "autor": "el telégrafo"
  }
 ]
 }
