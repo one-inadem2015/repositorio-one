@@ -1,54 +1,54 @@
 {
    "noticias" : [
  {
-   "Titulo": "Peña Nieto entregará el Premio Nacional de Exportación",
-   "Liga": "https://www.elsoldetijuana.com.mx/finanzas/pena-nieto-entregara-el-premio-nacional-de-exportacion-1977146.html",
-   "Autor": "El Sol de Tijuana (Comunicado de prensa)"
+   "titulo": "Peña Nieto entregará el Premio Nacional de Exportación",
+   "url": "https://www.elsoldetijuana.com.mx/finanzas/pena-nieto-entregara-el-premio-nacional-de-exportacion-1977146.html",
+   "autor": "El Sol de Tijuana (Comunicado de prensa)"
  },
  {
-   "Titulo": "3 consejos para aprovechar la Semana del Emprendedor",
-   "Liga": "https://almomento.mx/3-consejos-para-aprovechar-la-semana-del-emprendedor/",
-   "Autor": "Al Momento Noticias"
+   "titulo": "3 consejos para aprovechar la Semana del Emprendedor",
+   "url": "https://almomento.mx/3-consejos-para-aprovechar-la-semana-del-emprendedor/",
+   "autor": "Al Momento Noticias"
  },
  {
-   "Titulo": "Visionaris: 15 años apoyando a los emprendedores sociales del país",
-   "Liga": "https://www.forbes.com.mx/visionaris-15-anos-apoyando-a-los-emprendedores-sociales-del-pais/",
-   "Autor": "Forbes Mexico"
+   "titulo": "Visionaris: 15 años apoyando a los emprendedores sociales del país",
+   "url": "https://www.forbes.com.mx/visionaris-15-anos-apoyando-a-los-emprendedores-sociales-del-pais/",
+   "autor": "Forbes Mexico"
  },
  {
-   "Titulo": "8 retos a considerar si quieres ser emprendedor social",
-   "Liga": "http://www.elfinanciero.com.mx/emprendedores/8-retos-a-considerar-si-quieres-ser-emprendedor-social",
-   "Autor": "El Financiero"
+   "titulo": "8 retos a considerar si quieres ser emprendedor social",
+   "url": "http://www.elfinanciero.com.mx/emprendedores/8-retos-a-considerar-si-quieres-ser-emprendedor-social",
+   "autor": "El Financiero"
  },
  {
-   "Titulo": "Las mujeres rurales sí emprenden más que los hombres",
-   "Liga": "https://cincodias.elpais.com/cincodias/2018/09/06/emprendedores/1536264139_869925.html",
-   "Autor": "Cinco Días"
+   "titulo": "Las mujeres rurales sí emprenden más que los hombres",
+   "url": "https://cincodias.elpais.com/cincodias/2018/09/06/emprendedores/1536264139_869925.html",
+   "autor": "Cinco Días"
  },
  {
-   "Titulo": "Anuncian una feria de emprendedores",
-   "Liga": "http://www.laarena.com.ar/la_pampa-anuncian-una-feria-de-emprendedores-2011964-163.html",
-   "Autor": "La Pampa La Arena"
+   "titulo": "Anuncian una feria de emprendedores",
+   "url": "http://www.laarena.com.ar/la_pampa-anuncian-una-feria-de-emprendedores-2011964-163.html",
+   "autor": "La Pampa La Arena"
  },
  {
-   "Titulo": "Emprendedores 2018",
-   "Liga": "https://www.hoy.es/planes/emprendedores-2018-20180907001252-ntvo.html",
-   "Autor": "Hoy Digital"
+   "titulo": "Emprendedores 2018",
+   "url": "https://www.hoy.es/planes/emprendedores-2018-20180907001252-ntvo.html",
+   "autor": "Hoy Digital"
  },
  {
-   "Titulo": "Propuesta de emprendedores",
-   "Liga": "http://www.devotomagazine.com.ar/files/nota2012.asp?id=4475",
-   "Autor": "Devoto Magazine"
+   "titulo": "Propuesta de emprendedores",
+   "url": "http://www.devotomagazine.com.ar/files/nota2012.asp?id=4475",
+   "autor": "Devoto Magazine"
  },
  {
-   "Titulo": "Abierta convocatoria para emprendedores locales",
-   "Liga": "http://www.vanguardia.com/area-metropolitana/giron/444257-abierta-convocatoria-para-emprendedores-locales",
-   "Autor": "Vanguardia Liberal"
+   "titulo": "Abierta convocatoria para emprendedores locales",
+   "url": "http://www.vanguardia.com/area-metropolitana/giron/444257-abierta-convocatoria-para-emprendedores-locales",
+   "autor": "Vanguardia Liberal"
  },
  {
-   "Titulo": "5 trucos para evitar el burnout si eres emprendedor",
-   "Liga": "http://noticias.universia.es/practicas-empleo/noticia/2018/09/07/1161560/5-trucos-evitar-burnout-si-emprendedor.html",
-   "Autor": "Noticias Universia"
+   "titulo": "5 trucos para evitar el burnout si eres emprendedor",
+   "url": "http://noticias.universia.es/practicas-empleo/noticia/2018/09/07/1161560/5-trucos-evitar-burnout-si-emprendedor.html",
+   "autor": "Noticias Universia"
  }
 ]
 }
