@@ -2,62 +2,62 @@
    "noticias" : [
  {
    "titulo": "350 mil empresas chicas cerraron con EPN; se dedicó a las grandes, acusan asociaciones de ...",
-   "liga": "http://www.sinembargo.mx/01-09-2018/3461619",
+   "url": "http://www.sinembargo.mx/01-09-2018/3461619",
    "autor": "SinEmbargo"
  },
  {
    "titulo": "Convocan a colegiales a concurso de emprendimiento 'Diamond Challenge'",
-   "liga": "https://www.elfinancierocr.com/pymes/convocan-a-colegiales-a-concurso-de-emprendimiento/PJ62V7R4PJHWHHU6555MDEESHA/story/",
+   "url": "https://www.elfinancierocr.com/pymes/convocan-a-colegiales-a-concurso-de-emprendimiento/PJ62V7R4PJHWHHU6555MDEESHA/story/",
    "autor": "El Financiero Costa Rica"
  },
  {
    "titulo": "Vinculó municipio a 55 organismos para impulsar el emprendimiento",
-   "liga": "http://laopcion.com.mx/noticia/213351",
+   "url": "http://laopcion.com.mx/noticia/213351",
    "autor": "La Opcion"
  },
  {
    "titulo": "'Ruraltivity', el proyecto que fomenta el emprendimiento de las mujeres en los pueblos: \"Las ...",
-   "liga": "https://www.lasexta.com/noticias/sociedad/ruraltivity-el-proyecto-que-fomenta-el-emprendimiento-de-las-mujeres-en-los-pueblos-las-acompanamos-en-el-proceso-de-creacion-del-negocio_201809015b8ad47e0cf2740d2853da75.html",
+   "url": "https://www.lasexta.com/noticias/sociedad/ruraltivity-el-proyecto-que-fomenta-el-emprendimiento-de-las-mujeres-en-los-pueblos-las-acompanamos-en-el-proceso-de-creacion-del-negocio_201809015b8ad47e0cf2740d2853da75.html",
    "autor": "LaSexta (Comunicado de prensa)"
  },
  {
    "titulo": "El Eustorgio Colmenares le apuesta al emprendimiento",
-   "liga": "https://www.laopinion.com.co/cucuta/el-eustorgio-colmenares-le-apuesta-al-emprendimiento-161325",
+   "url": "https://www.laopinion.com.co/cucuta/el-eustorgio-colmenares-le-apuesta-al-emprendimiento-161325",
    "autor": "La Opinión Cúcuta"
  },
  {
    "titulo": "Emprendimientos en antiguas haciendas de Chimborazo",
-   "liga": "https://www.elcomercio.com/actualidad/emprendimientos-haciendas-ecuador-chimborazo-turismo.html",
+   "url": "https://www.elcomercio.com/actualidad/emprendimientos-haciendas-ecuador-chimborazo-turismo.html",
    "autor": "El Comercio"
  },
  {
    "titulo": "Álvaro Saieh repasa su historia empresarial junto a estudiantes: “Soy emprendedor por esencia”",
-   "liga": "https://www.latercera.com/pulso/noticia/alvaro-saieh-repasa-historia-empresarial-junto-estudiantes-emprendedor-esencia/303451/",
+   "url": "https://www.latercera.com/pulso/noticia/alvaro-saieh-repasa-historia-empresarial-junto-estudiantes-emprendedor-esencia/303451/",
    "autor": "LaTercera"
  },
  {
    "titulo": "17 proyectos que buscan transformar la sociedad a nivel global",
-   "liga": "https://tecreview.tec.mx/17-proyectos-buscan-transformar-la-sociedad-a-nivel-global/",
+   "url": "https://tecreview.tec.mx/17-proyectos-buscan-transformar-la-sociedad-a-nivel-global/",
    "autor": "TecReview"
  },
  {
    "titulo": "Recibirá Casa del Emprendedor recursos para segunda etapa",
-   "liga": "http://www.milenio.com/politica/comunidad/recibira-casa-del-emprendedor-recursos-para-segunda-etapa",
+   "url": "http://www.milenio.com/politica/comunidad/recibira-casa-del-emprendedor-recursos-para-segunda-etapa",
    "autor": "Milenio.com"
  },
  {
    "titulo": "Banreservas convoca Programa CREE en Santiago",
-   "liga": "http://almomento.net/banreservas-lanza-convocatoria-del-programa-cree-en-santiago/",
+   "url": "http://almomento.net/banreservas-lanza-convocatoria-del-programa-cree-en-santiago/",
    "autor": "Almomento.net"
  },
  {
    "titulo": "Diseñadores industriales le meten fuelle a lo innovador",
-   "liga": "https://www.rionegro.com.ar/suplementos/aniversario-general-roca/disenadores-industriales-le-meten-fuelle-a-lo-innovador-ML5638259",
+   "url": "https://www.rionegro.com.ar/suplementos/aniversario-general-roca/disenadores-industriales-le-meten-fuelle-a-lo-innovador-ML5638259",
    "autor": "Diario Río Negro"
  },
  {
    "titulo": "La UADY premia a emprendedores creativos e innovadores",
-   "liga": "http://www.yucatan.com.mx/merida/la-uady-premia-emprendedores-creativos-e-innovadores",
+   "url": "http://www.yucatan.com.mx/merida/la-uady-premia-emprendedores-creativos-e-innovadores",
    "autor": "El Diario de Yucatán"
  }
 ]
