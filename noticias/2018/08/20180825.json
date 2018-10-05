@@ -1,5 +1,4 @@
-{
-   "noticias" : [
+[
  {
    "titulo": "Realizan taller de  emprendimiento",
    "url": "http://imparcialoaxaca.mx/la-capital/209444/realizan-taller-de-emprendimiento/",
@@ -49,6 +48,5 @@
    "titulo": "¿Cuál es el marco legal básico para arrancar un emprendimiento?",
    "url": "https://www.iprofesional.com/tecnologia/276458-redes-privacidad-emprendedor-Cual-es-el-marco-legal-basico-para-arrancar-un-emprendimiento",
    "autor": "iProfesional"
-}
+ }
 ]
-}
