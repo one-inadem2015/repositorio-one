@@ -1,4 +1,64 @@
 {
    "noticias" : [
-   
+ {
+   "titulo": "Empieza el Primer Congreso de Emprendimiento en Cúcuta",
+   "url": "https://www.laopinion.com.co/economia/empieza-el-primer-congreso-de-emprendimiento-en-cucuta-160814#OP",
+   "autor": "La Opinión Colombia"
+ },
+ {
+   "titulo": "Oaxaca cuenta con cuatro incubadoras de proyectos de emprendimiento",
+   "url": "https://www.nssoaxaca.com/2018/08/24/oaxaca-cuenta-con-cuatro-incubadoras-de-proyectos-de-emprendimiento/",
+   "autor": "NSS Oaxaca"
+ },
+ {
+   "titulo": "Bootcamp para jóvenes emprendedores: transforma en realidad tus ideas",
+   "url": "http://www.iesa.edu.ve/cursos-y-programas/programas/577=bootcamp-para-jovenes-emprendedores-transforma-en-realidad-tus-ideas/5044",
+   "autor": "IESA Venezuela"
+ },
+ {
+   "titulo": "Distill Ventures busca a emprendedores en bebidas no alcohólicas",
+   "url": "http://www.sinembargo.mx/24-08-2018/3459670",
+   "autor": "Sin Embargo MX"
+ },
+ {
+   "titulo": "Emprendedores uruguayos rechazan el rol del Estado",
+   "url": "https://negocios.elpais.com.uy/noticias/emprendedores-uruguayos-rechazan-rol.html",
+   "autor": "El País, Uruguay"
+ },
+ {
+   "titulo": "Proyectan realizar evento para emprendedores repatriados",
+   "url": "https://www.lanacion.com.py/pais/2018/08/24/proyectan-realizar-evento-para-emprendedores-repatriados/",
+   "autor": "La Nación"
+ },
+ {
+   "titulo": "Concurso crea oportunidades para emprendedores",
+   "url": "https://www.eluniverso.com/guayaquil/2018/08/24/nota/6920714/concurso-crea-oportunidades-emprendedores",
+   "autor": "El Universo, Ecuador"
+ },
+ {
+   "titulo": "Inauguran módulo de atención para emprendedores en Benito Juárez",
+   "url": "https://laverdadnoticias.com/quintanaroo/Inauguran-modulo-de-atencion-para-emprendedores-en-Benito-Juarez-20180824-0030.html",
+   "autor": "La Verdad, Quintana Roo"
+ },
+ {
+   "titulo": "Coworking, sinergia y apoyo mutuo para emprendedores en Manzanares",
+   "url": "https://www.eldiario.es/clm/emprende_a_diario/Coworking-sinergia-apoyo-emprendedores-Manzanares_6_807079308.html",
+   "autor": "El Diario, España"
+ },
+ {
+   "titulo": "Llegará a Puebla Smart City Expo Latam Congress",
+   "url": "https://www.elsoldepuebla.com.mx/local/llegara-a-puebla-smart-city-expo-latam-congress-1942699.html",
+   "autor": "El Sol de Puebla"
+ },
+ {
+   "titulo": "Organizada por ProChile: Tecnología, innovación y soluciones para el campo: así se presentó Chile en Expoagrofuturo",
+   "url": "https://www.prochile.gob.cl/noticia/organizada-por-prochile-tecnologia-innovacion-y-soluciones-para-el-campo-asi-se-presento-chile-en-expoagrofuturo/",
+   "autor": "ProChile"
+ },
+ {
+   "titulo": "¿Qué es social media marketing?",
+   "url": "https://www.merca20.com/que-es-social-media-marketing-2/",
+   "autor": "Merca 2.0"
+ }
+]   
 {
