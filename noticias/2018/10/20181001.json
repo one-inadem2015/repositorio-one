@@ -1,4 +1,5 @@
-[
+{
+   "noticias" : [
  {
    "titulo": "Fondos de inversión chinos voltean a México",
    "url": "https://www.eleconomista.com.mx/mercados/Fondos-de-inversion-chinos-voltean-a-Mexico-20180930-0038.html",
@@ -200,3 +201,4 @@
    "autor": "Rio Oaxaca"
  }
 ]
+}
