@@ -1,54 +1,54 @@
 {
    "noticias" : [
-{
+ {
    "titulo": "Si cierra el Inadem, ¿qué hará el gobierno de AMLO con los emprendedores?",
    "url": "https://negocios-inteligentes.mx/si-cierra-el-inadem-que-hara-el-gobierno-de-amlo-con-los-emprendedores/",
-   "auror": "Negocios Inteligentes"
+   "autor": "Negocios Inteligentes"
  },
  {
    "titulo": "Levantamiento de Capital: la guía para emprendedores que lanzan MassChallenge, Greenberg ...",
    "url": "https://www.entrepreneur.com/article/320852",
-   "auror": "Entrepreneur"
+   "autor": "Entrepreneur"
  },
  {
    "titulo": "Antes de solicitar crédito para su pyme afine el plan de inversión y las necesidades del negocio",
    "url": "https://www.nacion.com/economia/banca/antes-de-solicitar-credito-para-su-pyme-afine-el/3LPE6REENVBW7FXRHOKH35LAHE/story/",
-   "auror": "La Nación Costa Rica"
+   "autor": "La Nación Costa Rica"
  },
  {
    "titulo": "\"Comprá Pyme\": mejor comercialización y precios accesibles",
    "url": "http://www.revistachacra.com.ar/nota/22364-compra-pyme-mejor-comercializacion-y-precios/",
-   "auror": "Revista Chacra"
+   "autor": "Revista Chacra"
  },
  {
    "titulo": "La importancia de la asesoría jurídica para las PYMES",
    "url": "https://www.madridesnoticia.es/2018/09/la-importancia-de-la-asesoria-juridica-para-las-pymes/",
-   "auror": "Madrid es Noticia"
+   "autor": "Madrid es Noticia"
  },
  {
    "titulo": "Niños emprendedores venderán sus productos este sábado en feria en Alajuela",
    "url": "https://www.elfinancierocr.com/pymes/ninos-emprendedores-venderan-sus-productos-este/HHGTWY5A2VASLJUO2PDI7557W4/story/",
-   "auror": "El Financiero Costa Rica"
+   "autor": "El Financiero Costa Rica"
  },
  {
    "titulo": "Inefop abre cursos gratuitos para emprendedores",
    "url": "https://presidencia.gub.uy/comunicacion/comunicacionnoticias/curso-inefop-emprendedores-gratuito",
-   "auror": "Presidencia de Uruguay"
+   "autor": "Presidencia de Uruguay"
  },
  {
    "titulo": "Comenzó la Clínica de Emprendedores",
    "url": "https://diariolaopinion.com.ar/noticia/229202/comenzo-la-clinica-de-emprendedores",
-   "auror": "Diario La Opinión de Rafaela (Comunicado de prensa)"
+   "autor": "Diario La Opinión de Rafaela (Comunicado de prensa)"
  },
  {
    "titulo": "La búsqueda de empleo y emprendimiento en “Reinvéntate Salobreña”",
    "url": "http://www.motrildigital.com/la-busqueda-empleo-emprendimiento-reinventate-salobrena/",
-   "auror": "Motril@Digital (Comunicado de prensa)"
+   "autor": "Motril@Digital (Comunicado de prensa)"
  },
  {
    "titulo": "El programa de emprendimiento 'Explorer Jóvenes con ideas'",
    "url": "https://saladeprensa.usal.es/node/115627",
-   "auror": "Universidad de Salamanca"
- }
+   "autor": "Universidad de Salamanca"
+}
 ]
 }
