@@ -1,0 +1,54 @@
+{
+   "noticias" : [
+  {
+   "titulo": "México y EU: nuevo punto de partida",
+   "url": "https://www.eluniversal.com.mx/articulo/juan-pablo-castanon/nacion/mexico-y-eu-nuevo-punto-de-partida",
+   "autor": "El Universal"
+ },
+ {
+   "titulo": "Economía no es obstáculo para realizar movilidad estudiantil",
+   "url": "http://www.elexpres.com/2015/nota.php?story_id=180229",
+   "autor": "El Exprés"
+ },
+ {
+   "titulo": "Moctezuma plantea que rescatará del abandono a las normales",
+   "url": "https://bajopalabra.com.mx/moctezuma-plantea-que-rescatara-del-abandono-a-las-normales",
+   "autor": "Bajo Palabra"
+ },
+ {
+   "titulo": "Los mejores exponentes del Marketing Digital se darán cita en EMMS 2018",
+   "url": "https://www.expreso.ec/ciencia-y-tecnologia/emms-conferenciaonline-marketingdigital-oradores-exponentes-YA2417414",
+   "autor": "Expreso"
+ },
+ {
+   "titulo": "Los 10 Anuncios Publicitarios Más Impactantes De La Semana",
+   "url": "https://www.merca20.com/los-10-anuncios-publicitarios-mas-impactantes-de-la-semana-2/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "México será sede del Primer Congreso Internacional de Neurociencias",
+   "url": "https://www.mexico.com/actualidad/mexico-sera-sede-del-primer-congreso-internacional-de-neurociencias/",
+   "autor": "México.com"
+ },
+ {
+   "titulo": "Exponen emprendedores sus productos en bazar Codemi en Ceconexpo",
+   "url": "https://www.quadratin.com.mx/sucesos/exponen-emprendedores-sus-productos-en-bazar-codemi-en-ceconexpo/",
+   "autor": "Quadratín"
+ },
+ {
+   "titulo": "'Gastroemprendedores' convertirá León en un foro sobre emprendimiento gastronómico",
+   "url": "http://www.diariodeleon.es/noticias/leon/gastroemprendedores-convertira-leon-foro-emprendimiento-gastronomico_1284004.html",
+   "autor": "Diario de León"
+ },
+ {
+   "titulo": "Microempresas colombianas emergen con el vigor del emprendimiento femenino",
+   "url": "https://www.efe.com/efe/america/economia/microempresas-colombianas-emergen-con-el-vigor-del-emprendimiento-femenino/20000011-3779038",
+   "autor": "EFE Agencia"
+ },
+ {
+   "titulo": "Desarrollan innovación",
+   "url": "http://www.ntrguadalajara.com/post.php?id_nota=110329",
+   "autor": "El Diario NTR"
+ }
+]
+}
