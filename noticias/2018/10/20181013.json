@@ -1,0 +1,59 @@
+{
+   "noticias" : [
+ {
+   "titulo": "Los ‘hackathons’ impulsan el trabajo colaborativo y la innovación",
+   "url": "https://www.bbva.com/es/los-hackathons-impulsan-el-trabajo-colaborativo-y-la-innovacion/",
+   "autor": "BBVA"
+ },
+ {
+   "titulo": "Innovación y sofisticación",
+   "url": "https://www.lanacion.com.py/foco/2018/10/12/innovacion-y-sofisticacion/",
+   "autor": "La Nación"
+ },
+ {
+   "titulo": "Viceprimera ministra china enfatiza mejorar innovación en universidades",
+   "url": "http://espanol.cri.cn/news/culture/1021/20181012/194592.html",
+   "autor": "China Radio International"
+ },
+ {
+   "titulo": "La nube facilita el acceso a pyme a los últimos avances y tendencias en tecnología",
+   "url": "https://www.larepublica.co/internet-economy/la-nube-facilita-el-acceso-a-pyme-a-los-ultimos-avances-y-tendencias-en-tecnologia-2781608",
+   "autor": "La República"
+ },
+ {
+   "titulo": "OXXO APUESTA POR LA ENTREGA A DOMICILIO Y EL E-COMMERCE EN 2019",
+   "url": "https://expansion.mx/empresas/2018/10/12/oxxo-apuesta-por-la-entrega-a-domicilio-y-el-e-commerce-en-2019",
+   "autor": "Expansión"
+ },
+ {
+   "titulo": "México protegerá a exportadores de acero por aranceles canadienses",
+   "url": "http://www.adn40.mx/noticia/finanzas/nota/2018-10-11-19-58/mexico-protegera-a-exportadores-de-acero-por-aranceles-canadienses/",
+   "autor": "ADN 40"
+ },
+ {
+   "titulo": "Elon Musk piensa en lanzar una marca de tequila llamada “Teslaquila”",
+   "url": "https://www.eleconomista.com.mx/empresas/Elon-Musk-piensa-en-lanzar-una-marca-de-tequila-llamada-Teslaquila-20181012-0077.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "¿Qué es Experiential Marketing? 6 De Sus Objetivos",
+   "url": "https://www.merca20.com/que-es-experiential-marketing/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Big Data mejora la rentabilidad y el impacto del marketing de empresas peruanas",
+   "url": "https://www.andina.pe/agencia/noticia-big-data-mejora-rentabilidad-y-impacto-del-marketing-empresas-peruanas-728341.aspx",
+   "autor": "Andina Agencia Peruana de Noticias"
+ },
+ {
+   "titulo": "Otorgó Inadem 54 mdp",
+   "url": "http://tribunacampeche.com/local/2018/10/12/otorgo-inadem-54-mdp/",
+   "autor": "Tribuna Campeche"
+ },
+ {
+   "titulo": "Innovación, la clave de ser líder",
+   "url": "https://heraldodemexico.com.mx/mer-k-2/innovacion-la-clave-de-ser-lider/",
+   "autor": "El Heraldo de México"
+ }
+]
+}
