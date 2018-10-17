@@ -1,0 +1,59 @@
+{
+   "noticias" : [
+  {
+   "titulo": "Cómo fabricar emprendedores",
+   "url": "https://www.perfil.com/noticias/columnistas/como-fabricar-emprendedores.phtml",
+   "autor": "Perfil.com"
+ },
+ {
+   "titulo": "El hierro de las reformas amenaza a los emprendedores cubanos",
+   "url": "https://www.cubanet.org/destacados/hierro-las-reformas-amenaza-los-emprendedores-cubanos/",
+   "autor": "Cubanet"
+ },
+ {
+   "titulo": "StartUPV: una salida para las ideas de los universitarios emprendedores",
+   "url": "http://www.valenciaplaza.com/startupv-una-salida-para-las-ideas-de-los-universitarios-emprendedores",
+   "autor": "valenciaplaza.com"
+ },
+ {
+   "titulo": "Impulsa Gobierno del Estado a emprendedores",
+   "url": "https://www.nnc.mx/articulo/portada/impulsa-gobierno-del-estado-a-emprendedores/1537595236",
+   "autor": "nnc.mx (Sátira) (Comunicado de prensa) (blog)"
+ },
+ {
+   "titulo": "Jóvenes emprendedores de todo el mundo se reúnen en México para capacitarse",
+   "url": "https://elsemanario.com/negocios/274059/jovenes-emprendedores-de-todo-el-mundo-se-reunen-en-mexico-para-capacitarse/",
+   "autor": "El Semanario"
+ },
+ {
+   "titulo": "Invitan emprendedores a feria en Casa de la Cultura",
+   "url": "https://www.quadratin.com.mx/principal/invitan-emprendedores-a-feria-en-casa-de-la-cultura/",
+   "autor": "Quadratín Michoacán"
+ },
+ {
+   "titulo": "Técnicas y habilidades del joven emprendedor",
+   "url": "http://www.abc.com.py/edicion-impresa/economia/tecnicas-y-habilidades-del-joven-emprendedor-1743186.html",
+   "autor": "ABC Color"
+ },
+ {
+   "titulo": "Emprendedores arman megaferia en La Pérgola",
+   "url": "https://www.elciudadanoweb.com/emprendedores-arman-megaferia-en-la-pergola/",
+   "autor": "El Ciudadano & La Gente"
+ },
+ {
+   "titulo": "5 tips para no morir en el intento del emprendimiento",
+   "url": "http://www.elfinanciero.com.mx/management/5-tips-para-no-morir-en-el-intento-del-emprendimiento",
+   "autor": "El Financiero"
+ },
+ {
+   "titulo": "Informe del BID destaca 10 negocios de emprendimiento",
+   "url": "https://www.elheraldo.co/barranquilla/informe-del-bid-destaca-10-negocios-de-emprendimiento-544910",
+   "autor": "El Heraldo (Colombia)"
+ },
+ {
+   "titulo": "El PP reclama que Vara apueste por el emprendimiento",
+   "url": "https://www.elperiodicoextremadura.com/noticias/extremadura/pp-reclama-vara-apueste-emprendimiento_1115023.html",
+   "autor": "El Periódico Extremadura"
+ }
+]
+}
