@@ -1,1 +1,59 @@
-
+{
+	   "noticias" : [
+ {
+   "titulo": "Imparte ILAB capitación sobre liderazgo y emprendimiento en la UABCS",
+   "url": "http://elinformantebcs.mx/imparte-ilab-capitacion-sobre-liderazgo-y-emprendimiento-en-la-uabcs/",
+   "autor": "El Informante"
+ },
+ {
+   "titulo": "Buscarán mayor presupuesto para Ciencia y Tecnología",
+   "url": "https://www.eluniversal.com.mx/ciencia-y-salud/buscaran-mayor-presupuesto-para-ciencia-y-tecnologia",
+   "autor": "El Universal"
+ },
+ {
+   "titulo": "El PIB de China se ralentiza al nivel más débil desde 2009",
+   "url": "http://capitalradio.es/pib-china-se-ralentiza-nivel-mas-debil-desde-2009/?doing_wp_cron=1540223104.3317000865936279296875",
+   "autor": "Capital Radio"
+ },
+ {
+   "titulo": "Infonavit colocó 18% más créditos en el 2017",
+   "url": "https://www.eleconomista.com.mx/sectorfinanciero/Infonavit-coloco-18-mas-creditos-en-el-2017-20181018-0143.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Festival de Emprendimiento en Guatemala beneficia a micro empresarios",
+   "url": "https://www.prensa-latina.cu/index.php?o=rn&id=220990&SEO=festival-de-emprendimiento-en-guatemala-beneficia-a-micro-empresarios",
+   "autor": "Prensa Latina"
+ },
+ {
+   "titulo": "La empresa navarra Endinava, finalista a los premios Accelera a la Innovación y Emprendimiento",
+   "url": "https://www.diariodenavarra.es/noticias/negocios/dn-management/2018/10/19/la-empresa-navarra-endinava-finalista-los-premios-accelera-innovacion-emprendimiento-616789-2541.html",
+   "autor": "Diario de Navarra"
+ },
+ {
+   "titulo": "Emprendimiento nacional que combate la violencia escolar gana premios en Chile y España",
+   "url": "https://www.df.cl/noticias/tendencias/df-lab/emprendimiento-nacional-que-combate-la-violencia-escolar-gana-premios-en/2018-10-19/115827.html",
+   "autor": "Diario Financiero"
+ },
+ {
+   "titulo": "Emprendimiento y empleabilidad para familias rurales víctimas del conflicto armado",
+   "url": "http://www.co.undp.org/content/colombia/es/home/operations/projects/poverty_reduction/emprendimiento-y-empleabilidad-para-familias-rurales-victimas-de.html",
+   "autor": "PNUD Colombia"
+ },
+ {
+   "titulo": "Leana Salamah, nueva vicepresidenta de marketing de IHA",
+   "url": "http://www.menajeyregalo.com/leana-salamah-vicepresidenta-marketing-iha/",
+   "autor": "Menaje de Mesa y Cocina"
+ },
+ {
+   "titulo": "Se acercan los Effie Awards México 2018",
+   "url": "https://marketing4ecommerce.mx/se-acercan-los-effie-awards-mexico-2018/",
+   "autor": "Marketing for Ecommerce"
+ },
+ {
+   "titulo": "El Económico, galardonado por el curso en Marketing Digital y Community Management",
+   "url": "https://ultimahora.es/noticias/economico/2018/10/19/1032653/economico-galardonado-por-curso-marketing-digital-community-management.html",
+   "autor": "El Económico"
+ }
+]
+}
