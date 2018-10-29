@@ -1,4 +1,54 @@
 {
 	   "noticias" : [
-
+ {
+   "titulo": "El marketing persigue a sus clientes más escurridizos",
+   "url": "https://retina.elpais.com/retina/2018/10/25/tendencias/1540487636_268998.html",
+   "autor": "El País"
+ },
+ {
+   "titulo": "9 formas de dominar el marketing en menos tiempo",
+   "url": "https://www.entrepreneur.com/article/322285",
+   "autor": "Entrepreneur"
+ },
+ {
+   "titulo": "¿Te Desanima Tu Trabajo En El Marketing? 10 Pasos Para Sacudirse La Desidia Creativa",
+   "url": "https://www.merca20.com/te-desanima-tu-trabajo-en-el-marketing-10-pasos-para-sacudirse-la-desidia-creativa/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "La innovación estrecha lazos entre Israel y China",
+   "url": "https://www.elmundo.es/internacional/2018/10/25/5bd16c51ca4741bd4e8b463d.html",
+   "autor": "El Mundo, España"
+ },
+ {
+   "titulo": "Financiamiento + innovación = Productividad en América Latina",
+   "url": "https://www.notimerica.com/oficial/noticia-financiamiento-innovacion-productividad-america-latina-20181025090517.html",
+   "autor": "Notimérica"
+ },
+ {
+   "titulo": "La Misión de Estudio “Innovación, sostenibilidad y ética”, una gran experiencia",
+   "url": "https://www.yucatan.com.mx/mexico/la-mision-estudio-innovacion-sostenibilidad-etica-una-gran-experiencia",
+   "autor": "Diario de Yucatán"
+ },
+ {
+   "titulo": "BBVA Bancomer lanza cuenta de ahorro para niños",
+   "url": "https://www.eleconomista.com.mx/finanzaspersonales/BBVA-Bancomer-lanza-cuenta-de-ahorro-para-ninos-20181025-0132.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Da inicio Alejandro Murat a programa de crédito empresarial",
+   "url": "https://oaxaca.quadratin.com.mx/da-inicio-alejandro-murat-a-programa-de-credito-empresarial/",
+   "autor": "Quadratin de Oaxaca"
+ },
+ {
+   "titulo": "El Gobierno destina 100 millones de euros a financiar pymes, startups y emprendedores",
+   "url": "https://www.eleconomista.es/gestion-empresarial/noticias/9479603/10/18/El-Gobierno-destina-100-millones-de-euros-a-financiar-pymes-empresas-tecnologicas-y-jovenes-emprendedores.html",
+   "autor": "El Economista España"
+ },
+ {
+   "titulo": "¿Tienes Una Pyme Y Quieres Exportar? Ebay Tiene Una Forma Para Que Llegues A 190 Países",
+   "url": "https://negocios-inteligentes.mx/crece-con-ebay-pymes-exportar-e-commerce/",
+   "autor": "Negocios Inteligentes"
+ }
+]   
 }
