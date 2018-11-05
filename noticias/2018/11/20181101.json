@@ -1,4 +1,5 @@
-[
+{
+   "noticias" : [
  {
    "titulo": "Jóvenes capitalinos ganan concurso de emprendimiento",
    "url": "http://www.latribuna.hn/2018/10/31/jovenes-capitalinos-ganan-concurso-de-emprendimiento/",
@@ -150,3 +151,4 @@
    "autor": "Ok Diario"
  }
 ]
+}
