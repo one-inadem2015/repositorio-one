@@ -1,4 +1,54 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "Cómo pagarse la innovación siendo pyme",
+   "url": "https://www.lasprovincias.es/economia/empresas/pagarse-innovacion-pyme-20181104000008-ntvo.html",
+   "autor": "Las Provincias"
+ },
+ {
+   "titulo": "Inició Hoy Curso De Innovación Y Emprendimiento En El Punto México Conectado",
+   "url": "http://netnoticias.mx/2018-11-03-dd93963f/inicio-hoy-curso-de-innovacion-y-emprendimiento-en-el-punto-mexico-conectado/",
+   "autor": "Net Noticias"
+ },
+ {
+   "titulo": "La UAM vive la Semana de la Ciencia y la Innovación",
+   "url": "https://www.madrimasd.org/notiweb/noticias/uam-vive-semana-ciencia-innovacion",
+   "autor": "Madrid, España"
+ },
+ {
+   "titulo": "Transformación digital en las Pymes: obstáculos más frecuentes y 7 caminos para superarlos",
+   "url": "https://www.infobae.com/tecno/2018/11/03/transformacion-digital-en-las-pymes-obstaculos-mas-frecuentes-y-7-caminos-para-superarlos/",
+   "autor": "Infobae"
+ },
+ {
+   "titulo": "Abrirían chinos fábricas de autos y neumáticos en Zacatecas",
+   "url": "https://zacatecasonline.com.mx/noticias/local/66697-chinos-fabricas-autos",
+   "autor": "Zacatecas Online"
+ },
+ {
+   "titulo": "Chihuahua, primer estado con una dependencia dedicada a la economía social",
+   "url": "http://difusionnorte.com/economia-social/",
+   "autor": "Difusión Norte"
+ },
+ {
+   "titulo": "Emprendedores peruanos apuestan a lo seguro",
+   "url": "https://larepublica.pe/economia/1350107-emprendedores-peruanos-apuestan-seguro",
+   "autor": "La Republica"
+ },
+ {
+   "titulo": "Diez emprendedores presentan sus proyectos a la XIII Edición del galardón \"Iniciativa Empresarial\"",
+   "url": "https://www.lne.es/aviles/2018/11/03/diez-emprendedores-presentan-proyectos-xiii/2374309.html",
+   "autor": "La Nueva España"
+ },
+ {
+   "titulo": "Linkedin Y Content Marketing: Lo Que Necesitas Saber",
+   "url": "https://www.merca20.com/linkedin-y-content-marketing/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "México se consolida como el sexto destino más visitado del mundo",
+   "url": "https://www.tecnohotelnews.com/2018/11/mexico-turismo-sexto-destino/",
+   "autor": "TecnoHotel"
+ }
+]
 }
