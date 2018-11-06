@@ -1,4 +1,54 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "Nueva capacitación en el Club de Emprendedores",
+   "url": "https://laverdadonline.com/nueva-capacitacion-en-el-club-de-emprendedores-2/",
+   "autor": "La Verdad "
+ },
+ {
+   "titulo": "Acercarán a emprendedores a fondos de capital de riesgo",
+   "url": "https://www.elindependientedehidalgo.com.mx/acercaran-a-emprendedores-a-fondos-de-capital-de-riesgo/",
+   "autor": "El Independiente de Hidalgo"
+ },
+ {
+   "titulo": "Más de 300 emprendedores reclaman la necesidad de salir en los medios de comunicación",
+   "url": "http://www.diariosigloxxi.com/texto-diario/mostrar/1242232/300-emprendedores-reclaman-necesidad-salir-medios-comunicacion",
+   "autor": "Diario Siglo XXI"
+ },
+ {
+   "titulo": "Yucatán recibe premio nacional por su oficina de convenciones",
+   "url": "https://www.yucatan.com.mx/merida/yucatan-recibe-premio-nacional-por-su-oficina-de-convenciones",
+   "autor": "Diario de Yucatán"
+ },
+ {
+   "titulo": "La UE financia a pymes españolas para fomentar la innovación",
+   "url": "https://cincodias.elpais.com/cincodias/2018/10/31/pyme/1541016089_121818.html",
+   "autor": "El País"
+ },
+ {
+   "titulo": "Televisa renueva concesiones de canales de televisión abierta",
+   "url": "https://www.economiahoy.mx/telecomunicacion-tecnologia-mx/noticias/9495076/11/18/Televisa-renueva-concesiones-de-canales-de-television-abierta.html",
+   "autor": "Economía Hoy"
+ },
+ {
+   "titulo": "CONTINENTAL Invierte 80 Mdd Para Nueva Planta En Aguascalientes",
+   "url": "http://t21.com.mx/terrestre/2018/11/02/continental-invierte-80-mdd-nueva-planta-aguascalientes",
+   "autor": "T21 MX"
+ },
+ {
+   "titulo": "Puebla captó mil 266 mdd en remesas durante los primeros 9 meses de 2018",
+   "url": "https://heraldodemexico.com.mx/estados/puebla-capto-mil-266-mdd-en-remesas-durante-los-primeros-9-meses-de-2018/",
+   "autor": "Heraldo de México"
+ },
+ {
+   "titulo": "4 razones legales más comunes por las que fracasan los emprendimientos",
+   "url": "https://www.dinero.com/emprendimiento/articulo/cuales-son-los-errores-legales-comunes-de-los-emprendimientos/263856",
+   "autor": "Dinero"
+ },
+ {
+   "titulo": "Inversionistas ángeles: la tendencia de emprendimiento que apoya APC-Colombia",
+   "url": "https://www.apccolombia.gov.co/noticia/inversionistas-angeles-la-tendencia-de-emprendimiento-que-apoya-apc-colombia",
+   "autor": "Agencia Presidencial, Colombia"
+ }
+]
 }
