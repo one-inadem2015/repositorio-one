@@ -1,4 +1,159 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "‘Gamechangers & Cities’ impulsa el emprendimiento social y la innovacio?n en ciudades sostenibles",
+   "url": "https://www.innovaspain.com/gamechangers-cities-emprendimiento-social-ciudades-sostenibles-unltd-spain/",
+   "autor": "InnovaSpain"
+ },
+ {
+   "titulo": "Peruana es finalista en importante foro de emprendimiento femenino",
+   "url": "https://wapa.pe/mujer/1352281-wexchange-amparo-nalvarte-finalista-importante-foro-emprendimiento-femenino-america-latina-caribe-power",
+   "autor": "WAPA"
+ },
+ {
+   "titulo": "Economía nacional podría crecer 4,5% adoptando inteligencia artificial",
+   "url": "https://www.dinero.com/economia/articulo/crecimiento-del-pib-de-colombia-segun-inteligencia-artificial/263889",
+   "autor": "Dinero, Colombia"
+ },
+ {
+   "titulo": "Aún en revisión el dispositivo de tabaco calentado: Cofepris",
+   "url": "http://www.jornada.com.mx/ultimas/2018/11/06/aun-en-revision-el-dispositivo-de-tabaco-recalentado-cofepris-3127.html",
+   "autor": "La Jornada"
+ },
+ {
+   "titulo": "La desaceleración de la economía en 2019",
+   "url": "http://www.elfinanciero.com.mx/opinion/benito-solis/la-desaceleracion-de-la-economia-en-2019",
+   "autor": "El Financiero"
+ },
+ {
+   "titulo": "The CityFix Labs impulsará proyectos urbanos verdes",
+   "url": "https://www.eleconomista.com.mx/mercados/The-CityFix-Labs-impulsara-proyectos-urbanos-verdes-20181106-0155.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Marco Mena encabeza inicio de construcción de primera planta de energía renovable en Tlaxcala",
+   "url": "http://www.e-tlaxcala.mx/nota/2018-11-06/gobierno/marco-mena-encabeza-inicio-de-construccion-de-primera-planta-de-energia",
+   "autor": "E.Tlaxcala"
+ },
+ {
+   "titulo": "Comenzaron con juegos y hoy son emprendedores",
+   "url": "http://elempresario.mx/emprendedores/comenzaron-juegos-hoy-son-emprendedores",
+   "autor": "El Empresario MX"
+ },
+ {
+   "titulo": "Llega a México \"Show Me The Money\" un evento para emprendedores",
+   "url": "https://www.entrepreneur.com/article/322893",
+   "autor": "Entrepreneur"
+ },
+ {
+   "titulo": "Destinan 500 mdp para emprendedores sinaloenses",
+   "url": "https://www.eluniversal.com.mx/estados/destinan-500-mdp-para-emprendedores-sinaloenses",
+   "autor": "El Universal"
+ },
+ {
+   "titulo": "Ventas de Autos Aumentaron en Octubre",
+   "url": "http://www.aztecanoticias.com.mx/ventas-de-autos-aumentaron-en-octubre-inegi/3303109",
+   "autor": "Azteca Noticias"
+ },
+ {
+   "titulo": "El Dólar baja a 20.25 pesos en bancos",
+   "url": "https://expansion.mx/economia/2018/11/05/el-peso-mexicano-gana-en-medio-de-aversion-al-riesgo",
+   "autor": "Expansión"
+ },
+ {
+   "titulo": "Wall Street quiere una victoria republicana en las 'midterms' para no despedirse del rally",
+   "url": "https://www.estrategiaynegocios.net/lasclavesdeldia/1230819-330/wall-street-quiere-una-victoria-republicana-en-las-midterms-para-no-despedirse",
+   "autor": "Economia Hoy"
+ },
+ {
+   "titulo": "'Pesadilla en tu startup', un proyecto solidario de ayuda a Emprendedores",
+   "url": "https://www.europapress.es/comunicados/sociedad-00909/noticia-comunicado-pesadilla-startup-proyecto-solidario-ayuda-emprendedores-20181106171225.html",
+   "autor": "Europa Press"
+ },
+ {
+   "titulo": "TALLER \"FINANZAS OPERATIVAS: FINANZAS PARA EMPRENDEDORES NO FINANCIEROS\" (COWORKING ALHAURÍN EL GRANDE)",
+   "url": "https://www.eoi.es/es/eventos/32769/taller-finanzas-operativas-finanzas-para-emprendedores-no-financieros-coworking-alhaurin-el-grande",
+   "autor": "Escuela de Organización Industrial"
+ },
+ {
+   "titulo": "Orange y EOI ponen en marcha segunda edición programa apoyo a emprendedores",
+   "url": "https://www.lavanguardia.com/vida/20181106/452777073485/orange-y-eoi-ponen-en-marcha-segunda-edicion-programa-apoyo-a-emprendedores.html",
+   "autor": "La vanguardia"
+ },
+ {
+   "titulo": "Súmate Marketing Online: razones por las que los comercios electrónicos deben aprovechar el Día del Soltero",
+   "url": "http://www.diariosigloxxi.com/texto-diario/mostrar/1245222/sumate-marketing-online-razones-comercios-electronicos-deben-aprovechar-dia-soltero",
+   "autor": "Siglo XXI"
+ },
+ {
+   "titulo": "Facebook capacitó a 1,650 mypes peruanas en marketing digital",
+   "url": "https://peru21.pe/economia/facebook-capacito-1-650-mypes-peruanas-marketing-digital-nndc-438771",
+   "autor": "Peru 21"
+ },
+ {
+   "titulo": "Olimpiadas de la Innovación del IMSS arrancan hoy",
+   "url": "https://heraldodemexico.com.mx/pais/olimpiadas-de-la-innovacion-del-imss-arrancan-hoy/",
+   "autor": "El Heraldo de México"
+ },
+ {
+   "titulo": "¿Le apostarán a la innovación?",
+   "url": "http://www.milenio.com/opinion/eduardo-gonzalez/intelecto-opuesto/le-apostaran-a-la-innovacion",
+   "autor": "Milenio"
+ },
+ {
+   "titulo": "Innovación: Líderes empresariales apuestan por innovación para impulsar el crecimiento",
+   "url": "https://www.america-retail.com/innovacion/innovacion-lideres-empresariales-apuestan-por-innovacion-para-impulsar-el-crecimiento/",
+   "autor": "América Retail"
+ },
+ {
+   "titulo": "Marketing Con Propósito Social: 3 Marcas Innovadoras Que Demuestran Su Efectividad",
+   "url": "https://www.merca20.com/marketing-con-proposito-social/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "La euforia ante las innovaciones tecnológicas",
+   "url": "https://www.forbes.com.mx/la-euforia-ante-las-innovaciones-tecnologicas/",
+   "autor": "Forbes"
+ },
+ {
+   "titulo": "Castilla y León y la provincia argentina de Córdoba analizan futuros acuerdos en innovación y competitividad",
+   "url": "https://www.20minutos.es/noticia/3484059/0/castilla-leon-provincia-argentina-cordoba-analizan-futuros-acuerdos-innovacion-competitividad/",
+   "autor": "20 Minutos"
+ },
+ {
+   "titulo": "PymTech: el espacio que descubre el ADN de la innovación para las Pymes",
+   "url": "https://www.entrepreneur.com/article/322878",
+   "autor": "Entrepreneur"
+ },
+ {
+   "titulo": "Pinterest Contrata Su Primera Directora Ejecutiva De Marketing",
+   "url": "https://www.totalmedios.com/nota/36719/pinterest-contrata-su-primera-directora-ejecutiva-de-marketing",
+   "autor": "Total Medios"
+ },
+ {
+   "titulo": "Clara Ureña, nueva directora de Marketing y Comunicación en Great Place to Work",
+   "url": "http://www.rrhhdigital.com/secciones/quien-es-quien/133624/Clara-Urena-nueva-directora-de-Marketing-y-Comunicacion-en-Great-Place-to-Work",
+   "autor": "RRHH Digital"
+ },
+ {
+   "titulo": "Bogotá tiene una cita con la innovación abierta",
+   "url": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/innovacion-abierta-en-bogota-open-innovation-summit-290130",
+   "autor": "El Tiempo"
+ },
+ {
+   "titulo": "Buscan mapa de riesgos por cohecho",
+   "url": "https://www.eleconomista.com.mx/politica/Buscan-mapa-de-riesgos-por-cohecho-20181106-0031.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Ministerio de la Producción lanza el Mes del Emprendimiento",
+   "url": "https://www.andina.pe/agencia/noticia-ministerio-de-produccion-lanza-mes-del-emprendimiento-731884.aspx",
+   "autor": "Andina"
+ },
+ {
+   "titulo": "3 Grandes Tendencias de Marketing que Veremos en 2019",
+   "url": "https://www.merca20.com/3-grandes-tendencias-de-marketing-que-veremos-en-2019/",
+   "autor": "Merca 2.0"
+ }
+]
 }
