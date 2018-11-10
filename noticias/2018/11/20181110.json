@@ -1,4 +1,54 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "De los 4 millones de empleos generados en sexenio, 52% son de pymes",
+   "url": "http://elempresario.mx/emprendedores/los-4-millones-empleos-generados-sexenio-52-son-pymes",
+   "autor": "El Empresario MX"
+ },
+ {
+   "titulo": "5 Estrategias en marketing digital que ignoraste en 2018, pero serán tendencia en 2019",
+   "url": "https://www.merca20.com/5-estrategias-en-marketing-digital-que-ignoraste-en-2018-pero-seran-tendencia-en-2019/",
+   "autor": "Merca2.0"
+ },
+ {
+   "titulo": "¿Y las PYMES exportadoras?",
+   "url": "http://www.eluniversal.com.co/opinion/columna/y-las-pymes-exportadoras-15433",
+   "autor": "El Universal, Colombia"
+ },
+ {
+   "titulo": "Pymes detonan el desarrollo económico y social del país: CDMX",
+   "url": "https://mvsnoticias.com/#!/noticias/pymes-detonan-el-desarrollo-economico-y-social-del-pais-cdmx-332",
+   "autor": "MVS Noticias"
+ },
+ {
+   "titulo": "Emprendimiento, entre retos del nuevo gobierno",
+   "url": "http://www.eluniversal.com.mx/cartera/emprendimiento-entre-retos-del-nuevo-gobierno",
+   "autor": "El Universal MX"
+ },
+ {
+   "titulo": "Secretaria de economía, con la mirada en Yucatán para despuntar sus finanzas",
+   "url": "https://laverdadnoticias.com/deportes/Secretaria-de-economia-con-la-mirada-en-Yucatan-para-despuntar-sus-finanzas-20181109-0135.html",
+   "autor": "La Verdad"
+ },
+ {
+   "titulo": "Buscan combatir incendios con drones",
+   "url": "http://www.cronicajalisco.com/notas/2018/90195.html",
+   "autor": "La Cronica Jalisco"
+ },
+ {
+   "titulo": "Respalda ITJ proyectos de jóvenes en la casa del emprendedor",
+   "url": "http://desdepuebla.com/2018/11/09/respalda-itj-proyectos-de-jovenes-en-la-casa-del-emprendedor/",
+   "autor": "Desde Puebla"
+ },
+ {
+   "titulo": "Innovación, el ingrediente que América Latina necesita para aumentar la productividad",
+   "url": "https://www.notimerica.com/oficial/noticia-innovacion-ingrediente-america-latina-necesita-aumentar-productividad-20181109112722.html",
+   "autor": "Notimérica"
+ },
+ {
+   "titulo": "¿Por qué fomentar una cultura de innovación le hará bien a tu empresa?",
+   "url": "https://www.entrepreneur.com/article/323085",
+   "autor": "Entrepreneur"
+ }
+]
 }
