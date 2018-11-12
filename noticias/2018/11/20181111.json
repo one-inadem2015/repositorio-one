@@ -1,4 +1,64 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "La importancia de planificar en las pymes y empresas familiares",
+   "url": "http://www.diarioel9dejulio.com.ar/noticia/94068",
+   "autor": "Diario el 9 de Julio"
+ },
+ {
+   "titulo": "4 razones para invertir en video de redes sociales",
+   "url": "https://www.merca20.com/4-razones-para-invertir-en-video-de-redes-sociales/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Organizaciones deportivas deben adaptarse a las tendencias digitales",
+   "url": "https://www.lajornadamaya.mx/2018-11-09/Organizaciones-deportivas-deben-adaptarse-a-las-tendencias-digitales",
+   "autor": "La Jornada Maya"
+ },
+ {
+   "titulo": "Cinco tendencias que hemos visto en la World Travel Market",
+   "url": "https://www.hosteltur.com/109679_cinco-tendencias-que-hemos-visto-en-world-travel-market.html",
+   "autor": "Hosteltur"
+ },
+ {
+   "titulo": "El encuentro #TendUp conectará el talento emprendedor con compañías de mayor tamaño",
+   "url": "https://www.eleconomista.es/aragon/noticias/9509650/11/18/El-encuentro-TendUp-conectara-el-talento-emprendedor-con-companias-de-mayor-tamano.html",
+   "autor": "El Economista, España"
+ },
+ {
+   "titulo": "Destacan hermanos regios con proyectos de innovación",
+   "url": "http://www.elhorizonte.mx/local/destacan-hermanos-regios-con-proyectos-de-innovacion/2353452",
+   "autor": "El Horizonte"
+ },
+ {
+   "titulo": "Alumnos del ITESM Cuernavaca ganan competencia de emprendimiento",
+   "url": "https://www.eluniversal.com.mx/estados/alumnos-del-itesm-cuernavaca-ganan-competencia-de-emprendimiento",
+   "autor": "El Universal"
+ },
+ {
+   "titulo": "Evalúan programa de crédito de Inversión Joven en Reynosa",
+   "url": "https://voxpopulinoticias.com.mx/2018/11/evaluan-programa-de-credito-de-inversion-joven-en-reynosa/",
+   "autor": "Vox Populi"
+ },
+ {
+   "titulo": "Empresarios mexicanos abrirán centro de exhibición de productos de exportación en Shanghai",
+   "url": "http://udgtv.com/noticias/empresarios-mexicanos-abriran-centro-exhibicion-productos-exportacion-shanghai/",
+   "autor": "Canal 44"
+ },
+ {
+   "titulo": "Proponen aumentos anuales para ciencia y tecnología",
+   "url": "https://www.elindependientedehidalgo.com.mx/proponen-aumentos-anuales-para-ciencia-y-tecnologia/",
+   "autor": "El Independiente de Hidalgo"
+ },
+ {
+   "titulo": "Ebrard resalta 'diversificación económica' entre México y China",
+   "url": "https://www.excelsior.com.mx/nacional/ebrard-resalta-diversificacion-economica-entre-mexico-y-china/1277545",
+   "autor": "Excelsior"
+ },
+ {
+   "titulo": "Entregaron microcréditos a quince emprendedores por un monto de $ 750 mil",
+   "url": "http://www.chacodiapordia.com/2018/11/10/entregaron-microcreditos-a-quince-emprendedores-por-un-monto-de-750-mil/",
+   "autor": "Chaco Día por Día"
+}
+]
 }
