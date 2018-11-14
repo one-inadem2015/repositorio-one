@@ -1,4 +1,154 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "Pymes seguras, empresas tranquilas",
+   "url": "https://www.vanguardia.com/economia/negocios/450299-pymes-seguras-empresas-tranquilas",
+   "autor": "Vanguardia"
+ },
+ {
+   "titulo": "En la “Semana de la PYME”: Lanzan plataforma “Astronomy Valley” inspirada en el Eclipse Total de Sol 2019",
+   "url": "http://www.semanariotiempo.cl/2018/11/10/en-la-semana-de-la-pyme-lanzan-plataforma-astronomy-valley-inspirada-en-el-eclipse-total-de-sol-2019/",
+   "autor": "Semanario Tiempo"
+ },
+ {
+   "titulo": "Italia busca reducir pronóstico crecimiento PIB 2019 para lograr acuerdo con UE: fuente",
+   "url": "https://www.swissinfo.ch/spa/italia-busca-reducir-pron%C3%B3stico-crecimiento-pib-2019-para-lograr-acuerdo-con-ue--fuente/44537312",
+   "autor": "Swiss Info"
+ },
+ {
+   "titulo": "Maíz y sorgo, entre los productos con mayor producción en México",
+   "url": "https://www.20minutos.com.mx/noticia/443388/0/maiz-y-sorgo-entre-los-productos-con-mayor-produccion-en-mexico/",
+   "autor": "20 Minutos"
+ },
+ {
+   "titulo": "El mercado de esferas de Chignahuapan no para pese a violencia",
+   "url": "https://www.elsoldelcentro.com.mx/republica/sociedad/el-mercado-de-esferas-de-chignahuapan-no-para-pese-a-violencia-2648680.html",
+   "autor": "El Sol del Centro"
+ },
+ {
+   "titulo": "Pymes representan 60% de las ventas durante el Buen Fin",
+   "url": "http://elempresario.mx/guia-util/pymes-representan-60-ventas-durante-buen-fin",
+   "autor": "El Empresario MX"
+ },
+ {
+   "titulo": "Hoy inauguran la Semana Global de Emprendimiento",
+   "url": "https://www.laprensa.hn/economia/1232816-410/expoferia-semana-global-emprendimiento-honduras-",
+   "autor": "La Prensa"
+ },
+ {
+   "titulo": "La clave del emprendimiento son las ganas",
+   "url": "https://www.kienyke.com/emprendimiento/global-student-entrepreneur-awards-final-colombia-financiamiento-emprendedores",
+   "autor": "Kien y Ke"
+ },
+ {
+   "titulo": "Urbanismo, seguridad e innovación: así fue el proceso de transformación de Medellín tras los años de violencia",
+   "url": "https://www.infobae.com/america/colombia/2018/11/11/urbanismo-seguridad-e-innovacion-asi-fue-el-proceso-de-transformacion-de-medellin-tras-los-anos-de-violencia/",
+   "autor": "infobae"
+ },
+ {
+   "titulo": "La Región presentará sus proyectos de innovación en la feria Simo Educación en Madrid",
+   "url": "https://www.20minutos.es/noticia/3488369/0/region-presentara-sus-proyectos-innovacion-feria-simo-educacion-madrid/",
+   "autor": "20 Minutos"
+ },
+ {
+   "titulo": "Semana Mediterránea apuesta por la innovación, la tecnología y economía azul",
+   "url": "http://www.finanzas.com/noticias/economia/20181111/semana-mediterranea-apuesta-innovacion-3943469_age.html",
+   "autor": "Finanzas"
+ },
+ {
+   "titulo": "Moda y tecnología reducen distancias: el 18% de los grupos cuenta con su propio ‘hub’ de innovación",
+   "url": "https://www.kippel01.com/pro/moda-y-tecnologia-reducen-distancias-el-18-de-los-grupos-cuenta-con-su-propio-hub-de-innovacion.html",
+   "autor": "Kippel"
+ },
+ {
+   "titulo": "5 charlas sobre marketing online",
+   "url": "https://wwwhatsnew.com/2018/11/11/5-charlas-sobre-marketing-online/",
+   "autor": "Tecnología, Internet y Marketing"
+ },
+ {
+   "titulo": "Las tres peores ideas de marketing turístico que machacarán tu negocio",
+   "url": "https://www.hosteltur.com/109698_las-tres-peores-ideas-de-marketing-turistico-que-machacaran-tu-negocio.html",
+   "autor": "Hosteltur"
+ },
+ {
+   "titulo": "Las 5 herramientas más interesantes para automatizar propuestas a nuestros clientes",
+   "url": "http://www.ticbeat.com/empresa-b2b/las-5-herramientas-mas-interesantes-para-automatizar-propuestas-a-nuestros-clientes/",
+   "autor": "TicBeat"
+ },
+ {
+   "titulo": "Comisiones en tarjeta de crédito, lo que más reditúa",
+   "url": "https://www.eleconomista.com.mx/sectorfinanciero/Comisiones-en-tarjeta-de-credito-lo-que-mas-reditua-20181112-0003.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Exhortan a comprar en sitios verificados este Buen Fin",
+   "url": "http://www.zocalo.com.mx/new_site/articulo/exhortan-a-comprar-en-sitios-verificados-este-buen-fin",
+   "autor": "Zócalo"
+ },
+ {
+   "titulo": "Dará Federación recursos para 78 proyectos locales",
+   "url": "https://www.elsoldetlaxcala.com.mx/local/dara-federacion-recursos-para-78-proyectos-locales-2649747.html",
+   "autor": "El Sol de Tlaxcala"
+ },
+ {
+   "titulo": "Abren franquicias nuevos negocios",
+   "url": "http://www.eldiariodecoahuila.com.mx/activos/2018/11/12/abren-franquicias-nuevos-negocios-772613.html",
+   "autor": "El Diario de Coahuila"
+ },
+ {
+   "titulo": "Arabia Saudita reducirá producción de petróleo",
+   "url": "https://www.eleconomista.com.mx/mercados/Arabia-Saudita-reducira-produccion-de-petroleo-20181111-0032.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Tec de Monterrey premia a emprendedores en salud",
+   "url": "http://elempresario.mx/emprendedores/tec-monterrey-premia-emprendedores-salud",
+   "autor": "El Empresario MX"
+ },
+ {
+   "titulo": "Emprendedores motivan a alumnos durante Speakers BUAP",
+   "url": "http://www.unionpuebla.mx/articulo/2018/11/12/educacion/emprendedores-motivan-alumnos-durante-speakers-buap",
+   "autor": "Union Puebla"
+ },
+ {
+   "titulo": "Preparan coloquio de gestión cultural",
+   "url": "https://www.diariodequeretaro.com.mx/cultura/preparan-coloquio-de-gestion-cultural-2652016.html",
+   "autor": "Diario de Querétaro"
+ },
+ {
+   "titulo": "La importancia de la economía doméstica complementaria (EDOCO)",
+   "url": "https://sipse.com/novedades/opinion-francisco-may-voces-universitarias-la-importancia-de-la-economia-domestica-complementaria-edoco-316038.html",
+   "autor": "Novedades Quintana Roo"
+ },
+ {
+   "titulo": "Triunfan alumnas de la UTCJ con proyecto de exportación miel a Alemania",
+   "url": "http://netnoticias.mx/2018-11-12-31582cf8/triunfan-alumnas-de-la-utcj-con-proyecto-de-exportacion-miel-a-alemania/",
+   "autor": "Net Noticias MX"
+ },
+ {
+   "titulo": "Finnovista y BID presentan informe 2018 sobre Fintech",
+   "url": "https://www.mypress.mx/negocios/finnovista-bid-presenta-informe-2018-fintech-3901",
+   "autor": "My Press"
+ },
+ {
+   "titulo": "Buscan detonar talento de emprendedores",
+   "url": "https://www.diariodemorelos.com/noticias/buscan-detonar-talento-de-emprendedores",
+   "autor": "Diario de Morelos"
+ },
+ {
+   "titulo": "Pesadilla en tu startup asesora a emprendedores en problemas",
+   "url": "http://elempresario.mx/emprendedores/pesadilla-tu-startup-asesora-emprendedores-problemas",
+   "autor": "El Empresario MX"
+ },
+ {
+   "titulo": "Solo 3 de cada 10 Pymes mexicanas están en internet: Google",
+   "url": "https://www.forbes.com.mx/solo-3-de-cada-10-pymes-mexicanas-estan-en-internet-google/",
+   "autor": "Forbes"
+ },
+ {
+   "titulo": "'Crece con Google' llega a Mérida a capacitar a más de 5 mil personas",
+   "url": "http://elfinanciero.com.mx/peninsula/crece-con-google-llega-hoy-a-merida-a-capacitar-a-mas-de-5-mil-personas",
+   "autor": "El Financiero"
+ }
+]
 }
