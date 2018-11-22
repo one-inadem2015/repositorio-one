@@ -1,4 +1,59 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "Sin empresas no hay innovación",
+   "url": "https://innovadores.larazon.es/es/not/sin-empresas-no-hay-innovacion",
+   "autor": "Innovadores"
+ },
+ {
+   "titulo": "Ganadores de los Premios a la Innovación CES 2019",
+   "url": "https://www.mypress.mx/tecnologia/ganadores-premios-innovacion-ces-2019-3951",
+   "autor": "My Press"
+ },
+ {
+   "titulo": "Unas 400 ideas innovadoras de estudiantes de FP compiten en la III edición de 'Talento Emprendedor'",
+   "url": "https://www.europapress.es/esandalucia/sevilla/noticia-400-ideas-innovadoras-estudiantes-fp-compiten-iii-edicion-talento-emprendedor-20181118125723.html",
+   "autor": "Europa Press"
+ },
+ {
+   "titulo": "Ciencia e innovación: pilares para que empresas y academia contribuyan a la sociedad",
+   "url": "http://www.economiaynegocios.cl/noticias/noticias.asp?id=522508",
+   "autor": "Economía y Negocios"
+ },
+ {
+   "titulo": "Ovacionada premiación y clausura ENEIT 2018 en el Tecnológico de Chihuahua",
+   "url": "http://www.itchihuahua.edu.mx/?p=9438",
+   "autor": "Instituto Tecnológico de Chihuahua"
+ },
+ {
+   "titulo": "5 cosas que no te conviene comprar en el \"Buen Fin\"",
+   "url": "https://www.dineroenimagen.com/tu-dinero/5-cosas-que-no-te-conviene-comprar-en-el-buen-fin/104722",
+   "autor": "Dinero en Imagen"
+ },
+ {
+   "titulo": "Ayuntamiento de Guadalajara impulsa a emprendedores",
+   "url": "https://www.eloccidental.com.mx/local/ayuntamiento-de-guadalajara-impulsa-a-emprendedores-2680840.html",
+   "autor": "El Occidental"
+ },
+ {
+   "titulo": "Feria reunió a gran cantidad de jóvenes emprendedores",
+   "url": "https://www.ultimahora.com/feria-reunio-gran-cantidad-jovenes-emprendedores-n2779993.html",
+   "autor": "Ultima Hora"
+ },
+ {
+   "titulo": "Microsoft apuesta a los emprendedores para impulsar las nuevas tecnologías",
+   "url": "http://www.lavoz.com.ar/negocios/microsoft-apuesta-emprendedores-para-impulsar-nuevas-tecnologias",
+   "autor": "La Voz, Argentina"
+ },
+ {
+   "titulo": "Festival de Licores Caracas 2018, una ventana para los emprendedores",
+   "url": "http://www.el-nacional.com/noticias/variedades/festival-licores-caracas-2018-una-ventana-para-los-emprendedores_260146",
+   "autor": "El Nacional"
+ },
+ {
+   "titulo": "¿Quieres un perro o un gato? No lo compres, aquí puedes adoptar este Buen Fin",
+   "url": "http://www.nacion321.com/ciudadanos/quieres-un-perro-o-un-gato-no-lo-compres-aqui-puedes-adoptar-este-buen-fin",
+   "autor": "Nación 321"
+ }
+]
 }
