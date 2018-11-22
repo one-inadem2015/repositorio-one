@@ -1,59 +1,69 @@
 {
    "noticias" : [
  {
-   "titulo": "28 restaurantes de Morelia, beneficiados por el Inadem por más de 15 millones de pesos",
-   "url": "http://www.noventagrados.com.mx/politica/28-restaurantes-de-morelia-beneficiados-por-el-inadem-por-mas-de-15-millones-de-pesos.htm",
-   "autor": "Noventa Grados"
+   "titulo": "Mickey Mouse: 90 años de historia del marketing más mágico del mundo",
+   "url": "https://www.marketingdirecto.com/marketing-general/marketing/mickey-mouse-90-anos-historia-marketing-mas-magico-mundo",
+   "autor": "Marketing Directo"
  },
  {
-   "titulo": "Así se vivió el festival de emprendimiento INCmty 2018",
-   "url": "https://www.entrepreneur.com/article/323428",
-   "autor": "Entrepreneur"
- },
- {
-   "titulo": "Red de Incubadoras: más de 200 emprendedores preparan su Pyme",
-   "url": "https://www.noticiasdel6.com/red-de-incubadoras-mas-de-200-emprendedores-preparan-su-pyme/",
-   "autor": "Seis Digital"
- },
- {
-   "titulo": "Concurso para pymes 'The Blueprint’ las impulsa a resolver retos de tres empresas",
-   "url": "https://www.elfinancierocr.com/pymes/concurso-para-pymes-the-blueprint-las-impulsa-a/A3O4H5E2UNHMRMHCPWYOVA4LYQ/story/",
-   "autor": "El Financiero"
- },
- {
-   "titulo": "¿Por qué un sitio web lento puede ser nefasto para las pymes?",
-   "url": "http://murciaeconomia.com/not/59737/-por-que-un-sitio-web-lento-puede-ser-nefasto-para-las-pymes-",
-   "autor": "Murcia Economía"
- },
- {
-   "titulo": "Festeja UNAM 10 años de impulsar la innovación y el emprendimiento",
-   "url": "http://conacytprensa.mx/index.php/sociedad/politica-cientifica/24875-unam-10-anos-impulsar-innovacion-emprendimiento",
-   "autor": "Conacyt Prensa"
- },
- {
-   "titulo": "Conoce a los Ganadores de los Premios a la Innovación CES 2019",
-   "url": "https://www.entrepreneur.com/article/323437",
-   "autor": "Entrepreneur"
- },
- {
-   "titulo": "En marketing digital también hay modas y de la moda lo que te acomode",
-   "url": "https://www.merca20.com/en-marketing-digital-tambien-hay-modas-y-de-la-moda-lo-que-te-acomode/",
+   "titulo": "5 Tipos de Community Managers que vimos durante el buen fin",
+   "url": "https://www.merca20.com/5-tipos-de-community-managers-que-vimos-durante-el-buen-fin/",
    "autor": "Merca 2.0"
  },
  {
-   "titulo": "Transformación Empresarial: Psicología visual en marketing",
-   "url": "https://laverdadnoticias.com/influencers/Transformacion-Empresarial-Psicologia-visual-en-marketing-20181115-0094.html",
-   "autor": "La Verdad"
+   "titulo": "Urgen a elevar a 1% del PIB recursos para investigación científica",
+   "url": "http://www.milenio.com/ciencia-y-salud/mas-ciencia-salud/urgen-elevar-1-pib-recursos-investigacion",
+   "autor": "Milenio"
  },
  {
-   "titulo": "Endeavor celebró sus 20 años impulsando a los emprendedores argentinos",
-   "url": "https://www.clarin.com/sociedad/endeavor-celebro-20-anos-impulsando-emprendedores-argentinos_0_elsLdJ1Zu.html",
-   "autor": "Clarin"
+   "titulo": "Análisis de la ASF: cómo exprime la banca a los usuarios",
+   "url": "https://www.proceso.com.mx/560040/analisis-de-la-asf-como-exprime-la-banca-a-los-usuarios",
+   "autor": "Proceso"
  },
  {
-   "titulo": "México representado en CES 2019 por 50 empresas mexicanas",
-   "url": "https://www.mypress.mx/negocios/mexico-ces-2019-por-empresas-mexicanas-3943",
-   "autor": "My Press"
+   "titulo": "7 Alumnos participan en el Festival del Emprendimiento",
+   "url": "https://tec.mx/es/noticias/aguascalientes/institucion/7-alumnos-participan-en-el-festival-del-emprendimiento",
+   "autor": "Tecnológico de Monterrey"
+ },
+ {
+   "titulo": "Gastronomía, detonante fundamental de la economía estatal: Sedeco #Morelia",
+   "url": "https://laregionenlinea.com.mx/gastronomia-detonante-fundamental-de-la-economia-estatal-sedeco-morelia/",
+   "autor": "La Region en Línea"
+ },
+ {
+   "titulo": "A partir de enero miel tamaulipeca podrá ser exportada",
+   "url": "https://voxpopulinoticias.com.mx/2018/11/a-partir-de-enero-miel-tamaulipeca-podra-ser-exportada/",
+   "autor": "Vox Populi"
+ },
+ {
+   "titulo": "Amazon presenta en México “La Experiencia Amazon” para este Buen Fin",
+   "url": "http://www.eluniversal.com.mx/techbit/amazon-presenta-en-mexico-la-experiencia-amazon-para-este-buen-fin",
+   "autor": "El Universal"
+ },
+ {
+   "titulo": "Nuevos retos del marketing digital",
+   "url": "https://madridpress.com/art/247516/nuevos-retos-del-marketing-digital",
+   "autor": "Madrid Press"
+ },
+ {
+   "titulo": "Galicia acogerá el I Foro Iberoamericano sobre Compra Pública de Innovación los días 27 y 28 de noviembre",
+   "url": "https://www.galiciapress.es/texto-diario/mostrar/1255977/galicia-acogera-i-foro-iberoamericano-sobre-compra-publica-innovacion-dias-27-28-noviembre",
+   "autor": "Galicia Press"
+ },
+ {
+   "titulo": "Más de 200 docentes participan en el Congreso TIC e Innovación Educativa 2018 de Escuelas Católicas Castilla y León",
+   "url": "https://www.20minutos.es/noticia/3494340/0/mas-200-docentes-participan-congreso-tic-innovacion-educativa-2018-escuelas-catolicas-castilla-leon/",
+   "autor": "20 Minutos"
+ },
+ {
+   "titulo": "Destaca Tecnológico de Monterrey por emprendimiento",
+   "url": "https://observatorio.itesm.mx/edu-news/top10emprendimiento",
+   "autor": "Tecnológico de Monterrey"
+ },
+ {
+   "titulo": "\"In Dogs We Trust\": el emprendimiento solidario que ayuda a miles de perros",
+   "url": "https://www.infobae.com/tendencias/2018/11/15/in-dogs-we-trust-el-emprendimiento-solidario-que-ayuda-a-miles-de-perros/",
+   "autor": "Infobae"
  }
 ]
 }
