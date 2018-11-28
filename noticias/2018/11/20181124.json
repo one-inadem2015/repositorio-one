@@ -1,4 +1,64 @@
 {
    "noticias" : [
-
+ {
+   "titulo": "Inicia Expo Feria de Emprendedores",
+   "url": "https://www.elsoldetijuana.com.mx/local/inicia-expo-feria-de-emprendedores-2704536.html",
+   "autor": "El Sol de Tijuana"
+ },
+ {
+   "titulo": "Emprendedores buscan asociarse para facilitar negocios",
+   "url": "https://www.laprensagrafica.com/economia/Emprendedores-buscan-asociarse-para-facilitar-negocios-20181123-0060.html",
+   "autor": "La Prensa Gráfica"
+ },
+ {
+   "titulo": "¿Por qué gustan en Europa estas dos startups nacionales?",
+   "url": "https://www.emprendedores.es/gestion/a25232389/emprendimiento-sostenible-casos-de-exito-a-b-laboratorios-biotecnologia-suez-spain/",
+   "autor": "Emprendedores"
+ },
+ {
+   "titulo": "Expertos europeos marcan la innovación continua como clave para mejorar la salud",
+   "url": "http://www.elglobal.net/industria-farmaceutica/expertos-europeos-marcan-la-innovacion-continua-como-clave-para-mejorar-la-salud-XK1826176",
+   "autor": "El Global"
+ },
+ {
+   "titulo": "Así son y así trabajan las Agencias de Marketing actuales",
+   "url": "https://www.puromarketing.com/41/31261/asi-son-asi-trabajan-agencias-marketing-actuales.html",
+   "autor": "Puro Marketing"
+ },
+ {
+   "titulo": "¿Cómo surgió el 'Black Friday'? Aquí te lo contamos",
+   "url": "https://expansion.mx/tendencias/2018/11/22/como-surgio-el-black-friday-aqui-te-lo-contamos",
+   "autor": "Expansión"
+ },
+ {
+   "titulo": "Samsung cierra el caso de empleados con cáncer… con disculpas",
+   "url": "https://periodicocorreo.com.mx/samsung-cierra-el-caso-de-empleados-con-cancer-con-disculpas/",
+   "autor": "Periódico Correo"
+ },
+ {
+   "titulo": "¿Sabes cuáles son las mejores 'scale ups' que han creado soluciones de innovación estratégica para otras empresas?",
+   "url": "https://www.emprendedores.es/ideas-de-negocio/a25259387/mejores-scale-ups-soluciones-innovacion-estrategica-para-otras-empresas/",
+   "autor": "Emprendedores"
+ },
+ {
+   "titulo": "Así se ve el amor, conoce el primer mapa de sentimientos humanos",
+   "url": "https://www.unotv.com/noticias/portal/tecnologia/detalle/este-es-el-primer-mapa-de-calor-que-muestra-los-sentimientos-humanos-544431/",
+   "autor": "UNO TV"
+ },
+ {
+   "titulo": "Inauguran concurso nacional de innovación y emprendimiento en Aguascalientes",
+   "url": "http://www.lja.mx/2018/11/inauguran-concurso-nacional-de-innovacion-y-emprendimiento-en-aguascalientes/",
+   "autor": "La Jornada, Aguascalientes"
+ },
+ {
+   "titulo": "Circula libro ‘Emprendimiento efectivo’",
+   "url": "https://listindiario.com/elnorte/2018/11/23/542882/circula-libro-emprendimiento-efectivo",
+   "autor": "Listin Diario"
+ },
+ {
+   "titulo": "El emprendimiento femenino, menos tendencia y más realidad",
+   "url": "https://www.emprendedores.es/crear-una-empresa/a25289770/mujeres-emprendedoras-tendencias/",
+   "autor": "Emprendedores"
+ }
+]
 }
