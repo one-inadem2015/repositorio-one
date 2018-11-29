@@ -1,4 +1,159 @@
 {
    "noticias" : [
+ {
+   "titulo": "Las 8 tendencias de marketing digital para 2019",
+   "url": "https://expansion.mx/mercadotecnia/2018/11/26/las-8-tendencias-de-marketing-digital-para-2019",
+   "autor": "Expansión"
+ },
+ {
+   "titulo": "¿Es Lean Marketing lo que estamos haciendo?",
+   "url": "https://www.puromarketing.com/44/31277/lean-marketing-estamos-haciendo.html",
+   "autor": "Puro Marketing"
+ },
+ {
+   "titulo": "Arranca en Monterrey \"Crece con Google\" para capacitar a Pymes",
+   "url": "http://elempresario.mx/management-mrkt/arranca-monterrey-crece-google-capacitar-pymes",
+   "autor": "El Empresario"
+ },
+ {
+   "titulo": "Selección de color en marketing: 7 claves para lograrlo con éxito",
+   "url": "https://www.merca20.com/seleccion-de-color-en-marketing-7-claves-para-lograrlo-con-exito/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "La pyme se blinda frente a la volatilidad de las divisas",
+   "url": "https://cincodias.elpais.com/cincodias/2018/11/08/pyme/1541716613_708457.html",
+   "autor": "El País"
+ },
+ {
+   "titulo": "Cómo crear campañas de marketing efectivas estas Navidades",
+   "url": "https://www.marketingdirecto.com/marketing-general/publicidad/como-crear-campanas-de-marketing-efectivas-estas-navidades",
+   "autor": "Marketing Directo"
+ },
+ {
+   "titulo": "Emprendedores cuánticos que diseñan el futuro",
+   "url": "http://www.expansion.com/pymes/2018/11/26/5bf826d2e5fdea825e8b45eb.html",
+   "autor": "Expansión"
+ },
+ {
+   "titulo": "Grupo Bolívar crea plataforma para premiar el emprendimiento social",
+   "url": "https://www.larepublica.co/empresas/grupo-bolivar-crea-plataforma-para-premiar-el-emprendimiento-social-2797845",
+   "autor": "La República"
+ },
+ {
+   "titulo": "4 Claves de emprendimiento para jóvenes",
+   "url": "http://mundoejecutivo.com.mx/management/2018/11/26/4-claves-emprendimiento-jovenes",
+   "autor": "Mundo Ejecutivo"
+ },
+ {
+   "titulo": "Felicidad como propósito de emprendimiento",
+   "url": "https://www.dinero.com/emprendimiento/multimedia/felicidad-como-proposito-de-emprendimiento-en-al-tablero/264723",
+   "autor": "Dinero"
+ },
+ {
+   "titulo": "Cómo superar los fracasos en el emprendimiento",
+   "url": "https://www.prensalibre.com/economia/hablemos-de-dinero/como-superar-los-fracasos-en-el-emprendimiento",
+   "autor": "Prensa Libre"
+ },
+ {
+   "titulo": "La UCO y la Diputación fomentan el emprendimiento y la innovación entre la población joven",
+   "url": "http://www.uco.es/servicios/comunicacion/actualidad/noticias/item/131557-la-uco-y-la-diputaci%C3%B3n-fomentan-el-emprendimiento-y-la-innovaci%C3%B3n-entre-la-poblaci%C3%B3n-joven",
+   "autor": "Universidad de Córdoba, España"
+ },
+ {
+   "titulo": "Cómo enfrentar el cierre de año en la pyme",
+   "url": "https://www.latercera.com/pulso/noticia/enfrentar-cierre-ano-la-pyme/419208/",
+   "autor": "La Tercera"
+ },
+ {
+   "titulo": "La verdad del Marketing de Contenidos que quizás no te han contado",
+   "url": "https://www.puromarketing.com/55/31282/verdad-marketing-contenidos-quizas-han-contado.html",
+   "autor": "Puro Marketing"
+ },
+ {
+   "titulo": "Sánchez destaca “particularmente”a las pymes como modernizadoras de Cuba",
+   "url": "https://cincodias.elpais.com/cincodias/2018/11/26/pyme/1543268132_686578.html",
+   "autor": "El País"
+ },
+ {
+   "titulo": "Semana de la Pyme: Reconociendo al corazón del desarrollo de Chile",
+   "url": "https://www.diarioconcepcion.cl/opinion/2018/11/27/semana-de-la-pyme-reconociendo-al-corazon-del-desarrollo-de-chile.html",
+   "autor": "Diario Concepción"
+ },
+ {
+   "titulo": "¿Quieres ganar dinero con el WiFi que regalas a tus clientes? Startup ofrece esa opción a Pymes",
+   "url": "https://www.unocero.com/software/startup-mexicana-pymes-monetizar-wifi/",
+   "autor": "Uno Cero"
+ },
+ {
+   "titulo": "Invertir en startups mueve la economía",
+   "url": "http://elempresario.mx/tecnologia/invertir-startups-mueve-economia",
+   "autor": "El Empresario"
+ },
+ {
+   "titulo": "Lime invertirá 10 millones de dólares en méxico",
+   "url": "https://expansion.mx/tecnologia/2018/11/27/lime-invertira-10-millones-de-dolares-en-mexico",
+   "autor": "Expansión"
+ },
+ {
+   "titulo": "Los despachos mexicanos premiados en la Bienal Iberoamericana",
+   "url": "https://obrasweb.mx/arquitectura/2018/11/27/despachos-mexicanos-premiados-en-la-bienal-iberoamericana",
+   "autor": "Obras Web"
+ },
+ {
+   "titulo": "Realizan I Jornada de Emprendimiento y Gestión de Negocios, en la UdeC",
+   "url": "https://www.afmedios.com/2018/11/realizan-i-jornada-de-emprendimiento-y-gestion-de-negocios-en-la-udec/",
+   "autor": "AF Medios"
+ },
+ {
+   "titulo": "Dan a conocer Premios Estatales de Cultura 2018",
+   "url": "https://www.elindependientedehidalgo.com.mx/dan-a-conocer-premios-estatales-de-cultura-2018/",
+   "autor": "El Independiente"
+ },
+ {
+   "titulo": "Preocupa a sector empresarial continuidad de apoyos para mujeres en INADEM",
+   "url": "https://elmercurio.com.mx/la-region/preocupa-a-sector-empresarial-continuidad-de-apoyos-para-mujeres-en-inadem",
+   "autor": "El Mercurio"
+ },
+ {
+   "titulo": "El apoyo financiero a las PYME en Europa: los sistemas de garantía",
+   "url": "https://idus.us.es/xmlui/handle/11441/80513",
+   "autor": "Universidad de Sevilla"
+ },
+ {
+   "titulo": "Invita TechZone a más distribuidores a certificarse y especializarse en IoT",
+   "url": "https://esemanal.mx/2018/11/invita-techzone-a-mas-distribuidores-a-certificarse-y-especializarse-en-iot/",
+   "autor": "E  Semanal"
+ },
+ {
+   "titulo": "UNAM entrega Premios Innovación a 24 proyectos",
+   "url": "http://www.elempresario.mx/actualidad/unam-entrega-premios-innovacion-24-proyectos",
+   "autor": "El Empresario"
+ },
+ {
+   "titulo": "¿Emprendedor corporativo? Sí, oyó bien",
+   "url": "http://www.eluniversal.com.mx/cartera/emprendedor-corporativo-si-oyo-bien",
+   "autor": "El Universal"
+ },
+ {
+   "titulo": "Reprograma tu mente con estos 5 pasos y aumentará tu productividad como emprendedor",
+   "url": "https://www.merca20.com/reprograma-tu-mente-con-estos-5-pasos-y-aumentara-tu-productividad-como-emprendedor/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Apoyan a microemprendedores con 1.7 millones de pesos",
+   "url": "http://www.cambio16.gob.mx/spip.php?article2462",
+   "autor": "Cambio 16"
+ },
+ {
+   "titulo": "Artesanos de San Nicolás Obispo ahora le sacarán más provecho a sus molcajetes",
+   "url": "http://www.pcmnoticias.mx/2018/11/27/artesanos-de-san-nicolas-obispo-ahora-le-sacaran-mas-provecho-a-sus-molcajetes-%F0%9F%92%B0/",
+   "autor": "Periodismo y Comunicación en Movimiento"
+ },
+ {
+   "titulo": "Este emprendedor forma a los creativos del futuro",
+   "url": "https://expansion.mx/emprendedores/2018/11/27/este-emprendedor-forma-a-los-creativos-del-futuro",
+   "autor": "Expansión"
+ }
 
 }
