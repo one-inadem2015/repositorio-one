@@ -1,4 +1,159 @@
 {
-   "noticias" :
-
+   "noticias" :[
+ {
+   "titulo": "¡Eventos para emprendedores en noviembre!",
+   "url": "https://www.entrepreneur.com/article/273246",
+   "autor": "Entrepreneur"
+ },
+ {
+   "titulo": "¿Tienes ideas de negocios? Invitan a próximo curso de Innovación",
+   "url": "http://puentelibre.mx/noticia/156941-punto_mexico_conectado_secretaria_de_comunicaciones_y_transportes_chihuahua_curso_de_innovacion_y_emprendimiento/2",
+   "autor": "Puente Libre MX"
+ },
+ {
+   "titulo": "Ponen en marcha el Centro de Innovación e Integración de Tecnologías Avanzadas",
+   "url": "http://www.omnia.com.mx/noticia/86197/ponen-en-marcha-el-centro-de-innovacion-e-integracion-de-tecnologias-avanzadas",
+   "autor": "OMNIA"
+ },
+ {
+   "titulo": "Construyen sede del Sena para las TIC y la innovación",
+   "url": "https://www.elheraldo.co/barranquilla/construyen-sede-del-sena-para-las-tic-y-la-innovacion-560920",
+   "autor": "El Heraldo, Colombia"
+ },
+ {
+   "titulo": "Abierta convocatoria para Premios Nacionales de Ciencia, Tecnología e Innovación 2018",
+   "url": "http://www.minci.gob.ve/abierta-convocatoria-para-premios-nacionales-de-ciencia-tecnologia-e-innovacion-2018/",
+   "autor": "MPPEUCT, Venezuela"
+ },
+ {
+   "titulo": "Economía destina 27 millones a impulsar la innovación en las pymes",
+   "url": "https://www.farodevigo.es/galicia/2018/11/02/economia-destina-27-millones-impulsar/1990709.html",
+   "autor": "Faro de Vigo"
+ },
+ {
+   "titulo": "Tres emprendedores fueron premiados por la innovación",
+   "url": "https://www.rionegro.com.ar/bariloche/tres-emprendedores-fueron-premiados-por-la-innovacion-AA5929662",
+   "autor": "Rio Negro"
+ },
+ {
+   "titulo": "Syngenta renueva su blog 'Alimentando con Innovación'",
+   "url": "https://www.interempresas.net/Horticola/Articulos/228271-Syngenta-renueva-su-blog-'Alimentando-con-Innovacion'.html",
+   "autor": "Interempresas"
+ },
+ {
+   "titulo": "Los canales de distribución impulsan la innovación en hoteles independientes",
+   "url": "https://www.tecnohotelnews.com/2018/11/innovacion-en-hoteles-canal-distribucion/#",
+   "autor": "Tecno Hotel"
+ },
+ {
+   "titulo": "Secretaría de Economía confirma llegada de OffShore Group a Mazatlán",
+   "url": "https://www.noroeste.com.mx/publicaciones/view/secretaria-de-economia-confirma-llegada-de-offshore-group-a-mazatlan-1146517",
+   "autor": "Noroeste"
+ },
+ {
+   "titulo": "Sin crisis, insiste la Cepal y SE; Oriol contradice ",
+   "url": "http://www.24-horas.mx/2018/11/01/sin-crisis-insiste-la-cepal-y-se-oriol-contradice-infografia/",
+   "autor": "24 Horas"
+ },
+ {
+   "titulo": "Apoya Estado a micro empresarios juarenses",
+   "url": "http://elpueblo.com/notas/Apoya-Estado-a-micro-empresarios-juarense",
+   "autor": "El Pueblo, Chihuahua"
+ },
+ {
+   "titulo": "Proyecto Waia: Se pondrán en valor las historias de las casas de antiguos pobladores y el hundimiento del Monte Cervantes",
+   "url": "http://www.sur54.com/proyecto_waia_se_pondran_en_valor_las_historias_de_las_casas_de_antiguos_pobladores_y_el_hundimiento_del_monte_cervantes",
+   "autor": "Sur 54"
+ },
+ {
+   "titulo": "Llega el primer cargamento de petróleo crudo ligero de EU a México",
+   "url": "https://www.informador.mx/economia/Llega-el-primer-cargamento-de-petroleo-crudo-ligero-de-EU-a-Mexico-20181101-0143.html",
+   "autor": "Informador MX"
+ },
+ {
+   "titulo": "Continúa fortalecimiento de MIPYMES: SETUES",
+   "url": "https://www.tribunadeloscabos.com.mx/continua-fortalecimiento-de-mipymes-setues/",
+   "autor": "Tribuna de los Cabos"
+ },
+ {
+   "titulo": "Huawei y Su Épico Trolleo A Apple Sobre Lo Que Es Innovación",
+   "url": "https://www.merca20.com/huawei-epico-trolleo-apple-sobre-innovacion/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Para los emprendedores latinoamericanos, Miami es la opción preferida",
+   "url": "https://www.elnuevoherald.com/noticias/finanzas/article220909480.html",
+   "autor": "El Nuevo Herald"
+ },
+ {
+   "titulo": "Feria de Emprendedores se tomará sector de La Pampa en La Serena",
+   "url": "http://www.diarioeldia.cl/cultura/feria-emprendedores-se-tomara-sector-pampa-en-serena",
+   "autor": "Diario El Dia"
+ },
+ {
+   "titulo": "Emprendedores Mexicanos Exportarán Mezcal A Colombia",
+   "url": "http://mundoejecutivo.com.mx/ocio-diversion/2018/11/01/emprendedores-mexicanos-exportaran-mezcal-colombia",
+   "autor": "Mundo Ejecutivo"
+ },
+ {
+   "titulo": "Las mujeres que inspirarán a los emprendedores en INCmty 2018",
+   "url": "https://tecreview.tec.mx/las-mujeres-inspiraran-a-los-emprendedores-en-incmty-2018/",
+   "autor": "Tecnológico de Monterrey"
+ },
+ {
+   "titulo": "Herramientas para el emprendedor y el empresario",
+   "url": "https://autodiagnosticos.ipyme.org/",
+   "autor": "Ministerio de Industria, Comercio y Turismo, España"
+ },
+ {
+   "titulo": "Líderes (emocionalmente) inteligentes",
+   "url": "https://www.diariolasamericas.com/opinion/lideres-emocionalmente-inteligentes-n4165546",
+   "autor": "Diario Las Americas"
+ },
+ {
+   "titulo": "Feria Viva: el desafío de emprender para emprendedores",
+   "url": "https://970universal.com/2018/11/01/feria-viva-el-desafio-de-emprender-para-emprendedores/",
+   "autor": "Universal 970AM"
+ },
+ {
+   "titulo": "Marketing multisensorial, una tendencia que se expande en Colombia",
+   "url": "https://www.eltiempo.com/economia/sector-financiero/que-es-el-marketing-multisensorial-288732",
+   "autor": "El Tiempo"
+ },
+ {
+   "titulo": "La Proyección De Tu Branding Personal En Redes Sociales",
+   "url": "https://www.merca20.com/la-proyeccion-de-tu-branding-personal-en-redes-sociales/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Exitosa nueva edición del Marketing Fest",
+   "url": "https://www.ip.gov.py/ip/exitosa-nueva-edicion-del-marketing-fest/",
+   "autor": "Agencia de información Paraguaya"
+ },
+ {
+   "titulo": "Didi Chuxing entra a Tijuana y Mexicali",
+   "url": "https://marketing4ecommerce.mx/didi-chuxing-entra-a-tijuana-y-mexicali/",
+   "autor": "Marketing for Ecommerce"
+ },
+ {
+   "titulo": "El Gobierno regional facilita la formación en marketing digital a una docena de jóvenes de la provincia de Guadalajara",
+   "url": "http://www.castillalamancha.es/actualidad/notasdeprensa/el-gobierno-regional-facilita-la-formaci%C3%B3n-en-marketing-digital-una-docena-de-j%C3%B3venes-de-la",
+   "autor": "Castilla, España"
+ },
+ {
+   "titulo": "Los niños, “emprendedores de parto natural”",
+   "url": "https://www.forbes.com.mx/los-ninos-emprendedores-de-parto-natural/",
+   "autor": "Forbes"
+ },
+ {
+   "titulo": "Jóvenes emprendedores promovieron el emprender haciendo",
+   "url": "http://www.elsantafesino.com/educacion/2018/11/02/23593",
+   "autor": ""
+ },
+ {
+   "titulo": "Decenas niños participaran este fin de semana en una feria para emprendedores",
+   "url": "https://teletica.com/208812_decenas-ninos-participaran-este-fin-de-semana-en-una-feria-para-emprendedores",
+   "autor": "Teletica"
+ }
+]
 }
