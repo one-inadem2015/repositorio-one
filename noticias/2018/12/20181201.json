@@ -1,4 +1,5 @@
-[
+{
+   "noticias" : [
  {
    "titulo": "¡Se abre la convocatoria para el Simulador de Emprendimiento del TrepCamp!",
    "url": "https://www.entrepreneur.com/article/324132",
@@ -55,3 +56,4 @@
    "autor": "El Financiero"
  }
 ]
+}
