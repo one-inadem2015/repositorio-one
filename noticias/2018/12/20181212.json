@@ -1,4 +1,204 @@
 {
-   "noticias" :
-
+   "noticias" : [
+ {
+   "titulo": "Destaca Guanajuato en aportaciones al Producto Interno Bruto Nacional",
+   "url": "https://www.elsoldeleon.com.mx/local/destaca-guanajuato-en-aportaciones-al-producto-interno-bruto-nacional-2784895.html",
+   "autor": "El Sol de León"
+ },
+ {
+   "titulo": "Equivale trabajo doméstico no remunerado a 23.3% del PIB",
+   "url": "https://www.excelsior.com.mx/nacional/equivale-trabajo-domestico-no-remunerado-a-233-del-pib/1284111",
+   "autor": "Excelsior"
+ },
+ {
+   "titulo": "Hoteles y restaurantes, empresas que más aportan en Q. Roo",
+   "url": "https://sipse.com/novedades/producto-interno-bruto-quintana-roo-hoteles-restaurantes-dinero-turismo-agricultura-industria-319011.html",
+   "autor": "Novedades Quintana Roo"
+ },
+ {
+   "titulo": "Banco de Francia recorta su previsión del PIB trimestral",
+   "url": "https://www.eleconomista.com.mx/economia/Banco-de-Francia-recorta-su-prevision-del-PIB-trimestral-20181210-0059.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Querétaro, noveno en crecimiento del PIB en 2017: INEGI",
+   "url": "https://www.diariodequeretaro.com.mx/local/queretaro-noveno-en-crecimiento-del-pib-en-2017-inegi-2787188.html",
+   "autor": "Diario de Querétaro"
+ },
+ {
+   "titulo": "Arabia Saudita se sube al carro de la innovación basada en la IA",
+   "url": "https://www.wipo.int/wipo_magazine/es/2018/05/article_0002.html",
+   "autor": "OMPI Revista"
+ },
+ {
+   "titulo": "Creación de aplicaciones y emprendimiento social, entre otros: Sence lanza nueva plataforma de cursos online gratuitos",
+   "url": "https://www.publimetro.cl/cl/noticias/2018/12/11/creacion-aplicaciones-emprendimiento-social-otros-sence-lanza-nueva-plataforma-cursos-online-gratuitos.html",
+   "autor": "Publimetro"
+ },
+ {
+   "titulo": "Congreso de emprendimiento reunirá a jóvenes",
+   "url": "https://www.eltiempo.com.ec/noticias/cuenca/2/congreso-emprendimiento-reunira-jovenes",
+   "autor": "El Tiempo"
+ },
+ {
+   "titulo": "Sostenibilidad: Pyme dedicada al apoyo logístico es reconocida por su aporte a la sustentabilidad",
+   "url": "https://www.america-retail.com/sostenibilidad/sostenibilidad-pyme-dedicada-al-apoyo-logistico-es-reconocida-por-su-aporte-a-la-sustentabilidad/",
+   "autor": "América Retail"
+ },
+ {
+   "titulo": "Perú brinda oportunidades a emprendedores en sectores como minería, agro y pesca",
+   "url": "https://andina.pe/agencia/noticia-peru-brinda-oportunidades-a-emprendedores-sectores-como-mineria-agro-y-pesca-735665.aspx",
+   "autor": "Andina"
+ },
+ {
+   "titulo": "Emprendedores de éxito comparten sus experiencias",
+   "url": "https://www.diariosur.es/cronica-universitaria/emprendedores-exito-comparten-20181211000930-ntvo.html",
+   "autor": "Sur"
+ },
+ {
+   "titulo": "La transformación cultural, el factor necesario para la innovación digital",
+   "url": "https://gestion.pe/economia/management-empleo/transformacion-cultural-factor-necesario-innovacion-digital-252586",
+   "autor": "Gestión"
+ },
+ {
+   "titulo": "Tecnología china sigue liderando innovación",
+   "url": "http://elfinanciero.com.mx/opinion/mauricio-jalife/tecnologia-china-sigue-liderando-innovacion",
+   "autor": "El Financiero"
+ },
+ {
+   "titulo": "MasterCard podrá operar como cámara de compensación para pagos con tarjeta en México",
+   "url": "https://www.eleconomista.com.mx/sectorfinanciero/Autoriza-a-MasterCard-operar-como-camara-de-compensacion-en-Mexico-20181211-0054.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "La educación en ciencias y la innovación transforman las vidas de los jóvenes en el Brasil",
+   "url": "https://www.wipo.int/wipo_magazine/es/2018/05/article_0008.html",
+   "autor": "OMPI Revista"
+ },
+ {
+   "titulo": "Industrias Maxi, galardonada con el II Premio Pyme del Año de Valladolid 2018",
+   "url": "https://www.elnortedecastilla.es/economia/camara-valladolid-banco-20181211161926-nt.html",
+   "autor": "El Norte de Castilla"
+ },
+ {
+   "titulo": "EL 51.2% de la población del mundo ya utiliza internet",
+   "url": "http://www.radioequinoccio.com/inicio/item/8622-el-512-de-la-poblacion-del-mundo-ya-utiliza-internet.html",
+   "autor": "Radio Equinoccio"
+ },
+ {
+   "titulo": "Lo que Seth Godin quiere que sepas sobre marketing en 2019",
+   "url": "https://www.entrepreneur.com/article/324611",
+   "autor": "Entrepreneur"
+ },
+ {
+   "titulo": "El Marketing y los Negocios del Soccer en México",
+   "url": "https://www.merca20.com/el-marketing-y-los-negocios-del-soccer-en-mexico/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Marketing por e-mail, clave del éxito de Chestnut",
+   "url": "https://www.forbes.com.mx/marketing-por-e-mail-clave-del-exito-de-chestnut/",
+   "autor": "Forbes"
+ },
+ {
+   "titulo": "La 'startup' francesa L' Addition elige València para instalar su sede en España",
+   "url": "https://valenciaplaza.com/la-startup-francesa-l-addition-elige-valencia-para-instalar-su-sede-en-espana",
+   "autor": "Valencia Plaza"
+ },
+ {
+   "titulo": "Startups: las 6 ganadoras en la competencia final de las más innovadoras de América Latina",
+   "url": "https://www.iproup.com/startups/1459-creatividad-emprendedor-emprendimiento-Startups-las-6-ganadoras-en-la-competencia-final-de-las-mas-innovadoras-de-America-Latina",
+   "autor": "iProUp"
+ },
+ {
+   "titulo": "Nuevo León, tercera entidad que más aportó al PIB en 2017",
+   "url": "https://www.eleconomista.com.mx/estados/Nuevo-Leon-tercera-entidad-que-mas-aporto-al-PIB-en-2017-20181211-0060.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "La emprendedora que venció la crisis del huracán María en Puerto Rico",
+   "url": "https://www.entrepreneur.com/article/324760",
+   "autor": "Entrepreneur"
+ },
+ {
+   "titulo": "Animan a startups rebasar fronteras",
+   "url": "http://ntrzacatecas.com/2018/12/12/animan-a-startups-rebasar-fronteras/",
+   "autor": "NTR Zacatecas"
+ },
+ {
+   "titulo": "Guanajuato conquista el sector aeroespacial",
+   "url": "https://www.eloccidental.com.mx/guanajuato-conquista-el-sector-aeroespacial-2791155.html",
+   "autor": "El Occidental"
+ },
+ {
+   "titulo": "Invierte Cemex en startup de EU",
+   "url": "https://www.mural.com/aplicacioneslibre/preacceso/articulo/default.aspx?id=1561942&urlredirect=https://www.mural.com/aplicaciones/articulo/default.aspx?id=1561942",
+   "autor": "Mural"
+ },
+ {
+   "titulo": "Inteligencia artificial: IBM sale a conquistar a los expertos en marketing",
+   "url": "https://www.iproup.com/innovacion/1462-tecnologia-innovacion-de-la-tecnologia-deep-learning-Inteligencia-artificial-IBM-sale-a-conquistar-a-los-expertos-en-marketing",
+   "autor": "iProUp"
+ },
+ {
+   "titulo": "Marketing Digital: siete tips para establecer una marca en línea memorable",
+   "url": "https://www.america-retail.com/marketing-digital/marketing-digital-siete-tips-para-establecer-una-marca-en-linea-memorable/",
+   "autor": "America Retail"
+ },
+ {
+   "titulo": "Tips de Marketing digital para la temporada Decembrina",
+   "url": "https://www.merca20.com/tips-de-marketing-digital-decembrina/",
+   "autor": "Merca 2.0"
+ },
+ {
+   "titulo": "Estrategias de marketing, ¿impulsores o verdugos de la Liga MX Femenil?",
+   "url": "https://www.eleconomista.com.mx/deportes/Estrategias-de-marketing-impulsores-o-verdugos-de-la-Liga-MX-Femenil-20181210-0116.html",
+   "autor": "El Economista"
+ },
+ {
+   "titulo": "Así funciona la incubadora de negocios de Google",
+   "url": "https://www.iproup.com/innovacion/1476-gmail-realidad-virtual-plataforma-Asi-funciona-la-incubadora-de-negocios-de-Google",
+   "autor": "iProUp"
+ },
+ {
+   "titulo": "Mediapro Labs: la nueva incubadora de talento del grupo Mediapro",
+   "url": "https://www.panoramaaudiovisual.com/2018/12/12/mediapro-labs-nueva-incubadora-talento-mediapro/",
+   "autor": "Panorama Audiovisual"
+ },
+ {
+   "titulo": "El 67% de las scaleups europeas se ubican alrededor de una o dos ciudades por país",
+   "url": "https://www.efeemprende.com/noticia/scaleups-europea-concentradas-nueva-economia/",
+   "autor": "EFE Emprende"
+ },
+ {
+   "titulo": "La ‘startup’ Whyhotel recibe 10 millones de fondos de inversión",
+   "url": "https://www.preferente.com/noticias-de-hoteles/la-startup-whyhotel-recibe-10-millones-de-fondos-de-inversion-283428.html",
+   "autor": "Preferente"
+ },
+ {
+   "titulo": "El ‘venture capital’ deja retornos de hasta tres dígitos, asegura este fondo mexicano",
+   "url": "http://www.elfinanciero.com.mx/mercados/el-venture-capital-deja-retornos-de-hasta-tres-digitos-asegura-este-fondo-mexicano",
+   "autor": "El Financiero"
+ },
+ {
+   "titulo": "Los fondos de inversión apuestan por el sector de las franquicias en España",
+   "url": "https://www.eleconomista.es/empresas-finanzas/noticias/9577511/12/18/Los-fondos-de-inversion-apuestan-por-el-sector-de-las-franquicias-en-Espana.html",
+   "autor": "El Economista España"
+ },
+ {
+   "titulo": "¿Qué es la responsabilidad fiduciaria?",
+   "url": "https://www.dineroenimagen.com/tu-dinero/que-es-la-responsabilidad-fiduciaria/105452",
+   "autor": "Imagen Digital "
+ },
+ {
+   "titulo": "Honduras impulsa app para registro de micro y pequeñas empresas",
+   "url": "https://www.forbes.com.mx/honduras-impulsa-app-para-creacion-de-micro-y-pequenas-empresas/",
+   "autor": "Forbes"
+ },
+ {
+   "titulo": "Psicología de la Felicidad: ¿Cómo tener un desempeño excepcional en su empresa?",
+   "url": "https://www.dinero.com/management/multimedia/como-tener-el-mejor-desempeno-en-su-empresa-en-al-tablero/265257",
+   "autor": "Dinero"
+ }
+]
 }
